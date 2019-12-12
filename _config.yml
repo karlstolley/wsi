@@ -8,13 +8,13 @@ course:
   title: Web Systems Integration
   uid: wsi
   tagline: >
-    Write a course tagline in `_config.yml`
-  term: 2020
+    A project-based course on the integration of web applications, services, and infrastructure to
+    scale.
+  term: Spring 2020
   # Set `days: ""` (empty string) for weekly/asynchronous classes
-  days: 
+  days:
     - Monday
     - Wednesday
-    
   license:
     name: Creative Commons
     url: https://creativecommons.org/licenses/by/4.0/
