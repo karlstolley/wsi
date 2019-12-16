@@ -1,12 +1,14 @@
 ---
-title: Project Title
-due_date: &deadline 2020-05-25
+title: Web System Beta-Release Cycle
+due_date: &deadline 2020-04-16
 goals:
   - The first goal.
   - The second goal.
   - The third goal.
 requirements:
-  -
+  - >
+    Tag significant beta releases according to the [Semantic Versioning
+    specification](https://semver.org)
 deliverables:
   -
     action:
@@ -14,25 +16,13 @@ deliverables:
     details:
       -
     deadline: 2020-01-15
-  -
-    action:
+  - action: Post final deliverables to Basecamp.
     description: Thing one.
     details:
       -
-    deadline: 2020-01-15
-milestones:
-  -
-    action:
-    description: Thing one.
-    details:
-      -
-    deadline: 2020-01-15
-  -
-    action:
-    description: Thing one.
-    details:
-      -
-    deadline: 2020-01-15
+    deadline: *deadline
 ---
 
-The full project description goes here. You know how instructors love to go on and on.
+In this second of two six-week cycles, you and your team will push your system beyond its alpha
+stages to achieve greater stability and test coverage along with some kind of build pipeline and
+continuous-integration approach to produce a series of `0.x.x-beta.x` releases.
