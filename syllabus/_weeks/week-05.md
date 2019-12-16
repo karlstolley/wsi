@@ -1,6 +1,6 @@
 ---
 theme: Theme for Week Five
-meetings: 
+meetings:
   - agenda:
       -
     video:
@@ -10,5 +10,6 @@ meetings:
 readings:
   -
 tasks:
-  -
+  - <cite>Design It!</cite>, Ch. 17
+  - <cite>Release It!</cite>, Ch. 2–5
 ---

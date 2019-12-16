@@ -1,14 +1,12 @@
 ---
-theme: Theme for Week Fifteen
-meetings: 
+theme: Work Week
+meetings:
   - agenda:
       -
     video:
   - agenda:
       -
     video:
-readings:
-  -
 tasks:
   -
 ---

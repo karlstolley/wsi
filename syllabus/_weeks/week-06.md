@@ -1,6 +1,6 @@
 ---
 theme: Theme for Week Six
-meetings: 
+meetings:
   - agenda:
       -
     video:
@@ -8,7 +8,7 @@ meetings:
       -
     video:
 readings:
-  -
+  - <cite>Release It!</cite>, Ch. 6–8
 tasks:
   -
 ---

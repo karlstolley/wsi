@@ -1,6 +1,6 @@
 ---
 theme: Theme for Week Nine
-meetings: 
+meetings:
   - agenda:
       -
     video:
@@ -8,7 +8,7 @@ meetings:
       -
     video:
 readings:
-  -
+  - <cite>Release It!</cite>, Ch. 12–14
 tasks:
   -
 ---

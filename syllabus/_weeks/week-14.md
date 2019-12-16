@@ -1,14 +1,12 @@
 ---
 theme: Theme for Week Fourteen
-meetings: 
+meetings:
   - agenda:
       -
     video:
   - agenda:
       -
     video:
-readings:
-  -
 tasks:
   -
 ---

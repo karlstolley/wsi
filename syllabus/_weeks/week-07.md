@@ -1,6 +1,6 @@
 ---
 theme: Theme for Week Seven
-meetings: 
+meetings:
   - agenda:
       -
     video:
@@ -8,7 +8,7 @@ meetings:
       -
     video:
 readings:
-  -
+  - <cite>Release It!</cite>, Ch. 9–11
 tasks:
   -
 ---

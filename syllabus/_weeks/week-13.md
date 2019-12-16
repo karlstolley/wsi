@@ -1,14 +1,12 @@
 ---
 theme: Theme for Week Thirteen
-meetings: 
+meetings:
   - agenda:
       -
     video:
   - agenda:
       -
     video:
-readings:
-  -
 tasks:
   -
 ---
