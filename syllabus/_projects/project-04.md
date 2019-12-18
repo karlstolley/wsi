@@ -14,7 +14,7 @@ deliverables:
     description: Thing one.
     details:
       -
-    deadline: 2020-01-15
+    #deadline: 2020-01-15
   - action: Post final deliverables to Basecamp.
     description: Thing one.
     details:
