@@ -1,5 +1,5 @@
 ---
-theme: Theme for Week Four
+theme: Prototyping Loosely Coupled Systems
 meetings:
   - agenda:
       -
