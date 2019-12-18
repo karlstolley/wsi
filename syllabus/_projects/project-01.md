@@ -11,16 +11,22 @@ deliverables:
   - action: Post draft deliverables to Basecamp.
     description: "Your draft post should include:"
     details:
-      -
+      - >
+        Draft ideas of your Problem, Appetite, Solution, along with any clear Rabbit Holes and No
+        Goes
+      - >
+        Fat-marker sketches, diagrams, and illustrations
     deadline: 2020-01-19
   - action: Post final deliverables to Basecamp.
-    description: Thing one.
+    description: "Your final-deliverable post must include:"
     details:
-      -
+      - >
+        A written pitch, illustrated with fat-marker diagrams and sketches, outlining Problem,
+        Appetite, Solution, Rabbit Holes, and No Goes.
     deadline: *deadline
 ---
 
-For this project, you will apply the techniques and advice in [<cite>Shape
+For this project, you will apply the approach and techniques outlined in [<cite>Shape
 Up</cite>](https://basecamp.com/shapeup) to shape and pitch a web system that integrates with other
 systems that are part of a business, governmental, or non-profit organization. In other words, what
 you’re shaping is **not** a complete, self-contained application (Facebook, for a bad example) but a
