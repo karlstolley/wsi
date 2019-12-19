@@ -4,7 +4,7 @@ title: Course Objectives
 
 Students completing this course will learn to:
 
-* Problem-solve and create innovative answers to provide technology solutions for the problems o
+* Problem-solve and create innovative answers to provide technology solutions for the problems of
   business, industry, government, non-profit organizations, and individuals.
 * Perform requirements analyses, design, and administration of computer and network-based systems
   conforming to policy and best practices, and monitor and support continuing development of
