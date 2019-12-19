@@ -8,7 +8,7 @@ meetings:
       -
     video:
 readings:
-  - <cite>Release It!</cite>, Ch. 12–14
+  - <cite>Release It!</cite>, Ch. 6–8
 tasks:
   -
 ---
