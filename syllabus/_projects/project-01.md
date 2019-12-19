@@ -6,7 +6,9 @@ goals:
   - The second goal.
   - The third goal.
 requirements:
-  -
+  - >
+    Use [the two example pitches](https://basecamp.com/shapeup/1.5-chapter-06#examples) in
+    <cite>Shape Up</cite> to help guide your own work, especially at the draft stage
 deliverables:
   - action: Post draft deliverables to Basecamp.
     description: "Your draft post should include:"
@@ -45,7 +47,7 @@ and its public data API. It is not necessary (or even desirable) to determine th
 of those components at the shaping phase, although you absolutely must make sure a public data API
 is available to provide the supplemental data your system will ingest.
 
-**ITMD 467 students** will deliver a shaped X system.
+**ITMD 467 students** will deliver the pitch for a shaped X system.
 
 **ITMD 567 students** will research, invent, or discover some kind of business-oriented system and
 then deliver it as a shaped system and pitch.
