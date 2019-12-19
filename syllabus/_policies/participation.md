@@ -6,8 +6,8 @@ Your timely submission of work and active participation in the electronic discus
 are required both for your own success and for the success of the class as a whole. I do not
 squander students’ time with reading quizzes, but I do assign a lot of reading. And I expect you to
 be prepared to discuss that reading on Basecamp by quoting or making direct references to each
-week’s assigned reading. Additionally, you should be posting about your individual and group
-progress, questions, and challenges as you complete the course’s major projects.
+week’s assigned reading. Additionally, you should be posting to Basecamp about your individual and
+group progress, questions, and challenges as you complete the course’s major projects.
 
 Students intending to earn an A for Participation should be posting substantively on Basecamp five
 times or more per week, with contributions appearing multiple days per week, all semester long.
