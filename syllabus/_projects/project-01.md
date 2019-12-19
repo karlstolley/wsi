@@ -2,12 +2,16 @@
 title: Shaping a Web System
 due_date: &deadline 2020-01-23
 goals:
-  - The first goal.
-  - The second goal.
-  - The third goal.
+  - >
+    Improve your ability to use rough sketches and brief, clear writing to describe and pitch a
+    system design
+  - >
+    Increase your skill in writing in [GitHub-flavored Markdown
+    syntax](https://github.github.com/gfm/)
+  - Practice scoping and reducing a system to its core, essential components
 requirements:
   - >
-    Use [the two example pitches](https://basecamp.com/shapeup/1.5-chapter-06#examples) in
+    Refer to [the two example pitches](https://basecamp.com/shapeup/1.5-chapter-06#examples) in
     <cite>Shape Up</cite> to help guide your own work, especially at the draft stage
 deliverables:
   - action: Post draft deliverables to Basecamp.
