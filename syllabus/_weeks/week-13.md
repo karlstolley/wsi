@@ -1,14 +1,14 @@
 ---
-theme: Theme for Week Thirteen
+theme: Deployment I
 meetings:
   - agenda:
-      -
+      - TBD
     video:
   - agenda:
-      -
+      - TBD
     video:
 readings:
-  - <cite>Release It!</cite>, Ch. 15–17
+  - <cite>Release It!</cite>, Ch. 12–14
 tasks:
-  -
+  - TBD
 ---

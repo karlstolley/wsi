@@ -1,14 +1,14 @@
 ---
-theme: Theme for Week Seven
+theme: Shifting Towards Life in Production
 meetings:
   - agenda:
-      -
+      - TBD
     video:
   - agenda:
-      -
+      - TBD
     video:
 readings:
-  - <cite>Release It!</cite>, Ch. 2–5
+  - <cite>Release It!</cite>, (Preface, Ch. 1)
 tasks:
-  -
+  - TBD
 ---

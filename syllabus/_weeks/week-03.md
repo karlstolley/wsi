@@ -1,12 +1,11 @@
 ---
-theme: Development Environments in Team Settings
+theme: System Architecture and Patterns
 meetings:
   - agenda:
       - "Advanced basics: grooming a Git-centric development environment"
-      -
     video:
   - agenda:
-      -
+      - Determining architecturally significant system features
     video:
 readings:
   - "<cite>Design It!</cite>, Ch 5–7, 15"
