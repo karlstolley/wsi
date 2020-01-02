@@ -2,7 +2,8 @@
 title: Grading Criteria
 ---
 
-<h4>COM 425 Students</h4>
+<section class="ugrad" markdown="1">
+<h4>ITMD 467 Students</h4>
 
 * A - Student has turned in all required components of a project, the work is exceptional in
   quality, and reflects the student’s dedication to adjusting the project to his or her own
@@ -14,8 +15,10 @@ title: Grading Criteria
 * D - Student has turned in all required components of a project, but the work is below
   undergraduate level.
 * E - Student has not turned in all required components of a project.
+</section>
 
-<h4>COM 529 Students</h4>
+<section class="grad" markdown="1">
+<h4>ITMD 567 Students</h4>
 
 * A - Student has turned in all required components of a project, the work is exceptional in
   quality, and  reflects the student's dedication to adjusting the project to his or her own
@@ -25,3 +28,4 @@ title: Grading Criteria
 * C - Student has turned in all required components of a project, but the work is below graduate
   level.
 * E - Student has not turned in all required components of a project.
+</section>
