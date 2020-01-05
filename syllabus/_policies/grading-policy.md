@@ -2,7 +2,8 @@
 title: Grading Policy
 ---
 
-<h4>COM 425 Students</h4>
+<section class="ugrad" markdown="1">
+<h4>ITMD 467 Students</h4>
 
 - Project 1: 10 pts
 - Project 2: 15 pts
@@ -12,8 +13,10 @@ title: Grading Policy
 - TOTAL: 100 pts
 
 A = 90+ pts; B = 80-89 pts; C = 70-79 pts; D = 60-69 pts; E ≤ 59 pts
+</section>
 
-<h4>COM 529 Students</h4>
+<section class="grad" markdown="1">
+<h4>ITMD 567 Students</h4>
 
 - Project 1: 10 pts
 - Project 2: 10 pts
@@ -24,3 +27,4 @@ A = 90+ pts; B = 80-89 pts; C = 70-79 pts; D = 60-69 pts; E ≤ 59 pts
 - TOTAL: 100 pts
 
 A = 90+ pts; B = 80-89 pts; C = 70-79 pts; E ≤ 69 pts
+</section>
