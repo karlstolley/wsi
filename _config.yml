@@ -35,10 +35,10 @@ course:
       href: "#this-week" # Stock for policies, projects.
       id: cal # read this into SCSS somehow?
     - label: Basecamp
-      href: "https://3.basecamp.com/3058761/projects/8576268"
+      href: "https://3.basecamp.com/3058761/projects/15132442"
       id: bcp
     - label: Demos
-      href: "https://github.com/itmd-362-2019"
+      href: "https://github.com/itmd-x67-2020"
       id: dmo
     - label: Projects
       href: "projects/#current" # Stock for policies, projects.
