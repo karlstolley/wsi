@@ -36,7 +36,7 @@ h2 {
 }
 h4 {
   font-variant-caps: small-caps;
-  font-feature-settings: "smcp";
+  font-feature-settings: "smcp", "c2sc", "pnum";
   text-transform: lowercase;
 }
 
@@ -51,7 +51,10 @@ code {
   font-size: 0.85em;
 }
 
-p { padding-bottom: $base-line; }
+p,li {
+  padding-bottom: $base-line;
+  hyphens: auto;
+}
 
 li {
   padding-bottom: $base-line / 2;
