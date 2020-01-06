@@ -1,5 +1,6 @@
 ---
 title: Web System Alpha-Release Cycle
+preview: true
 due_date: &deadline 2020-03-05
 goals:
   - The first goal.

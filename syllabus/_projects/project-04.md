@@ -1,6 +1,7 @@
 ---
 title: Web System Public-Release Sprint
 due_date: &deadline 2020-05-07
+preview: true
 goals:
   - The first goal.
   - The second goal.

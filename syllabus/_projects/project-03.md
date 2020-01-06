@@ -1,6 +1,7 @@
 ---
 title: Web System Beta-Release Cycle
 due_date: &deadline 2020-04-16
+preview: true
 goals:
   - The first goal.
   - The second goal.
