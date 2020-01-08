@@ -30,18 +30,37 @@ body {
 h1,h2,h3,h4,h5,h6 {
   font-weight: bold;
 }
+h1 small,
+h1 b {
+  display: block;
+  font-weight: normal;
+}
 h2 {
-  font-size: $base-size * $mod-scale;
+  font-family: "moderno-fb-compressed";
+  font-weight: 600;
+  font-size: $base-size * $mod-scale * $mod-scale * $mod-scale;
   line-height: $base-line * 2;
 }
-h4 {
-  font-variant-caps: small-caps;
-  font-feature-settings: "smcp", "c2sc", "pnum";
-  text-transform: lowercase;
+@media screen and (min-width: 620px) {
+  h2 {
+    font-family: "moderno-fb-condensed";
+    font-weight: 700;
+  }
 }
-
+h3 {
+  text-transform: uppercase;
+}
+.agenda h3,
+#footer h3 {
+  text-transform: none;
+  font-weight: 500;
+}
 b, strong {
   font-weight: bold;
+}
+#content b,
+#content strong {
+  font-weight: 500;
 }
 cite, em, i {
   font-style: italic;
@@ -53,6 +72,7 @@ code {
 
 p,li {
   padding-bottom: $base-line;
+  -webkit-hyphens: auto;
   hyphens: auto;
 }
 
@@ -118,6 +138,10 @@ ol > li::before {
   width: 1em;
 }
 
+.access {
+  position: absolute;
+  left: -10000px;
+}
 
 @supports (text-decoration-color: red) {
   a {
