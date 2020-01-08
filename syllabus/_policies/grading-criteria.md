@@ -3,7 +3,7 @@ title: Grading Criteria
 ---
 
 <section class="ugrad" markdown="1">
-<h4>ITMD 467 Students</h4>
+<h3>ITMD 467 Students</h3>
 
 * A - Student has turned in all required components of a project, the work is exceptional in
   quality, and reflects the student’s dedication to adjusting the project to his or her own
@@ -18,7 +18,7 @@ title: Grading Criteria
 </section>
 
 <section class="grad" markdown="1">
-<h4>ITMD 567 Students</h4>
+<h3>ITMD 567 Students</h3>
 
 * A - Student has turned in all required components of a project, the work is exceptional in
   quality, and  reflects the student's dedication to adjusting the project to his or her own

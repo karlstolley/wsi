@@ -3,7 +3,7 @@ title: Grading Policy
 ---
 
 <section class="ugrad" markdown="1">
-<h4>ITMD 467 Students</h4>
+<h3>ITMD 467 Students</h3>
 
 - Project 1: 10 pts
 - Project 2: 15 pts
@@ -16,7 +16,7 @@ A = 90+ pts; B = 80-89 pts; C = 70-79 pts; D = 60-69 pts; E ≤ 59 pts
 </section>
 
 <section class="grad" markdown="1">
-<h4>ITMD 567 Students</h4>
+<h3>ITMD 567 Students</h3>
 
 - Project 1: 10 pts
 - Project 2: 10 pts

@@ -2,7 +2,7 @@
 title: Materials
 ---
 
-<h4>Required</h4>
+<h3>Required</h3>
 - A blank, bound sketchbook of 100 pages or more
 - A wide-tipped black marker, like a Sharpie
 - An email account that you check daily
@@ -17,7 +17,7 @@ title: Materials
   - Firefox Developer Edition (free)
   - Git (free)
 
-<h4>Recommended</h4>
+<h3>Recommended</h3>
 - A tablet with a pencil/stylus, running a fully featured drawing or illustration program
 - Wide-tipped markers in a variety of colors (shopping hint: try a search for “professional art
   markers” on Amazon)

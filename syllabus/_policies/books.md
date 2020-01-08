@@ -2,7 +2,7 @@
 title: Books
 ---
 
-<h4>Required</h4>
+<h3>Required</h3>
 
 - Keeling, Michael. <cite>Design It! From Programmer to Software Architect</cite>. Dallas, TX:
   Pragmatic Bookshelf, 2017. $27 (eBook), ISBN 9781680502091
