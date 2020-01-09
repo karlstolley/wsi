@@ -148,6 +148,28 @@ ul li::before {
   left: $base-line * 0.3;
   top: -($base-line * 0.065);
 }
+#quick-nav .nav {
+  display: flex;
+  justify-content: space-between;
+}
+#nav-con::before {
+  content: ""
+}
+#nav-con a {
+  text-decoration: none;
+}
+.nav a {
+  display: block;
+}
+.nav li::before {
+  content: "□";
+}
+.nav li:hover::before,
+#calendar #nav-cal::before,
+#policies #nav-pol::before,
+#projects #nav-pro::before {
+  content: "■";
+}
 ol, .with::before {
   list-style-type: none;
   counter-reset: enumerated;
