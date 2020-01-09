@@ -11,16 +11,8 @@ html {
   font-family: Parka, serif;
   font-size: 19px;
 }
-
 body {
-  padding: $base-line * 1.5;
   line-height: $base-line;
-}
-
-@media screen and (min-width: 700px) {
-  body {
-    padding: 10%;
-  }
 }
 @media (min-resolution: 192dpi) {
   html {
@@ -67,6 +59,32 @@ h3 {
 #content article {
   padding-bottom: $base-line * 3;
 }
+
+#header {
+  color: #777;
+  padding: $base-line * 0.5;
+}
+#header .nav {
+  color: #111;
+  padding-left: $base-line;
+  padding-right: $base-line;
+}
+#header p {
+  min-height: $base-line * 4;
+  padding-left: $base-line;
+  padding-top: $base-line * 0.5;
+}
+#content,
+#footer {
+  padding-left: $base-line * 1.5;
+  padding-right: $base-line * 1.5;
+}
+#footer {
+  color: #777;
+}
+
+
+
 b, strong {
   font-weight: bold;
 }
