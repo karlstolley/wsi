@@ -83,7 +83,21 @@ h3 {
   color: #777;
 }
 
-
+.week {
+  display: grid;
+  grid-template-columns: .5fr 1fr 2fr;
+  grid-column-gap: $base-line * 1.5;
+}
+.week header {
+  grid-column: 1 / 4;
+}
+.week .agenda {
+  grid-column: 2 / 3;
+}
+.week .assigned {
+  grid-column: 3 / 4;
+  grid-row: 3 / 5;
+}
 
 b, strong {
   font-weight: bold;
