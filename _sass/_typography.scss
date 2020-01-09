@@ -55,6 +55,18 @@ h3 {
   text-transform: none;
   font-weight: 500;
 }
+#content header {
+  padding-bottom: $base-line;
+}
+#content header small {
+  color: #0CD;
+  display: block;
+  font-weight: 500;
+  padding-top: $base-line * 0.25;
+}
+#content article {
+  padding-bottom: $base-line * 3;
+}
 b, strong {
   font-weight: bold;
 }
