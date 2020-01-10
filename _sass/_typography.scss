@@ -83,20 +83,27 @@ h3 {
   color: #777;
 }
 
-.week {
-  display: grid;
-  grid-template-columns: .5fr 1fr 2fr;
-  grid-column-gap: $base-line * 1.5;
-}
-.week header {
-  grid-column: 1 / 4;
-}
-.week .agenda {
-  grid-column: 2 / 3;
-}
-.week .assigned {
-  grid-column: 3 / 4;
-  grid-row: 3 / 5;
+@media screen and (min-width: 690px) {
+  .week {
+    display: grid;
+    grid-template-columns: .5fr 1fr 2fr;
+    grid-template-rows: auto minmax(($base-line * 3.25), max-content);
+    grid-column-gap: $base-line * 1.5;
+  }
+  .week header {
+    grid-column: 1 / 4;
+  }
+  .week .agenda {
+    grid-column: 2 / 3;
+    grid-row-start: 3;
+  }
+  .week .agenda + .agenda {
+    grid-row-start: 4;
+  }
+  .week .assigned {
+    grid-column: 3 / 4;
+    grid-row: 2 / 7;
+  }
 }
 
 b, strong {
