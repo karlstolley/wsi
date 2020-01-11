@@ -26,4 +26,4 @@ deliverables:
 
 In this second of two six-week cycles, you and your team will push your system beyond its alpha
 stages to achieve greater stability and test coverage along with some kind of build pipeline and
-continuous-integration approach to produce a series of `0.x.x-beta.x` releases.
+continuous-integration approach to produce and deploy a series of `0.x.x-beta.x` releases.
