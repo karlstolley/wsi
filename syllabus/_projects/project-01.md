@@ -59,8 +59,14 @@ and its public data API. It is not necessary (or even desirable) to determine th
 of those components at the shaping phase, although you absolutely must make sure a public data API
 is available to provide the supplemental data your system will ingest.
 
-**ITMD 467 students** will deliver the pitch for a shaped customer-support ticketing system that
-brings in customer and employee information from a company database via an internal data API.
+**ITMD 467 students** will deliver the pitch for a shaped system for Chicago residents to submit
+complaints to their correct ward alderman, drawing on data from the [City of Chicago Data
+Portal](https://data.cityofchicago.org/) to determine a resident’s alderman, and perhaps to enhance
+the contents of complaint data. For example, a complaint about rats might reference or include data
+from the city's [rodent
+baiting](https://data.cityofchicago.org/Service-Requests/311-Service-Requests-Rodent-Baiting-Historical/97t6-zrhs)
+dataset. Your system will need to deliver its own database for tracking residents and their
+complaints, and the alderman's response to or resolution of the complaint.
 
 **ITMD 567 students** will research, invent, or discover some kind of business-oriented system and
 then deliver it as a shaped system and pitch.
