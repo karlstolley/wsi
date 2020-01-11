@@ -17,6 +17,6 @@ Students will also learn to practice chaos engineering, where systems are not on
 but actively and intentionally stressed, attacked, and misused to expose additional points of
 failure, ranging from clueless users to straight-up bad actors. Finally, students will immerse
 themselves in some of the core values of the class: appropriately scoped features, progressive
-enhancement, granular commits, rigorous code reviews, automated builds, continuous
-integration/continuous deployment, accurate code-adjacent documentation, and a healthy suspicion and
-pessimistic view of frameworks, libraries, and other dependencies in production.
+enhancement, granular commits, semantic versioning, rigorous code reviews, automated builds,
+continuous integration/continuous deployment, accurate code-adjacent documentation, and a healthy
+suspicion and pessimistic view of frameworks, libraries, and other dependencies in production.
