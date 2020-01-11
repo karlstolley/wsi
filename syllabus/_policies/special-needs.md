@@ -22,7 +22,8 @@ stressful and at times completely overwhelming. All of us, no matter how outward
 successful, or put-together we might appear, struggle sometimes. Illinois Tech provides all students
 with a variety of free counseling services. I encourage all students to seek support and help from
 the [Counseling Services](https://web.iit.edu/shwc/services/counseling-services) unit of the Student
-Health and Wellness Center. Students facing a crisis situation may wish to call the [National
-Suicide Prevention Lifeline](https://suicidepreventionlifeline.org/) at 1-800-273-8255. The Student
-Health and Wellness Center maintains [a list of other emergency
+Health and Wellness Center. Students facing a crisis situation, especially outside of the Counseling
+Services unit’s operating hours, may wish to call the [National Suicide Prevention
+Lifeline](https://suicidepreventionlifeline.org/) at 1-800-273-8255. The Student Health and Wellness
+Center maintains [a list of other emergency
 resources](https://web.iit.edu/shwc/services/crisis-services/emergency-resources) worth bookmarking.
