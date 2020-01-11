@@ -84,12 +84,18 @@ h3 {
 }
 
 @media screen and (min-width: 690px) {
+  .policy,
+  .project,
   .week {
     display: grid;
     grid-template-columns: .5fr 1fr 2fr;
-    grid-template-rows: auto minmax(($base-line * 3.25), max-content);
     grid-column-gap: $base-line * 1.5;
   }
+  .week {
+    grid-template-rows: auto minmax(($base-line * 3.25), max-content);
+  }
+  .policy header,
+  .project header,
   .week header {
     grid-column: 1 / 4;
   }
@@ -99,6 +105,29 @@ h3 {
   }
   .week .agenda + .agenda {
     grid-row-start: 4;
+  }
+  .policy > * {
+    grid-column: 2 / 4;
+  }
+  .project > * {
+    grid-column: 3 / 4;
+  }
+  .project .deliverables,
+  .project .requirements {
+    grid-column: 1 / 3;
+  }
+  .project .deliverables {
+    grid-row-start: 3;
+  }
+  .project .requirements {
+    grid-row-start: 4;
+  }
+  .project .goals {
+    grid-column: 3 / 4;
+  }
+  .project .description {
+    grid-column: 3 / 4;
+    grid-row: 2 / 6;
   }
   .week .assigned {
     grid-column: 3 / 4;
