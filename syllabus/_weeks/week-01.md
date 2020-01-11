@@ -12,8 +12,8 @@ meetings:
       - Fat-marker sketches
     video:
 readings:
-  - <cite>Design It!</cite>, (Foreword, Welcome; Ch. 1–2); Ch. 3–4, 14
-  - "[<cite>Shape Up</cite>](https://basecamp.com/shapeup), (Ch. 1); Ch. 2–6"
+  - <cite>Design It!</cite>, Foreword, Welcome; Ch. 1–4, 14
+  - "[<cite>Shape Up</cite>](https://basecamp.com/shapeup), Ch. 1–6"
 tasks:
   - >
     As soon as possible: Submit ITMD 467/567 Contract and Survey (link in your @hawk.iit.edu inbox;
