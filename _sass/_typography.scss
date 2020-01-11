@@ -5,11 +5,16 @@ $base-line-px: 24;
 $base-size: ($base-size-px / 16) * 100%;
 $base-line: ($base-line-px / $base-size-px) * 1rem;
 $mod-scale: 1.25;
+$text-color: #222;
+$back-color: #F2F2F2;
+$spot-color: #900;
 
 html {
   -webkit-text-size-adjust: none;
   font-family: Parka, serif;
   font-size: 19px;
+  color: $text-color;
+  background: $back-color;
 }
 body {
   line-height: $base-line;
@@ -51,7 +56,7 @@ h3 {
   padding-bottom: $base-line;
 }
 #content header small {
-  color: #0CD;
+  color: $spot-color;
   display: block;
   font-weight: 500;
   padding-top: $base-line * 0.25;
@@ -60,28 +65,50 @@ h3 {
   padding-bottom: $base-line * 3;
 }
 
-#header {
+#header,
+#footer {
   color: #777;
+}
+#header {
   padding: $base-line * 0.5;
 }
 #header .nav {
-  color: #111;
-  padding-left: $base-line;
-  padding-right: $base-line;
+  color: $text-color;
 }
 #header p {
   min-height: $base-line * 4;
-  padding-left: $base-line;
   padding-top: $base-line * 0.5;
 }
+#header,
 #content,
 #footer {
   padding-left: $base-line * 1.5;
   padding-right: $base-line * 1.5;
 }
-#footer {
-  color: #777;
+
+@media screen and (min-width: 855px) {
+  #header,
+  #content,
+  #footer {
+    padding: ($base-line * 1.5) 10%;
+  }
+  h2 {
+    font-size: $base-size * $mod-scale * $mod-scale * $mod-scale * $mod-scale;
+    line-height: $base-line * 2.5;
+  }
 }
+@media screen and (min-width: 1100px) {
+  #header,
+  #content,
+  #footer {
+    padding: ($base-line * 3) 20% ($base-line * 1.5) 20%;
+  }
+  h2 {
+    font-size: $base-size * $mod-scale * $mod-scale * $mod-scale * $mod-scale * $mod-scale;
+    line-height: $base-line * 3;
+  }
+}
+
 
 @media screen and (min-width: 690px) {
   .policy,
@@ -192,7 +219,7 @@ ul li, .with::before {
   margin-left: -($base-line);
 }
 ul li::before {
-  color: #0CD;
+  color: $spot-color;
   content: "■";
   position: absolute;
   left: $base-line * 0.3;
@@ -231,7 +258,7 @@ ol > li, .with::before {
   counter-increment: enumerated;
 }
 ol > li::before {
-  color: #0CD;
+  color: $spot-color;
   font-weight: bold;
   content: counter(enumerated) "";
   position: absolute;
@@ -245,10 +272,17 @@ ol > li::before {
   left: -10000px;
 }
 
+a {
+  color: $spot-color;
+}
+#header h1 a {
+  color: $spot-color;
+  text-decoration: none;
+}
 @supports (text-decoration-color: red) {
   a {
     color: inherit;
-    text-decoration-color: #0CD;
+    text-decoration-color: $spot-color;
   }
 }
 
