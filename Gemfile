@@ -1,3 +1,3 @@
 source "https://rubygems.org"
 
-gem "jekyll-theme-open-course", github: "karlstolley/jekyll-theme-open-course"
+gem "jekyll-theme-open-course", git: "https://github.com/karlstolley/jekyll-theme-open-course.git"
