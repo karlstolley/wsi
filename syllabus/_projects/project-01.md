@@ -18,17 +18,25 @@ deliverables:
     description: "Your draft post should include:"
     details:
       - >
-        Draft ideas of your Problem, Appetite, Solution, along with any clear Rabbit Holes and No
-        Goes
+        Your name and Project Pitch as the post title (e.g., `Scarlet Hawk: Project Pitch`)
       - >
-        Fat-marker sketches, diagrams, and illustrations
+        A link to a GitHub Gist with ideas of your Problem, Appetite, Solution, along with any clear
+        Rabbit Holes and No Goes
+      - >
+        Fat-marker sketches, diagrams, and illustrations embedded in your GitHub Gist.
+      - >
+        Specific requests for feedback from the instructor and peers. Write this in the body of your
+        Basecamp post
     deadline: 2020-01-19
   - action: Post final deliverables to Basecamp.
     description: "Your final-deliverable post must include:"
     details:
       - >
-        A written pitch, illustrated with fat-marker diagrams and sketches, outlining Problem,
-        Appetite, Solution, Rabbit Holes, and No Goes.
+        A link to a GitHub Gist of your written pitch, illustrated with fat-marker diagrams and
+        sketches, outlining Problem, Appetite, Solution, Rabbit Holes, and No Goes.
+      - >
+        A self-assessment, written in the text of the Basecamp post, of 250 words or so of your work
+        on this project and your degree of confidence and satisfaction with your final pitch.
     deadline: *deadline
 ---
 
@@ -51,7 +59,8 @@ and its public data API. It is not necessary (or even desirable) to determine th
 of those components at the shaping phase, although you absolutely must make sure a public data API
 is available to provide the supplemental data your system will ingest.
 
-**ITMD 467 students** will deliver the pitch for a shaped X system.
+**ITMD 467 students** will deliver the pitch for a shaped customer-support ticketing system that
+brings in customer and employee information from a company database via an internal data API.
 
 **ITMD 567 students** will research, invent, or discover some kind of business-oriented system and
 then deliver it as a shaped system and pitch.
