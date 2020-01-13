@@ -38,7 +38,8 @@ h2 {
   font-size: $base-size * $mod-scale * $mod-scale * $mod-scale;
   line-height: $base-line * 2;
 }
-@media screen and (min-width: 620px) {
+/* ~ 620px */
+@media screen and (min-width: 38.75em) {
   h2 {
     font-family: "moderno-fb-condensed";
     font-weight: 700;
@@ -86,7 +87,8 @@ h3 {
   padding-right: $base-line * 1.5;
 }
 
-@media screen and (min-width: 855px) {
+/* ~ 855px */
+@media screen and (min-width: 53.4375em) {
   #header,
   #content,
   #footer {
@@ -97,7 +99,9 @@ h3 {
     line-height: $base-line * 2.5;
   }
 }
-@media screen and (min-width: 1100px) {
+
+/* ~ 1100px */
+@media screen and (min-width: 68.75em) {
   #header,
   #content,
   #footer {
@@ -109,8 +113,8 @@ h3 {
   }
 }
 
-
-@media screen and (min-width: 690px) {
+/* ~ 690px */
+@media screen and (min-width: 43.125em) {
   .policy,
   .project,
   .week {
