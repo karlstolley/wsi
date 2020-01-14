@@ -15,4 +15,5 @@ readings:
   - "[<cite>Shape Up</cite>](https://basecamp.com/shapeup), Ch. 7–8"
 tasks:
   - Read through and respond to all other students’ project work (draft and final)
+  - Participate in Week One/Two reading discussion on Basecamp
 ---

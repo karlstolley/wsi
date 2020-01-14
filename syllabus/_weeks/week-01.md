@@ -21,4 +21,5 @@ tasks:
   - >
     As soon as possible: Create Basecamp account (invite will arrive sometime after you submit the
     Contract and Survey)
+  - Participate in Week One/Two reading discussion on Basecamp
 ---
