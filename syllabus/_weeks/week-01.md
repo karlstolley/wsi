@@ -5,7 +5,7 @@ meetings:
       - Welcome & introductions
       - Course policies
       - Course calendar
-    video:
+    video: https://youtu.be/6NLXIqA7a3Q
   - agenda:
       - Introduce [Project One](projects/#project-one)
       - Lo-fi prototyping and shaping
