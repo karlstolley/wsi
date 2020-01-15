@@ -2,13 +2,13 @@
 theme: System-Design Fundamentals and Strategies
 meetings:
   - agenda:
+      - <b>No class.</b> Martin Luther King, Jr. holiday.
+    video:
+  - agenda:
       - Refining your systems-design thinking
       - Determining architecturally significant requirements
       - Establishing project boundaries
       - Arriving at narrowly defined problems
-    video:
-  - agenda:
-      - No class. Individual Project One remote consultations with instructor.
     video:
 readings:
   - <cite>Design It!</cite>, Ch. 9

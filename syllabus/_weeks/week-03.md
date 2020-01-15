@@ -2,9 +2,10 @@
 theme: System Architecture and Patterns
 meetings:
   - agenda:
-      - "Advanced basics: grooming a Git-centric development environment"
+      - <b>No class.</b> Individual Project One remote consultations with instructor.
     video:
   - agenda:
+      - "Advanced basics: grooming a Git-centric development environment"
       - Determining architecturally significant system features
     video:
 readings:
