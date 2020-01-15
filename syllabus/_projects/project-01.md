@@ -28,6 +28,8 @@ deliverables:
         Specific requests for feedback from the instructor and peers. Write this in the body of your
         Basecamp post
     deadline: 2020-01-19
+  - action: Respond to at least 3 of your peers' Draft Projects
+    deadline: 2020-01-22
   - action: Post final deliverables to Basecamp.
     description: "Your final-deliverable post must include:"
     details:
