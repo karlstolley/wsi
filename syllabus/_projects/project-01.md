@@ -52,7 +52,7 @@ communication, issue tracking, customer support, ticket- or seat-booking, and so
 
 The system you shape will have two core public components: a web-based user interface for managing
 and interacting with the system itself, and a data API for integrating with other systems within
-(and potentially outside) and organization.
+(and potentially outside) an organization.
 
 Internally, your system will have or rely upon at least three components: a structured data store,
 consumption of a free (if rate-limited) relevant API providing supplemental data, and a server-side
