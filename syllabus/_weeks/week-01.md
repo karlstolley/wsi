@@ -10,7 +10,7 @@ meetings:
       - Introduce [Project One](projects/#project-one)
       - Lo-fi prototyping and shaping
       - Fat-marker sketches
-    video:
+    video: https://youtu.be/Z9Jlhwb3Gt0
 readings:
   - <cite>Design It!</cite>, Foreword, Welcome; Ch. 1–4, 14
   - "[<cite>Shape Up</cite>](https://basecamp.com/shapeup), Ch. 1–6"
