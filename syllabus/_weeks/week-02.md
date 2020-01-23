@@ -9,7 +9,7 @@ meetings:
       - Determining architecturally significant requirements
       - Establishing project boundaries
       - Arriving at narrowly defined problems
-    video:
+    video: https://youtu.be/0xHfqMHhTvo
 readings:
   - <cite>Design It!</cite>, Ch. 9
   - "[<cite>Shape Up</cite>](https://basecamp.com/shapeup), Ch. 7–8"
