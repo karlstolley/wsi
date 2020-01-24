@@ -1,6 +1,6 @@
 ---
 title: Shaping a Web System
-due_date: &deadline 2020-01-26
+due_date: &deadline 2020-01-28
 goals:
   - >
     Improve your ability to use rough sketches and brief, clear writing to describe and pitch a
