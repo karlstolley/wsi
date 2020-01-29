@@ -5,8 +5,8 @@ meetings:
       - <b>No class.</b> Individual Project One remote consultations with instructor.
     video:
   - agenda:
-      - "Advanced basics: grooming a Git-centric development environment"
-      - Determining architecturally significant system features
+      - "Introduce [Project Two](project/#project-two)"
+      - Determining architecturally significant system features via frontend prototyping
     video:
 readings:
   - "<cite>Design It!</cite>, Ch 5–7, 15"

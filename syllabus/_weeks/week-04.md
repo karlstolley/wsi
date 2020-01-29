@@ -2,7 +2,7 @@
 theme: Dev Teams as Design Studios
 meetings:
   - agenda:
-      - TBD
+      - "Advanced basics: grooming a Git-centric development environment"
     video:
   - agenda:
       - TBD
