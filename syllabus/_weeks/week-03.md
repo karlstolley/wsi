@@ -5,7 +5,7 @@ meetings:
       - <b>No class.</b> Individual Project One remote consultations with instructor.
     video:
   - agenda:
-      - "Introduce [Project Two](project/#project-two)"
+      - "Introduce [Project Two](projects/#project-two)"
       - Determining architecturally significant system features via frontend prototyping
     video:
 readings:
