@@ -1,8 +1,9 @@
 ---
-theme: Dev Teams as Design Studios
+theme: System Architecture and Patterns; Dev Teams as Design Studios
 meetings:
   - agenda:
       - "Advanced basics: grooming a Git-centric development environment"
+      - Determining architecturally significant system features via frontend prototyping
     video:
   - agenda:
       - TBD
