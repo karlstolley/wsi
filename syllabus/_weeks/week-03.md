@@ -6,7 +6,7 @@ meetings:
     video:
   - agenda:
       - "Introduce [Project Two](projects/#project-two)"
-    video:
+    video: https://youtu.be/SrZoEBd1_8E
 readings:
   - "<cite>Design It!</cite>, Ch 5–7, 15"
   - "[<cite>Shape Up</cite>](https://basecamp.com/shapeup), Ch. 9–12"
