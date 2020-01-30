@@ -87,7 +87,7 @@ requirements:
     delivery, or continuous deployment method to safeguard and automate your deployment.
   - >
     Once deployed, your system **must** be monitored by some type of lightweight monitoring software
-    or process manager, such as [PM2](https://github.com/garris/BackstopJS). Ideally, monitoring
+    or process manager, such as [PM2](https://pm2.keymetrics.io/). Ideally, monitoring
     will be integrated to the extent possible with your deployment automation.
   - >
     Finally, like any temperamental client or manager, your instructor **may** amend, alter, or
