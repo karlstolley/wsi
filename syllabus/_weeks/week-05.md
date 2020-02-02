@@ -2,10 +2,11 @@
 theme: Describing and Illustrating System Architectures
 meetings:
   - agenda:
-      - TBD
+      - Establishing component system parts
+      - Beginning to write tests
     video:
   - agenda:
-      - TBD
+      - Auditioning candidate components
     video:
 readings:
   - <cite>Design It!</cite>, Ch. 11–13, 17
