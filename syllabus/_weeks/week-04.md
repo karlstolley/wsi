@@ -5,7 +5,7 @@ meetings:
       - "Advanced basics: grooming a Git-centric development environment"
       - Determining architecturally significant system features via frontend prototyping
       - Visual regression testing with [BackstopJS](https://garris.github.io/BackstopJS/)
-    video:
+    video: https://youtu.be/HQRMytDhhio
   - agenda:
       - From frontend prototype to backend framework (ExpressJS/NodeJS example)
     video:
