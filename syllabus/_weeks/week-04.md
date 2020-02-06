@@ -8,7 +8,7 @@ meetings:
     video: https://youtu.be/HQRMytDhhio
   - agenda:
       - From frontend prototype to backend framework (ExpressJS/NodeJS example)
-    video:
+    video: https://youtu.be/0eRvFEqrdWs
 readings:
   - "<cite>Design It!</cite>, Ch 8–10, 16"
   - "[<cite>Shape Up</cite>](https://basecamp.com/shapeup), Ch. 13–14, Conclusion"
