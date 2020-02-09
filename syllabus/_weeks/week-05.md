@@ -2,10 +2,12 @@
 theme: Describing and Illustrating System Architectures
 meetings:
   - agenda:
-      - Establishing component system parts
-      - Beginning to write tests
+      - Comparatively exploring and developing in a new framework (ExpressJS example)
+      - Establishing and seeking loosely coupled component system parts
     video:
   - agenda:
+      - From frontend prototype to backend framework (ExpressJS/NodeJS example)
+      - Beginning to write tests
       - Auditioning candidate components
     video:
 readings:

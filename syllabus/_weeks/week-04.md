@@ -7,7 +7,8 @@ meetings:
       - Visual regression testing with [BackstopJS](https://garris.github.io/BackstopJS/)
     video: https://youtu.be/HQRMytDhhio
   - agenda:
-      - From frontend prototype to backend framework (ExpressJS/NodeJS example)
+      - More front-end prototyping
+      - Abbreviated tour of an example framework (Ruby on Rails)
     video: https://youtu.be/0eRvFEqrdWs
 readings:
   - "<cite>Design It!</cite>, Ch 8–10, 16"
