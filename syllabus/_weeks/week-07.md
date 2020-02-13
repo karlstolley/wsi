@@ -2,7 +2,8 @@
 theme: Shifting Towards Life in Production
 meetings:
   - agenda:
-      - TBD
+      - Testing dependencies
+      - Aiming eventually to remove dependencies
     video:
   - agenda:
       - TBD

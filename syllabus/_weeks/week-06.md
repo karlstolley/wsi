@@ -5,10 +5,10 @@ meetings:
       - <b>No class.</b> Remote team consultations with instructor.
     video:
   - agenda:
-      - "Framework selection: starting from No"
-      - Tracking dependencies (manifests, semantic versioning)
-      - Testing of dependencies
-      - Aiming eventually to remove dependencies
+      - Request/response and I/O
+      - Working with data (synchronous and asynchronous JS)
+      - Isolating business logic
+      - Beginning to write tests
     video:
 readings:
   - CatOnMat.net, [Frameworks don’t make any sense](https://catonmat.net/frameworks-dont-make-sense)
