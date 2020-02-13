@@ -11,7 +11,7 @@ meetings:
       - From frontend prototype to backend framework (ExpressJS/NodeJS example)
       - Establishing and seeking loosely-coupled component parts for a system
       - Auditioning candidate components
-    video:
+    video: https://youtu.be/CjHLzqHvaOw
 readings:
   - <cite>Design It!</cite>, Ch. 11–13, 17
 tasks:
