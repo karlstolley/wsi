@@ -5,7 +5,8 @@ meetings:
       - <b>No class.</b> Remote team consultations with instructor.
     video:
   - agenda:
-      - "Refresher: Git remotes and pull requests"
+      - "Refresher: Git remotes and pull requests; enforcing code reviews"
+      - Working on feature branches; keeping up-to-date with `git rebase`
       - Request/response and I/O
       - Working with data (synchronous and asynchronous JS)
       - Isolating business logic
