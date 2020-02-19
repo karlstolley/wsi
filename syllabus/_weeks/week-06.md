@@ -11,7 +11,7 @@ meetings:
       - Working with data (synchronous and asynchronous JS)
       - Isolating business logic
       - Beginning to write tests
-    video:
+    video: https://youtu.be/Q3aw8TvtNyQ
 readings:
   - CatOnMat.net, [Frameworks don’t make any sense](https://catonmat.net/frameworks-dont-make-sense)
   - TheNewStack.io [To reduce tech debt, eliminate dependencies (and refactoring)](https://thenewstack.io/to-reduce-tech-debt-eliminate-dependencies-and-refactoring/)
