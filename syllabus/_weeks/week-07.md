@@ -2,11 +2,16 @@
 theme: Shifting Towards Life in Production
 meetings:
   - agenda:
-      - Testing dependencies
-      - Aiming eventually to remove dependencies
+      - Request/response and I/O
+      - Working with data (synchronous and asynchronous JS)
+      - Isolating business logic
+      - Beginning to write tests
+
     video:
   - agenda:
-      - TBD
+      - Working with databases
+      - Testing dependencies
+      - Aiming eventually to remove dependencies
     video:
 readings:
   - <cite>Release It!</cite>, (Preface, Ch. 1)

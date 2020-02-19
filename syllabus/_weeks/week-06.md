@@ -7,10 +7,6 @@ meetings:
   - agenda:
       - "Refresher: Git remotes and pull requests; enforcing code reviews"
       - Working on feature branches; keeping up-to-date with `git rebase`
-      - Request/response and I/O
-      - Working with data (synchronous and asynchronous JS)
-      - Isolating business logic
-      - Beginning to write tests
     video: https://youtu.be/Q3aw8TvtNyQ
 readings:
   - CatOnMat.net, [Frameworks don’t make any sense](https://catonmat.net/frameworks-dont-make-sense)
