@@ -1,5 +1,5 @@
 ---
-theme: 
+theme:
 meetings:
   - agenda:
       - Working with data (synchronous and asynchronous JS)
@@ -8,7 +8,8 @@ meetings:
       - Request/response and I/O
     video:
   - agenda:
-      - (Remote class likely; watch Basecamp for details)
+      - (Remote class likely; watch Basecamp for details
+      - Integrating tests into Git workflows
       - Working with databases
       - Testing dependencies
       - Aiming eventually to remove dependencies
