@@ -1,5 +1,5 @@
 ---
-theme:
+theme: Isolating Code and Working with Asynchronous Data
 meetings:
   - agenda:
       - Working with data (synchronous and asynchronous JS)
