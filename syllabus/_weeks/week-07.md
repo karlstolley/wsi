@@ -8,7 +8,7 @@ meetings:
       - Request/response and I/O
     video:
   - agenda:
-      - (Remote class likely; watch Basecamp for details
+      - (Remote class likely; watch Basecamp for details)
       - Integrating tests into Git workflows
       - Working with databases
       - Testing dependencies
