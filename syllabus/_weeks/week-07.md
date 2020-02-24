@@ -1,20 +1,16 @@
 ---
-theme: Shifting Towards Life in Production
+theme: 
 meetings:
   - agenda:
-      - Request/response and I/O
       - Working with data (synchronous and asynchronous JS)
       - Isolating business logic
       - Beginning to write tests
-
+      - Request/response and I/O
     video:
   - agenda:
+      - (Remote class likely; watch Basecamp for details)
       - Working with databases
       - Testing dependencies
       - Aiming eventually to remove dependencies
     video:
-readings:
-  - <cite>Release It!</cite>, (Preface, Ch. 1)
-tasks:
-  - TBD
 ---

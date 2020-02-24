@@ -1,5 +1,5 @@
 ---
-theme: "Stability: From Alphas to Betas"
+theme: Shifting Towards Life in Production; from Alphas to Betas
 meetings:
   - agenda:
       - TBD
@@ -8,7 +8,7 @@ meetings:
       - TBD
     video:
 readings:
-  - <cite>Release It!</cite>, Ch. 2–5
+  - <cite>Release It!</cite>, Preface; Ch. 1–5
 tasks:
   - TBD
 ---
