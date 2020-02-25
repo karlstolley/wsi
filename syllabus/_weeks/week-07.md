@@ -6,7 +6,7 @@ meetings:
       - Isolating business logic
       - Beginning to write tests
       - Request/response and I/O
-    video:
+    video: https://youtu.be/16MQm-hg2mg
   - agenda:
       - (Remote class likely; watch Basecamp for details)
       - Integrating tests into Git workflows
