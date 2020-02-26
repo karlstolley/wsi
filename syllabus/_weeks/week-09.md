@@ -2,13 +2,14 @@
 theme: Shifting Towards Life in Production; from Alphas to Betas
 meetings:
   - agenda:
-      - TBD
+      - Any remaining database topics
+      - Open Q&A
     video:
   - agenda:
-      - TBD
+      - Final checks on alpha-stage projects
+      - Beginning to think about betas and production readiness
     video:
 readings:
   - <cite>Release It!</cite>, Preface; Ch. 1–5
-tasks:
-  - TBD
+
 ---
