@@ -1,12 +1,18 @@
 ---
-theme: Work Week
+theme: Working with Databases; Work Week
 meetings:
   - agenda:
-      - TBD
+      - Relational databases (SQL and friends)
+      - Applications and use cases
+      - "Example: SQLite"
+      - Testing dependencies
+      - Aiming eventually to remove dependencies
     video:
   - agenda:
-      - TBD
+      - Document-based databases (NoSQL and friends)
+      - Applications and use cases
+      - "Example: MongoDB"
     video:
 tasks:
-  - TBD
+  - Post questions for Stolley in Basecamp
 ---

@@ -10,8 +10,5 @@ meetings:
       - Remote class; watch Basecamp for details
       - "Request/response and I/O: GitHub API example"
       - Integrating tests into Git workflows
-      - Working with databases
-      - Testing dependencies
-      - Aiming eventually to remove dependencies
     video:
 ---
