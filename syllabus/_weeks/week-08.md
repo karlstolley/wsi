@@ -1,17 +1,19 @@
 ---
-theme: Working with Databases; Work Week
+theme: Working with Data Structures & Data Stores
 meetings:
   - agenda:
+      - Spending (plenty of) time determining and sketching data structures
+      - Flat-file storage; applications and use cases
       - Relational databases (SQL and friends)
       - Applications and use cases
-      - "Example: SQLite"
-      - Testing dependencies
-      - Aiming eventually to remove dependencies
-    video:
-  - agenda:
       - Document-based databases (NoSQL and friends)
       - Applications and use cases
-      - "Example: MongoDB"
+
+    video:
+  - agenda:
+      - "Implementing SQL-style databases: SQLite example"
+      - "Implementing document-style databases: MongoDB example"
+      - "Implementing flat-file storage"
     video:
 tasks:
   - Post questions for Stolley in Basecamp
