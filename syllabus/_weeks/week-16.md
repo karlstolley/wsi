@@ -1,14 +1,11 @@
 ---
 theme: Work Week
 meetings:
-  - agenda:
-      - TBD
-    video:
-  - agenda:
-      - TBD
-    video:
-readings:
-  - TBD
-tasks:
-  - TBD
+- agenda:
+    - Catch-up day or new topics
+    - Open Q&A
+  video:
+- agenda:
+    - Open Q&A
+  video:
 ---

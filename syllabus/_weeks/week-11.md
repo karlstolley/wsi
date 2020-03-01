@@ -2,13 +2,13 @@
 theme: Designing for Production
 meetings:
   - agenda:
-      - TBD
+
     video:
   - agenda:
-      - TBD
+      - Server setup and security
+      - Key authentication over SSH
+      - Basic firewall ([ufw](https://code.launchpad.net/ufw))
     video:
 readings:
   - <cite>Release It!</cite>, Ch. 6–8
-tasks:
-  - TBD
 ---

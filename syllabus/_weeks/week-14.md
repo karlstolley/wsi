@@ -2,13 +2,11 @@
 theme: Deployment II
 meetings:
   - agenda:
-      - TBD
+      - Deploy-sensitive system monitoring
     video:
   - agenda:
-      - TBD
+      - Fully automated deployment with CI/CD
     video:
 readings:
   - <cite>Release It!</cite>, Ch. 15–17
-tasks:
-  - TBD
 ---

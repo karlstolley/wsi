@@ -2,11 +2,10 @@
 theme: Work Week
 meetings:
   - agenda:
-      - TBD
+      - Catch-up day or new topics
+      - Open Q&A
     video:
   - agenda:
-      - TBD
+      - Open Q&A
     video:
-tasks:
-  - TBD
 ---

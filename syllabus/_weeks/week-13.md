@@ -2,13 +2,11 @@
 theme: Deployment I
 meetings:
   - agenda:
-      - TBD
+      - Git-based deployment strategies (custom scripts)
     video:
   - agenda:
-      - TBD
+      - Deployment packages and libraries
     video:
 readings:
   - <cite>Release It!</cite>, Ch. 12–14
-tasks:
-  - TBD
 ---

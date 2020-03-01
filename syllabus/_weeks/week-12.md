@@ -2,13 +2,13 @@
 theme: Interconnection, Configuration, Security
 meetings:
   - agenda:
-      - TBD
+      - Selecting a web server
+      - Researching and implementing a configuration
+      - Setting up `https` with [Certbot](https://certbot.eff.org/)
     video:
   - agenda:
-      - TBD
+      - Basic testing to ensure server security
     video:
 readings:
   - <cite>Release It!</cite>, Ch. 9–11
-tasks:
-  - TBD
 ---
