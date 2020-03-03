@@ -8,8 +8,7 @@ meetings:
       - Applications and use cases
       - Document-based databases (NoSQL and friends)
       - Applications and use cases
-
-    video:
+    video: https://youtu.be/nhZJ0qrn9cA
   - agenda:
       - "Implementing SQL-style databases: SQLite example"
       - "Implementing document-style databases: MongoDB example"
