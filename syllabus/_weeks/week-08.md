@@ -13,7 +13,7 @@ meetings:
       - "Implementing SQL-style databases: SQLite example"
       - "Implementing document-style databases: MongoDB example"
       - "Implementing flat-file storage"
-    video:
+    video: https://youtu.be/oEfugVQkAnY
 tasks:
   - Post questions for Stolley in Basecamp
 ---
