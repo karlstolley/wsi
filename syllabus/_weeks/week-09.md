@@ -2,7 +2,8 @@
 theme: Shifting Towards Life in Production; from Alphas to Betas
 meetings:
   - agenda:
-      - Any remaining database topics
+      - "Implementing document-style databases: MongoDB example"
+      - "Implementing flat-file storage"
       - Testing dependencies
       - Aiming eventually to remove dependencies
       - Open Q&A
