@@ -7,7 +7,7 @@ meetings:
     - Basic firewall ([ufw](https://code.launchpad.net/ufw))
     video:
   - agenda:
-    - Progressive web apps (ServiceWorkers and friends)
+    - Basic testing to ensure server security
     video:
 readings:
   - <cite>Release It!</cite>, Ch. 6–8

@@ -7,7 +7,7 @@ meetings:
       - Setting up `https` with [Certbot](https://certbot.eff.org/)
     video:
   - agenda:
-      - Basic testing to ensure server security
+      - Progressive web apps (ServiceWorkers and friends)
     video:
 readings:
   - <cite>Release It!</cite>, Ch. 9–11
