@@ -9,7 +9,7 @@ meetings:
       - "Implementing document-style databases: MongoDB example"
       - "Configuration and connection: what to commit, what to obscure (ENV)"
       - Testing with databases
-    video:
+    video: https://youtu.be/m8zFwgtT4Pg
   - agenda:
       - Final checks on alpha-stage projects
       - Beginning to think about betas and production readiness
