@@ -1,11 +1,14 @@
 ---
-theme: Deployment I
+theme: Advanced Front-End Techniques
 meetings:
   - agenda:
-      - Git-based deployment strategies (custom scripts)
+    - Features of Progressive Web Apps
+    - Service workers
+    - Local storage
     video:
   - agenda:
-      - Deployment packages and libraries
+    - Web sockets
+    - The fetch API
     video:
 readings:
   - <cite>Release It!</cite>, Ch. 12–14

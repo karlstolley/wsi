@@ -1,5 +1,5 @@
 ---
-theme: Shifting Towards Life in Production; from Alphas to Betas
+theme: Q&A; Document-style Databases, Configuration
 meetings:
   - agenda:
       - "Q&A: local vs. flat-file vs. cloud databases"
@@ -8,14 +8,9 @@ meetings:
       - "Q&A: field/data validation"
       - "Implementing document-style databases: MongoDB example"
       - "Configuration and connection: what to commit, what to obscure (ENV)"
-      - Testing with databases
     video: https://youtu.be/m8zFwgtT4Pg
   - agenda:
-      - Final checks on alpha-stage projects
-      - Beginning to think about betas and production readiness
-      - "Implementing flat-file storage"
-      - Testing dependencies
-      - Aiming eventually to remove dependencies
+      - No class; Stolley out sick
     video:
 readings:
   - <cite>Release It!</cite>, Preface; Ch. 1–5

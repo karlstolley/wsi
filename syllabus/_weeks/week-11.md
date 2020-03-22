@@ -1,13 +1,16 @@
 ---
-theme: Designing for Production
+theme: Shifting from Alphas to Betas, Designing for Production
 meetings:
   - agenda:
-    - Server setup and security
-    - Key authentication over SSH
-    - Basic firewall ([ufw](https://code.launchpad.net/ufw))
+    - Triaging the rest of the semester
+    - Thinking about betas and production readiness
+    - Seeding NoSQL-style databases (MongoDB example)
     video:
   - agenda:
-    - Basic testing to ensure server security
+    - "Implementing flat-file storage"
+    - Testing with databases
+    - Testing dependencies
+    - Aiming eventually to remove dependencies
     video:
 readings:
   - <cite>Release It!</cite>, Ch. 6–8
