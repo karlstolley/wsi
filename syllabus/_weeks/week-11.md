@@ -4,9 +4,10 @@ meetings:
   - agenda:
     - Triaging the rest of the semester
     - Thinking about betas and production readiness
-    - Seeding NoSQL-style databases (MongoDB example)
+    - "Alpha-release project postmortem: HTML semantics, form elements"
     video:
   - agenda:
+    - Seeding NoSQL-style databases (MongoDB example)
     - "Implementing flat-file storage"
     - Testing with databases
     - Testing dependencies
