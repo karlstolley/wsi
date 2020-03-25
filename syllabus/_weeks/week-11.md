@@ -12,7 +12,7 @@ meetings:
     - "Implementing flat-file storage"
     - More on environment variables
     - Testing with databases, especially setup and tear-down
-    video:
+    video: https://youtu.be/OiIDdpxOD_s
 readings:
   - <cite>Release It!</cite>, Ch. 6–8
 ---
