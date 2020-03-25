@@ -8,10 +8,10 @@ meetings:
     video: https://youtu.be/cRQR7e5SGxU
   - agenda:
     - Seeding NoSQL-style databases (MongoDB example)
+    - Working with `async` functions, inside and out
     - "Implementing flat-file storage"
-    - Testing with databases
-    - Testing dependencies
-    - Aiming eventually to remove dependencies
+    - More on environment variables
+    - Testing with databases, especially setup and tear-down
     video:
 readings:
   - <cite>Release It!</cite>, Ch. 6–8
