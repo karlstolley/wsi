@@ -102,7 +102,7 @@ deliverables:
     description: >
       Sometime during the week of April 6, you and your team will have a virtual chat of about
       thirty minutes with the instructor. Watch for scheduling details on Basecamp.
-    deadline: 2020-03-30
+    deadline: 2020-04-02
   -
     action: Post your final beta release project to Basecamp.
     description: >
