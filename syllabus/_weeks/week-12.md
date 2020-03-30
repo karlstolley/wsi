@@ -6,7 +6,7 @@ meetings:
       - Key authentication over SSH
       - Basic firewall ([ufw](https://code.launchpad.net/ufw))
       - Basic testing to ensure server security
-    video:
+    video: https://youtu.be/HLXi69eURns
   - agenda:
       - Selecting a web server
       - Researching and implementing a configuration
