@@ -7,6 +7,7 @@ meetings:
     - HTML `data-` attributes and user- vs. script-friendly data
     video: https://youtu.be/ZlpvXUuksY8
   - agenda:
+    - "Finishing up sockets: data-driven updates via the DOM"
     - Features of Progressive Web Apps
     - Service workers
     - Local storage
