@@ -5,7 +5,7 @@ meetings:
     - Web sockets and Socket.io
     - Custom event emitters
     - HTML `data-` attributes and user- vs. script-friendly data
-    video:
+    video: https://youtu.be/ZlpvXUuksY8
   - agenda:
     - Features of Progressive Web Apps
     - Service workers
