@@ -12,7 +12,7 @@ meetings:
     - Service workers
     - Local storage
     - The fetch API
-    video:
+    video: https://youtu.be/1XG-b-ysyCo
 readings:
   - <cite>Release It!</cite>, Ch. 12–14
 ---
