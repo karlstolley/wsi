@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/karlstolley/jekyll-theme-open-course.git
-  revision: d56b0710758e6399ce31048442b288d3881e6e04
+  revision: 4cf8b326b716549f48461220496edcca1c08abb3
   specs:
     jekyll-theme-open-course (1.0.1)
       jekyll (~> 4.0)
@@ -50,7 +50,7 @@ GEM
     mercenary (0.3.6)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    public_suffix (4.0.3)
+    public_suffix (4.0.4)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
