@@ -1,5 +1,6 @@
 ---
 title: Site Offline
+id: offline
 layout: error
 ---
 
