@@ -1,13 +1,15 @@
 ---
-theme: Deployment and Monitoring; CI/CD
+theme: Code Quality
 meetings:
   - agenda:
-      - Git-based deployment strategies (custom scripts)
-      - Deployment packages and libraries
+      - Training your nose for “code smell”
+      - Reorganizing code
+      - Revising for functionality
+      - Refactoring for performance, elegance, readability
     video:
   - agenda:
-      - Deploy-sensitive system monitoring
-      - Fully automated deployment with CI/CD
+    - Testing dependencies
+    - Aiming eventually to remove dependencies
     video:
 readings:
   - <cite>Release It!</cite>, Ch. 15–17

@@ -1,13 +1,12 @@
 ---
-theme: Work Week
+theme: Deployment and Monitoring; CI/CD
 meetings:
   - agenda:
-      - Catch-up day or new topics
-      - Testing dependencies
-      - Aiming eventually to remove dependencies
-      - Open Q&A
+      - Git-based deployment strategies (custom scripts)
+      - Deployment packages and libraries
     video:
   - agenda:
-      - Open Q&A
+      - Deploy-sensitive system monitoring
+      - Fully automated deployment with CI/CD
     video:
 ---
