@@ -3,11 +3,14 @@ theme: Code Quality
 meetings:
   - agenda:
       - Training your nose for “code smell”
+      - Linting with [eslint](https://eslint.org)
+      - Stolley’s opinionated [eslint configs](https://github.com/karlstolley/eslint-config)
       - Reorganizing code
-      - Revising for functionality
-      - Refactoring for performance, elegance, readability
     video:
   - agenda:
+    - Ensuring test completion for libraries
+    - Revising for functionality
+    - Refactoring for performance, elegance, readability
     - Testing dependencies
     - Aiming eventually to remove dependencies
     video:
