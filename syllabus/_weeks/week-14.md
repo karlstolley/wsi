@@ -6,7 +6,7 @@ meetings:
       - Linting with [eslint](https://eslint.org)
       - Stolley’s opinionated [eslint configs](https://github.com/karlstolley/eslint-config)
       - Reorganizing code
-    video:
+    video: https://youtu.be/PLhtSqI31Os
   - agenda:
     - Ensuring test completion for libraries
     - Revising for functionality
