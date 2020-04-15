@@ -13,7 +13,7 @@ meetings:
     - Refactoring for performance, elegance, readability
     - Testing dependencies
     - Aiming eventually to remove dependencies
-    video:
+    video: https://youtu.be/gj2AH3anfaw
 readings:
   - <cite>Release It!</cite>, Ch. 15–17
 ---
