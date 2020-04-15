@@ -5,9 +5,9 @@ meetings:
       - Training your nose for “code smell”
       - Linting with [eslint](https://eslint.org)
       - Stolley’s opinionated [eslint configs](https://github.com/karlstolley/eslint-config)
-      - Reorganizing code
     video: https://youtu.be/PLhtSqI31Os
   - agenda:
+    - Reorganizing code
     - Ensuring test completion for libraries
     - Revising for functionality
     - Refactoring for performance, elegance, readability
