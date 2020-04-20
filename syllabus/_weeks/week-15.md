@@ -8,6 +8,7 @@ meetings:
       - Deployment packages and libraries
     video: https://youtu.be/C9i7pd7ypdk
   - agenda:
+      - Ensuring even a simply deployed app runs in production
       - Fully automated deployment with pm2
       - Deploy-sensitive system monitoring
       - Fully automated deployment with CI/CD
