@@ -6,7 +6,7 @@ meetings:
       - Git-based deployment strategies (custom scripts)
       - Simple use of pm2 to start, monitor, and keep an app running
       - Deployment packages and libraries
-    video:
+    video: https://youtu.be/C9i7pd7ypdk
   - agenda:
       - Fully automated deployment with pm2
       - Deploy-sensitive system monitoring
