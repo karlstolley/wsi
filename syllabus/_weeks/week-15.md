@@ -14,5 +14,5 @@ meetings:
       - Using [TravisCI on GitHub](https://docs.travis-ci.com/user/languages/javascript-with-nodejs/)
       - Including a [TravisCI status image](https://docs.travis-ci.com/user/status-images/) in your README file (or elsewhere)
       - Robust deployment with [pm2](https://pm2.keymetrics.io/docs/usage/deployment/)
-    video:
+    video: https://youtu.be/skaMOc1lPQU
 ---
