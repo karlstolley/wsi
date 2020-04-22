@@ -8,9 +8,11 @@ meetings:
       - Deployment packages and libraries
     video: https://youtu.be/C9i7pd7ypdk
   - agenda:
+      - Working with [JSDoc](https://jsdoc.app/)
+      - Integrating docs with GitHub Pages
       - Ensuring even a simply deployed app runs in production
-      - Fully automated deployment with pm2
-      - Deploy-sensitive system monitoring
-      - Fully automated deployment with CI/CD
+      - Using [TravisCI on GitHub](https://docs.travis-ci.com/user/languages/javascript-with-nodejs/)
+      - Including a [TravisCI status image](https://docs.travis-ci.com/user/status-images/) in your README file (or elsewhere)
+      - Robust deployment with [pm2](https://pm2.keymetrics.io/docs/usage/deployment/)
     video:
 ---
