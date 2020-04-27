@@ -2,12 +2,14 @@
 title: Books
 ---
 
+<section class="required" markdown="1">
 <h3>Required</h3>
 
 - Keeling, Michael. <cite>Design It! From Programmer to Software Architect</cite>. Dallas, TX:
   Pragmatic Bookshelf, 2017. $27 (eBook), ISBN 9781680502091
 - Nygard, Michael. <cite>Release It! Design and Deploy Production-Ready Software</cite>.
   2nd ed. Dallas, TX: Pragmatic Bookshelf, 2015. $26 (ebook), ISBN 9781680502398
+</section>
 
 <aside class="fine-print" markdown="1">
   <b>My policy for assigning books:</b> Required books are all required in the edition indicated;
