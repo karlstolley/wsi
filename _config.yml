@@ -1,5 +1,5 @@
 url: https://courses.stolley.co
-baseurl: /wsi/
+baseurl: /wsi-2020/
 
 timezone: America/Chicago
 
@@ -11,6 +11,7 @@ course:
     A project-based course on the integration of web applications, services, and infrastructure to
     scale.
   term: Spring 2020
+  archive: https://github.com/karlstolley/wsi/tree/s-2020
   # Set `days: ""` (empty string) for weekly/asynchronous classes
   days:
     - Monday
