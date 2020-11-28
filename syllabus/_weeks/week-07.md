@@ -5,10 +5,10 @@ meetings:
       - Working with data (synchronous and asynchronous JS)
       - Isolating business logic
       - Beginning to write tests
-    video: https://youtu.be/16MQm-hg2mg
+    video:
   - agenda:
       - Remote class; watch Basecamp for details
       - "Request/response and I/O: GitHub API example"
       - Integrating tests into Git workflows
-    video: https://youtu.be/Ry-PVwH2IkQ
+    video:
 ---

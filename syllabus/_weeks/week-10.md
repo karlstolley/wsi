@@ -1,8 +1,8 @@
 ---
-theme: Spring Break
+theme: Q&A and Catch Up Week
 meetings:
   - agenda:
-      - No class.
+      - TBD
   - agenda:
-      - No class.
+      - TBD
 ---

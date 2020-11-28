@@ -8,10 +8,11 @@ meetings:
       - Applications and use cases
       - Document-based databases (NoSQL and friends)
       - Applications and use cases
-    video: https://youtu.be/nhZJ0qrn9cA
-  - agenda:
       - "Implementing SQL-style databases: SQLite example"
-    video: https://youtu.be/oEfugVQkAnY
+    video:
+  - agenda:
+      - "**No class.** University COVID Study Day."
+    video:
 tasks:
   - Post questions for Stolley in Basecamp
 ---

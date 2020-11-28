@@ -1,15 +1,17 @@
 ---
-theme: System-Design Fundamentals and Strategies
+theme: Shaping and Sketching; System-Design Fundamentals and Strategies
 meetings:
   - agenda:
-      - <b>No class.</b> Martin Luther King, Jr. holiday.
+      - Introduce [Project One](projects/#project-one)
+      - Lo-fi prototyping and shaping
+      - Fat-marker sketches
     video:
   - agenda:
       - Refining your systems-design thinking
       - Determining architecturally significant requirements
       - Establishing project boundaries
       - Arriving at narrowly defined problems
-    video: https://youtu.be/0xHfqMHhTvo
+    video:
 readings:
   - <cite>Design It!</cite>, Ch. 9
   - "[<cite>Shape Up</cite>](https://basecamp.com/shapeup), Ch. 7–8"

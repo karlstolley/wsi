@@ -5,14 +5,14 @@ meetings:
     - Web sockets and Socket.io
     - Custom event emitters
     - HTML `data-` attributes and user- vs. script-friendly data
-    video: https://youtu.be/ZlpvXUuksY8
+    video:
   - agenda:
     - "Finishing up sockets: data-driven updates via the DOM"
     - Features of Progressive Web Apps
     - Service workers
     - Local storage
     - The fetch API
-    video: https://youtu.be/1XG-b-ysyCo
+    video:
 readings:
   - <cite>Release It!</cite>, Ch. 12–14
 ---

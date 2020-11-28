@@ -5,11 +5,11 @@ meetings:
       - "Advanced basics: grooming a Git-centric development environment"
       - Determining architecturally significant system features via frontend prototyping
       - Visual regression testing with [BackstopJS](https://garris.github.io/BackstopJS/)
-    video: https://youtu.be/HQRMytDhhio
+    video:
   - agenda:
       - More front-end prototyping
       - Abbreviated tour of an example framework (Ruby on Rails)
-    video: https://youtu.be/0eRvFEqrdWs
+    video:
 readings:
   - "<cite>Design It!</cite>, Ch 8–10, 16"
   - "[<cite>Shape Up</cite>](https://basecamp.com/shapeup), Ch. 13–14, Conclusion"

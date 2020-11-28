@@ -5,7 +5,7 @@ meetings:
       - Training your nose for “code smell”
       - Linting with [eslint](https://eslint.org)
       - Stolley’s opinionated [eslint configs](https://github.com/karlstolley/eslint-config)
-    video: https://youtu.be/PLhtSqI31Os
+    video:
   - agenda:
     - Reorganizing code
     - Ensuring test completion for libraries
@@ -13,7 +13,7 @@ meetings:
     - Refactoring for performance, elegance, readability
     - Testing dependencies
     - Aiming eventually to remove dependencies
-    video: https://youtu.be/gj2AH3anfaw
+    video:
 readings:
   - <cite>Release It!</cite>, Ch. 15–17
 ---

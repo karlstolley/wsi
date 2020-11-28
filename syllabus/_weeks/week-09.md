@@ -8,7 +8,7 @@ meetings:
       - "Q&A: field/data validation"
       - "Implementing document-style databases: MongoDB example"
       - "Configuration and connection: what to commit, what to obscure (ENV)"
-    video: https://youtu.be/m8zFwgtT4Pg
+    video:
   - agenda:
       - No class; Stolley out sick
     video:
