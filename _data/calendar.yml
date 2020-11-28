@@ -1,33 +1,32 @@
-- begins: 2020-01-13T00:00
-  expires: 2020-01-21T00:00
-- begins: 2020-01-20T00:00
-  expires: &three 2020-01-27T00:00
+- begins: 2021-01-18T00:00
+  expires: &two 2021-01-25T00:00
+- begins: *two
+  expires: &three 2021-02-01T00:00
 - begins: *three
-  expires: &four 2020-02-03T00:00
+  expires: &four 2021-02-08T00:00
 - begins: *four
-  expires: &five 2020-02-10T00:00
+  expires: &five 2021-02-15T00:00
 - begins: *five
-  expires: &six 2020-02-17T00:00
+  expires: &six 2021-02-22T00:00
 - begins: *six
-  expires: &seven 2020-02-24T00:00
+  expires: &seven 2021-03-01T00:00
 - begins: *seven
-  expires: &eight 2020-03-02T00:00
+  expires: &eight 2021-03-08T00:00
 - begins: *eight
-  expires: &nine 2020-03-09T00:00
+  expires: &nine 2021-03-15T00:00
 - begins: *nine
-  expires: 2020-03-23T00:00
-- begins: 2020-03-16T00:00
-  expires: &eleven 2020-03-23T00:00
+  expires: &ten 2021-03-22T00:00
+- begins: *ten
+  expires: &eleven 2021-03-29T00:00
 - begins: *eleven
-  expires: &twelve 2020-03-30T00:00
+  expires: &twelve 2021-04-05T00:00
 - begins: *twelve
-  expires: &thirteen 2020-04-06T00:00
+  expires: &thirteen 2021-04-12T00:00
 - begins: *thirteen
-  expires: &fourteen 2020-04-13T00:00
+  expires: &fourteen 2021-04-19T00:00
 - begins: *fourteen
-  expires: &fifteen 2020-04-20T00:00
+  expires: &fifteen 2021-04-26T00:00
 - begins: *fifteen
-  expires: &sixteen 2020-04-27T00:00
+  expires: &sixteen 2021-05-03T00:00
 - begins: *sixteen
-  due_date: 2020-05-07T00:00
-  expires: &seventeen 2020-05-13T00:00
+  expires: &seventeen 2021-05-10T00:00
