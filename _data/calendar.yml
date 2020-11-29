@@ -29,4 +29,5 @@
 - begins: *fifteen
   expires: &sixteen 2021-05-03T00:00
 - begins: *sixteen
-  expires: &seventeen 2021-05-10T00:00
+  due_date: 2021-05-13T00:00
+  expires: &seventeen 2021-05-19T00:00
