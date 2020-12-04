@@ -1,6 +1,7 @@
 ---
 title: Shaping a Web System
-due_date: &deadline 2020-01-28
+due_date: &deadline 2021-02-04
+preview: false
 goals:
   - >
     Improve your ability to use rough sketches and brief, clear writing to describe and pitch a
@@ -27,9 +28,9 @@ deliverables:
       - >
         Specific requests for feedback from the instructor and peers. Write this in the body of your
         Basecamp post
-    deadline: 2020-01-19
+    deadline: 2021-01-28
   - action: Respond to at least 3 of your peers' Draft Projects
-    deadline: 2020-01-22
+    deadline: 2021-02-01
   - action: Post final deliverables to Basecamp.
     description: "Your final-deliverable post must include:"
     details:

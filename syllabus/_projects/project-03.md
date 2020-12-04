@@ -1,7 +1,7 @@
 ---
 title: Web System Beta-Release Cycle
-due_date: &deadline 2020-04-23
-preview: false
+due_date: &deadline 2021-05-03
+preview: true
 goals:
   - Analyze complex computing problems and apply principles of computing and other relevant
     disciplines to identify solutions
@@ -100,9 +100,9 @@ deliverables:
   -
     action: Schedule a mid-cycle conference with the instructor.
     description: >
-      Sometime during the week of April 6, you and your team will have a virtual chat of about
+      Sometime during the week of April 12 you and your team will have a virtual chat of about
       thirty minutes with the instructor. Watch for scheduling details on Basecamp.
-    deadline: 2020-04-02
+    deadline: 2021-04-08
   -
     action: Post your final beta release project to Basecamp.
     description: >
@@ -127,6 +127,6 @@ possible. In fact, aim for 100% test coverage of your existing, alpha code befor
 other plans for your beta iterations.
 
 Note that the requirements listed with this project are the overall system requirements for the
-final version to be delivered on Thursday, May 7. By the end of the beta cycle, you should have met
+final version to be delivered on Thursday, May 13. By the end of the beta cycle, you should have met
 all of these requirements. Be sure to take stock of them early in this cycle, and contact the
 instructor immediately if you’re concerned about any of them.

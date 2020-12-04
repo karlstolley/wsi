@@ -1,7 +1,7 @@
 ---
 title: Web System Alpha-Release Cycle
-preview: false
-due_date: &deadline 2020-03-12
+preview: true
+due_date: &deadline 2021-03-22
 goals:
   - Analyze complex computing problems and apply principles of computing and other relevant
     disciplines to identify solutions
@@ -101,13 +101,13 @@ deliverables:
       You’re choosing your team members for the remainder of the semester, so choose wisely.
       There may be need of one team of four, so indicate in the Basecamp thread if you’re open to
       taking on a fourth member.
-    deadline: 2020-01-31
+    deadline: 2021-02-08
   - action: Pitch your team’s project to the instructor via Basecamp.
     description: >
       You may opt to use as-is or refine any Project One pitch written by any of your team members.
       Alternatively, you may pitch an entirely new project idea. The instructor must sign off on
       your team’s pitch before you can proceed.
-    deadline: 2020-02-06
+    deadline: 2021-02-18
   -
     action: "Due **weekly**: Post team progress reports weekly on the class Basecamp."
     description: >
@@ -117,9 +117,9 @@ deliverables:
   -
     action: Schedule a mid-cycle conference with the instructor.
     description: >
-      Sometime during the week of Feburary 17, you and your team will have a virtual chat of about
+      Sometime during the week of March 1, you and your team will have a virtual chat of about
       thirty minutes with the instructor. Watch for scheduling details on Basecamp.
-    deadline: 2020-02-17
+    deadline: 2020-02-25
   -
     action: Post your final alpha release project to Basecamp.
     description: >
@@ -145,7 +145,7 @@ Plan to include unit, functional, and integration test coverage as early in your
 possible. Your work will proceed this cycle as a series of `0.x.x-alpha.x` releases.
 
 Note that the requirements listed with this project are the overall system requirements for the
-final version to be delivered on Thursday, May 7. You and your team should choose which of these
+final version to be delivered on Thursday, May 13. You and your team should choose which of these
 requirements to focus on at the alpha stage, and which to defer until the beta stage. For example,
 there is no requirement to deploy your system at the alpha stage, so your group might elect to defer
 deployment-oriented requirements until the beta stage (aka Project Three).
