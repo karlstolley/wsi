@@ -4,15 +4,16 @@ meetings:
   - agenda:
       - "Advanced basics: grooming a Git-centric development environment"
       - Determining architecturally significant system features via frontend prototyping
-      - Visual regression testing with [BackstopJS](https://garris.github.io/BackstopJS/)
     video:
   - agenda:
       - More front-end prototyping
-      - Abbreviated tour of an example framework (Ruby on Rails)
+      - Abbreviated tour of an example framework (ExpressJS)
+      - Visual regression testing with [BackstopJS](https://garris.github.io/BackstopJS/)
     video:
 readings:
-  - "<cite>Design It!</cite>, Ch 8–10, 16"
+  - "<cite>Great Web APIs</cite>, Ch. 2"
+  - "<cite>Design It!</cite>, Ch. 8–10, 16"
   - "[<cite>Shape Up</cite>](https://basecamp.com/shapeup), Ch. 13–14, Conclusion"
 tasks:
-  - TBD
+  - Participate in Week Four reading discussion on Basecamp
 ---

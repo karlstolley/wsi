@@ -14,4 +14,7 @@ meetings:
     video:
 readings:
   - <cite>Release It!</cite>, Ch. 9–11
+  - <cite>Great Web APIs</cite>, Ch. 11–13
+tasks:
+  - Participate in Week Twelve reading discussion on Basecamp
 ---

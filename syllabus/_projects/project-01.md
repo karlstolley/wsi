@@ -29,6 +29,11 @@ deliverables:
         Specific requests for feedback from the instructor and peers. Write this in the body of your
         Basecamp post
     deadline: 2021-01-28
+  - action: Schedule a one-on-one consultation with the instructor.
+    description: >
+      Sometime by the end of the day on Monday, February 1, you will have a one-on-on consultation
+      with the instructor about your project draft. Watch for scheduling details on Basecamp.
+    deadline: 2021-01-28
   - action: Respond to at least 3 of your peers' Draft Projects
     deadline: 2021-02-01
   - action: Post final deliverables to Basecamp.

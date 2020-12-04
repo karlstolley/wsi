@@ -15,4 +15,6 @@ meetings:
     video:
 readings:
   - <cite>Release It!</cite>, Ch. 12–14
+tasks:
+  - Participate in Week Thirteen reading discussion on Basecamp
 ---

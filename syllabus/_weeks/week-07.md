@@ -7,8 +7,11 @@ meetings:
       - Beginning to write tests
     video:
   - agenda:
-      - Remote class; watch Basecamp for details
       - "Request/response and I/O: GitHub API example"
       - Integrating tests into Git workflows
     video:
+readings:
+  - <cite>Great Web APIs</cite>, Ch. 5
+tasks:
+  - Participate in Week Seven reading discussion on Basecamp
 ---

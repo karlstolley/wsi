@@ -1,8 +1,12 @@
 ---
-theme: Q&A and Catch Up Week
+theme: Catch-Up Week
 meetings:
   - agenda:
-      - TBD
+      - Topics to catch up on...
+      - Open Q&A
   - agenda:
-      - TBD
+      - More topics to catch up on...
+      - Open Q&A
+tasks:
+  - Participate in Megathread Q&A on Basecamp
 ---
