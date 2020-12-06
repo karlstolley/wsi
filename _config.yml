@@ -54,6 +54,9 @@ course:
     - label: Policies
       href: "policies/"
       id: pol
+  css:
+    font-url: "https://use.typekit.net/qqk1feg.css"
+    theme: winter
 
 collections_dir: syllabus
 
