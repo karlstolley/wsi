@@ -1,19 +1,16 @@
 ---
-theme: Deployment and Monitoring; CI/CD
+theme: Work Week or As-Needed Topics
 meetings:
   - agenda:
-      - Introduce [the final project](projects/#project-four)
-      - Git-based deployment strategies (custom scripts)
-      - Simple use of pm2 to start, monitor, and keep an app running
-      - Deployment packages and libraries
+    - Catch-up day or new topics
+    - Open Q&A
     video:
   - agenda:
-      - Working with [JSDoc](https://jsdoc.app/)
-      - Integrating docs with GitHub Pages
-      - (Supplemental video coming this weekend with the remaining topics)
-      - Ensuring even a simply deployed app runs in production
-      - Using [TravisCI on GitHub](https://docs.travis-ci.com/user/languages/javascript-with-nodejs/)
-      - Including a [TravisCI status image](https://docs.travis-ci.com/user/status-images/) in your README file (or elsewhere)
-      - Robust deployment with [pm2](https://pm2.keymetrics.io/docs/usage/deployment/)
+    - Catch-up day or new topics
+    - Open Q&A
     video:
+readings:
+  - TBD
+tasks:
+  - TBD
 ---

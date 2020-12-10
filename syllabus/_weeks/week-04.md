@@ -8,6 +8,7 @@ meetings:
   - agenda:
       - More front-end prototyping
       - Abbreviated tour of an example framework (ExpressJS)
+      - Working with asynchronous JavaScript functions and APIs
       - Visual regression testing with [BackstopJS](https://garris.github.io/BackstopJS/)
     video:
 readings:

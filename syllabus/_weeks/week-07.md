@@ -1,14 +1,18 @@
 ---
-theme: Isolating Code and Working with Asynchronous Data
+theme: Code Quality and Documentation
 meetings:
   - agenda:
-      - Working with data (synchronous and asynchronous JS)
-      - Isolating business logic
-      - Beginning to write tests
+    - Training your nose for “code smell”
+    - Linting with [eslint](https://eslint.org)
+    - Stolley’s opinionated [eslint configs](https://github.com/karlstolley/eslint-config)
+    - Evaluating testing frameworks; [Mocha](https://mochajs.org/)
+    - Isolating business logic
+    - Beginning to write tests
+    - Integrating tests into Git workflows
     video:
   - agenda:
-      - "Request/response and I/O: GitHub API example"
-      - Integrating tests into Git workflows
+    - Working with [JSDoc](https://jsdoc.app/)
+    - Integrating docs with GitHub Pages
     video:
 readings:
   - <cite>Great Web APIs</cite>, Ch. 5

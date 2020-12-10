@@ -1,17 +1,15 @@
 ---
-theme: Advanced Front-End Techniques
+theme: Refactoring
 meetings:
   - agenda:
-    - Web sockets and Socket.io
-    - Custom event emitters
-    - HTML `data-` attributes and user- vs. script-friendly data
+    - Reorganizing code
+    - Revising for functionality
+    - Leaning hard on your test suite
+    - Refactoring for performance, elegance, readability
     video:
   - agenda:
-    - "Finishing up sockets: data-driven updates via the DOM"
-    - Features of Progressive Web Apps
-    - Service workers
-    - Local storage
-    - The fetch API
+    - Testing dependencies
+    - Aiming eventually to remove dependencies
     video:
 readings:
   - <cite>Release It!</cite>, Ch. 12–14

@@ -1,18 +1,17 @@
 ---
-theme: Code Quality
+theme: Deployment and Monitoring; CI/CD
 meetings:
   - agenda:
-      - Training your nose for “code smell”
-      - Linting with [eslint](https://eslint.org)
-      - Stolley’s opinionated [eslint configs](https://github.com/karlstolley/eslint-config)
+      - Introduce [the final project](projects/#project-four)
+      - Git-based deployment strategies (custom scripts)
+      - Simple use of pm2 to start, monitor, and keep an app running
+      - Deployment packages and libraries
     video:
   - agenda:
-    - Reorganizing code
-    - Ensuring test completion for libraries
-    - Revising for functionality
-    - Refactoring for performance, elegance, readability
-    - Testing dependencies
-    - Aiming eventually to remove dependencies
+      - Ensuring even a simply deployed app runs in production
+      - Using [TravisCI on GitHub](https://docs.travis-ci.com/user/languages/javascript-with-nodejs/)
+      - Including a [TravisCI status image](https://docs.travis-ci.com/user/status-images/) in your README file (or elsewhere)
+      - Robust deployment with [pm2](https://pm2.keymetrics.io/docs/usage/deployment/)
     video:
 readings:
   - <cite>Release It!</cite>, Ch. 15–17

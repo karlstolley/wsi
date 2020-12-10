@@ -1,15 +1,17 @@
 ---
-theme: Describing and Illustrating System Architectures
+theme: Describing and Scaffolding System Architectures
 meetings:
   - agenda:
-      - "Framework selection: starting from No"
-      - Establishing minimal foundations in reference to generated code
-      - Tracking dependencies (manifests, semantic versioning)
+    - Software as a Service (SaaS) architecture
+    - API-first design
+    - Microservices
     video:
   - agenda:
-      - From frontend prototype to backend framework (ExpressJS/NodeJS example)
-      - Establishing and seeking loosely-coupled component parts for a system
-      - Auditioning candidate components
+    - "Framework selection: starting from No"
+    - Establishing minimal foundations in reference to generated code
+    - Establishing and seeking loosely-coupled component parts for a system
+    - Auditioning candidate components
+    - Tracking dependencies (manifests, semantic versioning)
     video:
 readings:
   - <cite>Design It!</cite>, Ch. 11–13, 17
