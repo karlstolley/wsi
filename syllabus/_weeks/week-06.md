@@ -1,13 +1,13 @@
 ---
-theme: Working Remotely in Teams
+theme: Frameworks and Dependencies
 meetings:
   - agenda:
-      - <b>No class.</b> Remote team consultations with instructor.
+    - <b>No class.</b> Remote team consultations with instructor.
     video:
   - agenda:
-      - Spending plenty of time determining and sketching data structures
-      - "Refresher: Git remotes and pull requests; enforcing code reviews"
-      - Working on feature branches; keeping up-to-date with `git rebase`
+    - Establishing and seeking loosely-coupled component parts for a system
+    - Auditioning candidate components
+    - Tracking dependencies (manifests, semantic versioning)
     video:
 readings:
   - <cite>Great Web APIs</cite>, Ch. 3–4
