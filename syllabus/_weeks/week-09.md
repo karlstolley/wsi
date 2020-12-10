@@ -9,6 +9,7 @@ meetings:
       - Testing with databases, especially setup and tear-down
     video:
   - agenda:
+      - Introduce [Project Three](projects/#project-three)
       - "Configuration and connection: what to commit, what to obscure (`ENV` variables)"
       - "Implementing flat-file storage"
     video:

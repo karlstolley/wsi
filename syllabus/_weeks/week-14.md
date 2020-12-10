@@ -2,7 +2,7 @@
 theme: Deployment and Monitoring; CI/CD
 meetings:
   - agenda:
-      - Introduce [the final project](projects/#project-four)
+      - Introduce [Project Four](projects/#project-four)
       - Git-based deployment strategies (custom scripts)
       - Simple use of pm2 to start, monitor, and keep an app running
       - Deployment packages and libraries

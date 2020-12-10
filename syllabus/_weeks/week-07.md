@@ -11,6 +11,7 @@ meetings:
     - Integrating tests into Git workflows
     video:
   - agenda:
+    - Introduce ITMD 567–only [Project Five](projects/#project-five)
     - Working with [JSDoc](https://jsdoc.app/)
     - Integrating docs with GitHub Pages
     video:
