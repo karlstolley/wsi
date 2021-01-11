@@ -53,9 +53,9 @@ which may be completed anonymously. You may additionally report by contacting th
 Coordinator, Virginia Foster at [foster@iit.edu](mailto:foster@iit.edu), or the Deputy Title IX Coordinator, Esther Espeland
 at [eespeland@iit.edu](mailto:eespeland@iit.edu).
 
-For confidential support, you may reach Illinois Tech’s Confidential Advisor at (773)-907-1062. You
+For confidential support, you may reach Illinois Tech’s Confidential Advisor at 773-907-1062. You
 can also contact a licensed practitioner in Illinois Tech’s Student Health and Wellness Center at
-[student.health@iit.edu](mailto:student.health@iit.edu) or (312)-567-7550
+[student.health@iit.edu](mailto:student.health@iit.edu) or 312-567-7550
 
 For a comprehensive list of resources regarding counseling services, medical assistance, legal
 assistance and visa and immigration services, you can visit the Office of Title IX Compliance
