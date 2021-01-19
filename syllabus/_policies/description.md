@@ -11,7 +11,7 @@ applications as more than just standalone, siloed systems. The course treats web
 modular components that must integrate with complex infrastructures for computing, communication,
 and data exchange across and even outside of an organization. The course emphasizes methods and
 approaches for designing and developing robust but loosely coupled systems, always in anticipation
-of any one system’s inevitable failure in production. The course's preferred methods will require
+of any one system’s inevitable failure in production. The course’s preferred methods will require
 students to create and maintain extensive testing suites and other automated quality-assurance
 measures. Students will also learn to practice chaos engineering, where systems are not only built
 and tested but actively and intentionally stressed, attacked, and misused to expose additional
