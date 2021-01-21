@@ -5,7 +5,7 @@ meetings:
       - Welcome & introductions
       - Course policies
       - Course calendar
-    video:
+    video: https://youtu.be/AXj89toeOlE
 readings:
   - <cite>Design It!</cite>, Foreword, Welcome; Ch. 1–4, 14
   - "[<cite>Shape Up</cite>](https://basecamp.com/shapeup), Ch. 1–6"
