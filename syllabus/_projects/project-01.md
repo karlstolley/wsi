@@ -77,4 +77,5 @@ dataset. Your system will need to deliver its own database for tracking resident
 complaints, and the alderman's response to or resolution of the complaint.
 
 **ITMD 567 students** will research, invent, or discover some kind of business-oriented system and
-then deliver it as a shaped system and pitch.
+then deliver it as a shaped system and pitch. If public data is available, but not in API form, you
+can pitch a data-scraping setup as part of your system.
