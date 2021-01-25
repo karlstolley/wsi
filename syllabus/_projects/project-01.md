@@ -71,8 +71,8 @@ is available to provide the supplemental data your system will ingest.
 complaints to their correct ward alderman, drawing on data from the [City of Chicago Data
 Portal](https://data.cityofchicago.org/) to determine a resident’s alderman, and perhaps to enhance
 the contents of complaint data. For example, a complaint about rats might reference or include data
-from the city's [rodent
-baiting](https://data.cityofchicago.org/Service-Requests/311-Service-Requests-Rodent-Baiting-Historical/97t6-zrhs)
+from the city's
+[311 Service Requests API](https://data.cityofchicago.org/Service-Requests/311-Service-Requests/v6vf-nfxy)
 dataset. Your system will need to deliver its own database for tracking residents and their
 complaints, and the alderman's response to or resolution of the complaint.
 
