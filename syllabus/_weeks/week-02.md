@@ -5,7 +5,7 @@ meetings:
       - Introduce [Project One](projects/#project-one)
       - Lo-fi prototyping and shaping
       - Fat-marker sketches
-    video:
+    video: https://youtu.be/wnaQX2Dv1lc
   - agenda:
       - Refining your systems-design thinking
       - Determining architecturally significant requirements
