@@ -15,7 +15,7 @@ requirements:
     Refer to [the two example pitches](https://basecamp.com/shapeup/1.5-chapter-06#examples) in
     <cite>Shape Up</cite> to help guide your own work, especially at the draft stage
 deliverables:
-  - action: Post draft deliverables to Basecamp.
+  - action: "Post draft deliverables to the WSI: Projects Basecamp."
     description: "Your draft post should include:"
     details:
       - >
@@ -36,7 +36,7 @@ deliverables:
     deadline: 2021-01-28
   - action: Respond to at least 3 of your peers' Draft Projects
     deadline: 2021-02-01
-  - action: Post final deliverables to Basecamp.
+  - action: "Post final deliverables to the WSI: Projects Basecamp."
     description: "Your final-deliverable post must include:"
     details:
       - >
