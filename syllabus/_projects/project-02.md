@@ -1,6 +1,6 @@
 ---
 title: Web System Alpha-Release Cycle
-preview: true
+preview: false
 due_date: &deadline 2021-03-22
 goals:
   - Analyze complex computing problems and apply principles of computing and other relevant
@@ -107,7 +107,7 @@ deliverables:
       You may opt to use as-is or refine any Project One pitch written by any of your team members.
       Alternatively, you may pitch an entirely new project idea. The instructor must sign off on
       your team’s pitch before you can proceed.
-    deadline: 2021-02-18
+    deadline: 2021-02-11
   -
     action: "Due **weekly**: Post team progress reports weekly on the class Basecamp."
     description: >
@@ -115,11 +115,17 @@ deliverables:
       writeup of your progress and struggles. Reference your project’s repositories, commits, and
       release notes by URL as appropriate.
   -
+    action: Schedule an early-cycle conference with the instructor.
+    description: >
+      Sometime during the week of February 22, you and your team will have a virtual chat of about
+      thirty minutes with the instructor. Watch for scheduling details on Basecamp.
+    deadline: 2021-02-18
+  -
     action: Schedule a mid-cycle conference with the instructor.
     description: >
-      Sometime during the week of March 1, you and your team will have a virtual chat of about
+      Sometime during the week of March 8, you and your team will have a virtual chat of about
       thirty minutes with the instructor. Watch for scheduling details on Basecamp.
-    deadline: 2020-02-25
+    deadline: 2021-03-04
   -
     action: Post your final alpha release project to Basecamp.
     description: >
