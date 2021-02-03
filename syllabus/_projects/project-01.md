@@ -1,6 +1,6 @@
 ---
 title: Shaping a Web System
-due_date: &deadline 2021-02-04
+due_date: &deadline 2021-02-07
 preview: false
 goals:
   - >
