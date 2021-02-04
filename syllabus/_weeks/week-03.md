@@ -7,7 +7,7 @@ meetings:
   - agenda:
       - "Introduce [Project Two](projects/#project-two)"
       - "An all-too-brief refresher on web standards: semantic HTML, progressive enhancement (CSS & JS)"
-    video:
+    video: https://youtu.be/oNqJZaffIKE
 readings:
   - "<cite>Design It!</cite>, Ch 5–7, 15"
   - "[<cite>Shape Up</cite>](https://basecamp.com/shapeup), Ch. 9–12"
