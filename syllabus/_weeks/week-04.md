@@ -5,7 +5,7 @@ meetings:
       - Grooming a Git-centric development environment
       - "Refresher: Git remotes and pull requests; enforcing code reviews"
       - Working on feature branches; keeping up-to-date with `git rebase`
-    video:
+    video: https://youtu.be/AYlL-VhK-JY
   - agenda:
       - Spending plenty of time determining and sketching data structures
       - Determining architecturally significant system features via frontend prototyping
