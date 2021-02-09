@@ -4,9 +4,11 @@ meetings:
   - agenda:
       - Grooming a Git-centric development environment
       - "Refresher: Git remotes and pull requests; enforcing code reviews"
-      - Working on feature branches; keeping up-to-date with `git rebase`
+      - Working on feature branches
     video: https://youtu.be/AYlL-VhK-JY
   - agenda:
+      - Keeping feature branches up to date with `git rebase`
+      - Properly squashing and merging commits in a PR
       - Spending plenty of time determining and sketching data structures
       - Determining architecturally significant system features via frontend prototyping
       - Visual regression testing with [BackstopJS](https://garris.github.io/BackstopJS/)
