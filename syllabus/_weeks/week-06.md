@@ -5,9 +5,11 @@ meetings:
     - <b>No class.</b> Remote team consultations with instructor.
     video:
   - agenda:
+    - "Framework selection: starting from No"
+    - Abbreviated tour of an example framework (ExpressJS)
+    - Tracking dependencies (manifests, semantic versioning)
     - Establishing and seeking loosely-coupled component parts for a system
     - Auditioning candidate components
-    - Tracking dependencies (manifests, semantic versioning)
     video:
 readings:
   - <cite>Great Web APIs</cite>, Ch. 3–4

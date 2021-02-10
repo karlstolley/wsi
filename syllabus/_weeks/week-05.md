@@ -1,15 +1,16 @@
 ---
-theme: Refining and Scaffolding System Architecture
+theme: More Prototyping; Refining and Scaffolding System Architecture
 meetings:
   - agenda:
-    - Software as a Service (SaaS) architecture
-    - API-first design
-    - Microservices
+    - From sketches to frontend prototypes
+    - Determining architecturally significant system features via frontend prototyping
+    - Prototyping with asynchronous JavaScript functions and mock APIs
     video:
   - agenda:
-    - "Framework selection: starting from No"
-    - Abbreviated tour of an example framework (ExpressJS)
-    - Working with asynchronous JavaScript functions and APIs
+    - Software as a Service (SaaS) architecture
+    - Spending plenty of time determining and sketching data structures
+    - API-first design
+    - Microservices
     video:
 readings:
   - "<cite>Great Web APIs</cite>, Ch. 2"
