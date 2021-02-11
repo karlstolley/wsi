@@ -10,6 +10,9 @@ meetings:
       - Keeping feature branches up to date with `git rebase`
       - Properly squashing and merging commits in a PR
       - Components of frontend prototyping
+      - >
+        Generating [self-signed certificates for HTTPS](https://letsencrypt.org/docs/certificates-for-localhost/)
+        (Let’s Encrypt docs)
       - Visual regression testing with [BackstopJS](https://garris.github.io/BackstopJS/)
     video:
 readings:
