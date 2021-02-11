@@ -14,7 +14,7 @@ meetings:
         Generating [self-signed certificates for HTTPS](https://letsencrypt.org/docs/certificates-for-localhost/)
         (Let’s Encrypt docs)
       - Visual regression testing with [BackstopJS](https://garris.github.io/BackstopJS/)
-    video:
+    video: https://youtu.be/Q7WlX32Ypyc
 readings:
   - "<cite>Design It!</cite>, Ch. 8–10, 16"
   - "[<cite>Shape Up</cite>](https://basecamp.com/shapeup), Ch. 13–14, Conclusion"
