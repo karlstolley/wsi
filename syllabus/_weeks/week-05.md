@@ -2,6 +2,7 @@
 theme: More Prototyping; Refining and Scaffolding System Architecture
 meetings:
   - agenda:
+    - Inspecting API data and supplementing the documentation yourself
     - From sketches to frontend prototypes
     - Determining architecturally significant system features via frontend prototyping
     - Prototyping with asynchronous JavaScript functions and mock APIs
