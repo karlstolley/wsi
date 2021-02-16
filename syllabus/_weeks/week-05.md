@@ -6,7 +6,7 @@ meetings:
     - From sketches to frontend prototypes
     - Determining architecturally significant system features via frontend prototyping
     - Prototyping with asynchronous JavaScript functions and mock APIs
-    video:
+    video: https://youtu.be/yrGAc_mI2dc
   - agenda:
     - Software as a Service (SaaS) architecture
     - Spending plenty of time determining and sketching data structures
