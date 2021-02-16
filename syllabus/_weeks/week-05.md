@@ -5,9 +5,10 @@ meetings:
     - Inspecting API data and supplementing the documentation yourself
     - From sketches to frontend prototypes
     - Determining architecturally significant system features via frontend prototyping
-    - Prototyping with asynchronous JavaScript functions and mock APIs
     video: https://youtu.be/yrGAc_mI2dc
   - agenda:
+    - Emergency Library Education
+    - Prototyping with asynchronous JavaScript functions and mock APIs
     - Software as a Service (SaaS) architecture
     - Spending plenty of time determining and sketching data structures
     - API-first design
