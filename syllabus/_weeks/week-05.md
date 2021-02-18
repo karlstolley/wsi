@@ -13,7 +13,7 @@ meetings:
     - Spending plenty of time determining and sketching data structures
     - API-first design
     - Microservices
-    video:
+    video: https://youtu.be/502H9vWFirI
 readings:
   - "<cite>Great Web APIs</cite>, Ch. 2"
   - <cite>Design It!</cite>, Ch. 11–13, 17
