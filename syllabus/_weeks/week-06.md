@@ -2,7 +2,10 @@
 theme: Frameworks and Dependencies
 meetings:
   - agenda:
-    - <b>No class.</b> Remote team consultations with instructor.
+    - Software as a Service (SaaS) architecture
+    - Spending plenty of time determining and sketching data structures
+    - API-first design
+    - Microservices
     video:
   - agenda:
     - "Framework selection: starting from No"

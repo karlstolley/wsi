@@ -9,10 +9,6 @@ meetings:
   - agenda:
     - Emergency Library Education
     - Prototyping with asynchronous JavaScript functions and mock APIs
-    - Software as a Service (SaaS) architecture
-    - Spending plenty of time determining and sketching data structures
-    - API-first design
-    - Microservices
     video: https://youtu.be/502H9vWFirI
 readings:
   - "<cite>Great Web APIs</cite>, Ch. 2"
