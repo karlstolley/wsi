@@ -3,14 +3,14 @@ theme: Frameworks and Dependencies
 meetings:
   - agenda:
     - Software as a Service (SaaS) architecture
-    - Spending plenty of time determining and sketching data structures
     - API-first design
-    - Microservices
-    video:
-  - agenda:
     - "Framework selection: starting from No"
     - Abbreviated tour of an example framework (ExpressJS)
     - Tracking dependencies (manifests, semantic versioning)
+    video:
+  - agenda:
+    - Microservices
+    - Spending plenty of time determining and sketching data structures
     - Establishing and seeking loosely-coupled component parts for a system
     - Auditioning candidate components
     video:
