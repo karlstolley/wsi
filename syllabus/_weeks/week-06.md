@@ -7,7 +7,7 @@ meetings:
     - "Framework selection: starting from No"
     - Abbreviated tour of an example framework (ExpressJS)
     - Tracking dependencies (manifests, semantic versioning)
-    video:
+    video: https://youtu.be/9smfOJkUUQg
   - agenda:
     - Microservices
     - Spending plenty of time determining and sketching data structures
