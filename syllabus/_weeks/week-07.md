@@ -2,6 +2,8 @@
 theme: Code Quality and Documentation
 meetings:
   - agenda:
+    - Establishing and seeking loosely-coupled component parts for a system
+    - Auditioning candidate components
     - Training your nose for “code smell”
     - Linting with [eslint](https://eslint.org)
     - Stolley’s opinionated [eslint configs](https://github.com/karlstolley/eslint-config)

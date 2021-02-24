@@ -1,5 +1,5 @@
 ---
-theme: Frameworks and Dependencies
+theme: Frameworks and Dependencies; Web Scraping
 meetings:
   - agenda:
     - Software as a Service (SaaS) architecture
@@ -10,9 +10,8 @@ meetings:
     video: https://youtu.be/9smfOJkUUQg
   - agenda:
     - Microservices
+    - Scraping data from HTML
     - Spending plenty of time determining and sketching data structures
-    - Establishing and seeking loosely-coupled component parts for a system
-    - Auditioning candidate components
     video:
 readings:
   - <cite>Great Web APIs</cite>, Ch. 3–4
