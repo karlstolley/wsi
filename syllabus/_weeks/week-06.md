@@ -12,7 +12,7 @@ meetings:
     - Microservices
     - Scraping data from HTML
     - Spending plenty of time determining and sketching data structures
-    video:
+    video: https://youtu.be/JuzbDDb0728
 readings:
   - <cite>Great Web APIs</cite>, Ch. 3–4
   - CatOnMat.net, [Frameworks don’t make any sense](https://catonmat.net/frameworks-dont-make-sense)
