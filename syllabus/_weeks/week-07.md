@@ -5,7 +5,7 @@ meetings:
       - Introduce ITMD 567–only [Project Five](projects/#project-five)
       - Working with [JSDoc](https://jsdoc.app/)
       - Integrating JSDoc output with GitHub Pages
-    video:
+    video: https://youtu.be/TJWSkTtxzYs
   - agenda:
       - Linting with [eslint](https://eslint.org)
       - Stolley’s opinionated [eslint configs](https://github.com/karlstolley/eslint-config)
