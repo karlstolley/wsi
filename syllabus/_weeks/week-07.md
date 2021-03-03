@@ -7,6 +7,7 @@ meetings:
       - Integrating JSDoc output with GitHub Pages
     video: https://youtu.be/TJWSkTtxzYs
   - agenda:
+      - Including CLI tools in project setup (`package.json`, the `npx` command)
       - Linting with [eslint](https://eslint.org)
       - Stolley’s opinionated [eslint configs](https://github.com/karlstolley/eslint-config)
       - Training your nose for “code smell”
