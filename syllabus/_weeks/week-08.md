@@ -1,13 +1,10 @@
 ---
-theme: Working with Data Structures & Data Stores
+theme: Automated Testing
 meetings:
   - agenda:
-      - Flat-file storage; applications and use cases
-      - Relational databases (SQL and friends)
-      - Applications and use cases
-      - Establishing and seeking loosely-coupled component parts for a system
-      - Auditioning candidate components
-      - "Implementing SQL-style databases: SQLite example"
+      - Evaluating testing frameworks; [Mocha](https://mochajs.org/)
+      - Beginning to write tests
+      - Integrating tests into Git workflows
     video:
   - agenda:
       - "**No class.** University COVID Study Day."

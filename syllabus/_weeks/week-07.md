@@ -9,11 +9,8 @@ meetings:
   - agenda:
       - Linting with [eslint](https://eslint.org)
       - Stolley’s opinionated [eslint configs](https://github.com/karlstolley/eslint-config)
-      - Evaluating testing frameworks; [Mocha](https://mochajs.org/)
       - Training your nose for “code smell”
       - Isolating business logic
-      - Beginning to write tests
-      - Integrating tests into Git workflows
     video:
 readings:
   - <cite>Great Web APIs</cite>, Ch. 5

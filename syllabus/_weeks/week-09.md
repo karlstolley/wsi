@@ -1,17 +1,22 @@
 ---
-theme: Document-style Databases, Configuration
+theme: Working with Data Structures & Data Stores Configuration
 meetings:
+  - agenda:
+      - Flat-file storage; applications and use cases
+      - Relational databases (SQL and friends)
+      - Applications and use cases
+      - Establishing and seeking loosely-coupled component parts for a system
+      - Auditioning candidate components
+      - "Implementing flat-file storage"
+      - "Implementing SQL-style databases: SQLite example"
+    video:
   - agenda:
       - Document-based databases (NoSQL and friends)
       - Applications and use cases
       - "Implementing document-style databases: MongoDB example"
       - Seeding NoSQL-style databases (MongoDB example)
       - Testing with databases, especially setup and tear-down
-    video:
-  - agenda:
-      - Introduce [Project Three](projects/#project-three)
       - "Configuration and connection: what to commit, what to obscure (`ENV` variables)"
-      - "Implementing flat-file storage"
     video:
 readings:
   - <cite>Release It!</cite>, Preface; Ch. 1–5
