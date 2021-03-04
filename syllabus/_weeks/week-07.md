@@ -12,7 +12,7 @@ meetings:
       - Stolley’s opinionated [eslint configs](https://github.com/karlstolley/eslint-config)
       - Training your nose for “code smell”
       - Isolating business logic
-    video:
+    video: https://youtu.be/MigFBPeQ0yY
 readings:
   - <cite>Great Web APIs</cite>, Ch. 5
   - >
