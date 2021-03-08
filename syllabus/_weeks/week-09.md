@@ -1,25 +1,12 @@
 ---
-theme: Working with Data Structures & Data Stores Configuration
+theme: Catch-Up and Work Week
 meetings:
   - agenda:
-      - Flat-file storage; applications and use cases
-      - Relational databases (SQL and friends)
-      - Applications and use cases
-      - Establishing and seeking loosely-coupled component parts for a system
-      - Auditioning candidate components
-      - "Implementing flat-file storage"
-      - "Implementing SQL-style databases: SQLite example"
-    video:
+      - Topics to catch up on...
+      - Open Q&A
   - agenda:
-      - Document-based databases (NoSQL and friends)
-      - Applications and use cases
-      - "Implementing document-style databases: MongoDB example"
-      - Seeding NoSQL-style databases (MongoDB example)
-      - Testing with databases, especially setup and tear-down
-      - "Configuration and connection: what to commit, what to obscure (`ENV` variables)"
-    video:
-readings:
-  - <cite>Release It!</cite>, Preface; Ch. 1–5
+      - More topics to catch up on...
+      - Open Q&A
 tasks:
-  - Participate in Week Nine reading discussion on Basecamp
+  - Participate in Megathread Q&A on Basecamp
 ---
