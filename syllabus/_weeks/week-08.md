@@ -5,7 +5,7 @@ meetings:
       - Evaluating testing frameworks; [Mocha](https://mochajs.org/)
       - Beginning to write tests
       - Integrating tests into Git workflows
-    video:
+    video: https://youtu.be/1oG3hTZCEEg
   - agenda:
       - "**No class.** University COVID Study Day."
 readings:
