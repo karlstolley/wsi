@@ -26,14 +26,14 @@ deliverables:
   - action: Post draft bibliography to Basecamp, in its own thread.
     description: "Be sure to include:"
     details:
-      - Your complete draft bibliography
+      - Your draft bibliography
       - The full citation to each article, in [ACM style](https://www.acm.org/publications/authors/reference-formatting)
       - Your 150-word annotation of each article
     deadline: 2021-04-15
   - action: Post final bibliography to Basecamp, in a follow up reply to your original thread.
     description: "Be sure to include:"
     details:
-      - Your complete draft bibliography
+      - Your complete final bibliography
       - The full citation to each article, in [ACM style](https://www.acm.org/publications/authors/reference-formatting)
       - Your 150-word annotation of each article
     deadline: *deadline
