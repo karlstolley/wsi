@@ -7,8 +7,8 @@ meetings:
       - Open Q&A
     video: https://youtu.be/wCvtnPjcVNQ
   - agenda:
-      - More topics to catch up on...
-      - Open Q&A
+      - "**NO CLASS**. Work day."
+      - Stolley available for help and questions on Basecamp, etc.
 tasks:
   - Participate in Megathread Q&A on Basecamp
 ---
