@@ -1,7 +1,7 @@
 ---
 title: Web System Alpha-Release Cycle
 preview: false
-due_date: &deadline 2021-03-22
+due_date: &deadline 2021-03-25
 goals:
   - Analyze complex computing problems and apply principles of computing and other relevant
     disciplines to identify solutions
