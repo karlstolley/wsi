@@ -3,7 +3,7 @@ theme: Interconnection, Configuration, Security
 meetings:
   - agenda:
       - Server setup and security (Linode example)
-      - Key authentication over SSH
+      - Key-based authentication over SSH
       - Basic firewall ([ufw](https://code.launchpad.net/ufw))
       - Basic testing to ensure server security
     video:

@@ -6,9 +6,6 @@ meetings:
       - Flat-file storage; applications and use cases
       - Relational databases (SQL and friends)
       - Applications and use cases
-      - Establishing and seeking loosely-coupled component parts for a system
-      - Auditioning candidate components
-      - "Implementing flat-file storage"
       - "Implementing SQL-style databases: SQLite example"
     video:
   - agenda:
