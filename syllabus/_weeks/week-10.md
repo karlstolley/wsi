@@ -1,5 +1,5 @@
 ---
-theme: Working with Data Structures & Data Stores Configuration
+theme: Data Structures & Stores; Configuring, Securing, and Seeding Databases
 meetings:
   - agenda:
       - Introduce [Project Three](projects/#project-three)
