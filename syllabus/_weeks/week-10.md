@@ -2,13 +2,14 @@
 theme: Data Structures & Stores; Configuring, Securing, and Seeding Databases
 meetings:
   - agenda:
-      - Introduce [Project Three](projects/#project-three)
       - Flat-file storage; applications and use cases
       - Relational databases (SQL and friends)
       - Applications and use cases
       - "Implementing SQL-style databases: SQLite example"
+      - Seeding SQL-style databases
     video:
   - agenda:
+      - Introduce [Project Three](projects/#project-three)
       - Document-based databases (NoSQL and friends)
       - Applications and use cases
       - "Implementing document-style databases: MongoDB example"
