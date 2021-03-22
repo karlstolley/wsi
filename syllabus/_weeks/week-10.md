@@ -7,7 +7,7 @@ meetings:
       - Applications and use cases
       - "Implementing SQL-style databases: SQLite example"
       - Seeding SQL-style databases
-    video:
+    video: https://youtu.be/-RqTp3pt9C4
   - agenda:
       - Introduce [Project Three](projects/#project-three)
       - Document-based databases (NoSQL and friends)
