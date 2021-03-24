@@ -5,13 +5,12 @@ meetings:
       - Flat-file storage; applications and use cases
       - Relational databases (SQL and friends)
       - Applications and use cases
-
     video: https://youtu.be/-RqTp3pt9C4
   - agenda:
       - Introduce [Project Three](projects/#project-three)
       - "Implementing SQL-style databases: SQLite example"
       - Seeding SQL-style databases
-    video:
+    video: https://youtu.be/iKrldqH6d9Q
 readings:
   - <cite>Release It!</cite>, Preface; Ch. 1–5
   - >
