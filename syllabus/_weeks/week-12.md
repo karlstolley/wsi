@@ -1,5 +1,5 @@
 ---
-theme: Interconnection, Configuration, Security
+theme: "Readying for Production: Interconnection, Configuration, Security"
 meetings:
   - agenda:
       - Server setup and security (Linode example)

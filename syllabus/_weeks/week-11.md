@@ -1,13 +1,18 @@
 ---
-theme: Shifting from Alphas to Betas, Readying for Production
+theme: Database Leftovers; Shifting from Alphas to Betas
 meetings:
   - agenda:
-    - Thinking about betas and production readiness
-    - Establishing and seeking loosely-coupled component parts for a system
-    - Auditioning candidate components
+    - Document-based databases (NoSQL and friends)
+    - Applications and use cases
+    - "Implementing document-style databases: MongoDB example"
+    - Seeding NoSQL-style databases (MongoDB example)
+    - "Configuration and connection: what to commit, what to obscure (`ENV` variables)"
     video:
   - agenda:
     - Developing a production mindset
+    - Thinking about betas and production readiness
+    - Establishing and seeking loosely-coupled component parts for a system
+    - Auditioning candidate components
     video:
 readings:
   - <cite>Release It!</cite>, Ch. 6–8
