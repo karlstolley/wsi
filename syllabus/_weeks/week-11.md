@@ -5,8 +5,8 @@ meetings:
     - Document-based databases (NoSQL and friends)
     - Applications and use cases
     - "Implementing document-style databases: MongoDB example"
-    - Seeding NoSQL-style databases (MongoDB example)
     - "Configuration and connection: what to commit, what to obscure (`ENV` variables)"
+    - Seeding NoSQL-style databases (MongoDB example)
     video:
   - agenda:
     - Developing a production mindset
