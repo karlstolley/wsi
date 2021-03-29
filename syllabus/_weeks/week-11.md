@@ -7,7 +7,7 @@ meetings:
     - "Implementing document-style databases: MongoDB example"
     - "Configuration and connection: what to commit, what to obscure (`ENV` variables)"
     - Seeding NoSQL-style databases (MongoDB example)
-    video:
+    video: https://youtu.be/4iUMGfNZyds
   - agenda:
     - Developing a production mindset
     - Thinking about betas and production readiness
