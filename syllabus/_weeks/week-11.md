@@ -11,8 +11,8 @@ meetings:
   - agenda:
     - Developing a production mindset
     - Thinking about betas and production readiness
-    - Establishing and seeking loosely-coupled component parts for a system
-    - Auditioning candidate components
+    - "Review request: organization (repos, code, etc.)"
+    - "Review request: progressive enhancement in web apps"
     video:
 readings:
   - <cite>Release It!</cite>, Ch. 6–8

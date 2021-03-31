@@ -3,6 +3,8 @@ theme: Refactoring
 meetings:
   - agenda:
     - Testing with databases, especially setup and tear-down
+    - Establishing and seeking loosely-coupled dependencies for a system
+    - Auditioning candidate dependencies
     - Testing dependencies
     - Aiming eventually to remove dependencies
     video:
