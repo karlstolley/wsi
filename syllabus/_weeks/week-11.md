@@ -13,7 +13,7 @@ meetings:
     - Thinking about betas and production readiness
     - "Review request: organization (repos, code, etc.)"
     - "Review request: progressive enhancement in web apps"
-    video:
+    video: https://youtu.be/7l1c7BU3ths
 readings:
   - <cite>Release It!</cite>, Ch. 6–8
   - <cite>Great Web APIs</cite>, Ch. 9–10
