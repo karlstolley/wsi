@@ -8,7 +8,9 @@ meetings:
       - Basic testing to ensure server security
     video: https://youtu.be/6HwANd-u9w8
   - agenda:
+      - Setting up a shell and Git on the server
       - Selecting a web server
+      - Using Git to manage configuration files
       - Researching and implementing a configuration
       - Setting up `https` with [Certbot](https://certbot.eff.org/)
     video:
