@@ -13,7 +13,7 @@ meetings:
       - Using Git to manage configuration files
       - Researching and implementing a configuration
       - Setting up `https` with [Certbot](https://certbot.eff.org/)
-    video:
+    video: https://youtu.be/hRfHIQ6iDN0
 readings:
   - <cite>Release It!</cite>, Ch. 9–11
   - <cite>Great Web APIs</cite>, Ch. 11–13
