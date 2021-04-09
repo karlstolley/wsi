@@ -1,18 +1,18 @@
 ---
-theme: Refactoring
+theme: Remaining Server Configuration; Refactoring
 meetings:
   - agenda:
-    - Testing with databases, especially setup and tear-down
-    - Establishing and seeking loosely-coupled dependencies for a system
-    - Auditioning candidate dependencies
-    - Testing dependencies
-    - Aiming eventually to remove dependencies
+    - Researching and implementing an Nginx server-block configuration
+    - Setting up `https` with [Certbot](https://certbot.eff.org/)
+    - "Refresher: progressive enhancement in an app setting"
+    - Building tests into the Git lifecycle with hooks
+    - Test-driven refactoring for performance, elegance, readability
     video:
   - agenda:
     - Reorganizing code
     - Revising for functionality
-    - Leaning hard on your test suite
-    - Refactoring for performance, elegance, readability
+    - Testing with dependencies
+    - Aiming eventually to remove dependencies
     video:
 readings:
   - <cite>Release It!</cite>, Ch. 12–14
