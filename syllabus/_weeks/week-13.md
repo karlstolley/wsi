@@ -1,18 +1,14 @@
 ---
-theme: Remaining Server Configuration; Refactoring
+theme: Remaining Server Configuration; Work Week
 meetings:
   - agenda:
     - Researching and implementing an Nginx server-block configuration
+    - Basic git-based deployment with `post-receive` hooks
     - Setting up `https` with [Certbot](https://certbot.eff.org/)
-    - "Refresher: progressive enhancement in an app setting"
-    - Building tests into the Git lifecycle with hooks
-    - Test-driven refactoring for performance, elegance, readability
     video:
   - agenda:
-    - Reorganizing code
-    - Revising for functionality
-    - Testing with dependencies
-    - Aiming eventually to remove dependencies
+    - "No class. Stolley available for questions."
+    - Team conferences Thursday April 15
     video:
 readings:
   - <cite>Release It!</cite>, Ch. 12–14
