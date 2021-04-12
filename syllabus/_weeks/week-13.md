@@ -5,7 +5,7 @@ meetings:
     - Researching and implementing an Nginx server-block configuration
     - Basic git-based deployment with `post-receive` hooks
     - Setting up `https` with [Certbot](https://certbot.eff.org/)
-    video:
+    video: https://youtu.be/Ukib3MZ79l4
   - agenda:
     - "No class. Stolley available for questions."
     - Team conferences Thursday April 15
