@@ -9,7 +9,7 @@ meetings:
       Building tests into the Git lifecycle
       [with hooks](https://gist.github.com/karlstolley/466d8e1c06d8c36ac9aea69aefa16625)
     - Test-driven refactoring for performance, elegance, readability
-    video:
+    video: https://youtu.be/P3Vd5oiDKT0
   - agenda:
     - "Refresher: progressive enhancement in an app setting"
     - "Web API example: [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)"
