@@ -1,7 +1,7 @@
 ---
 title: Web System Public-Release Sprint
 due_date: &deadline 2021-05-13
-preview: true
+preview: false
 goals:
   - Quickly revise a system’s core functionality and features to ready an initial public release.
   - >
@@ -13,9 +13,9 @@ requirements:
     Tag significant public releases, including release candidates, according to the [Semantic
     Versioning specification](https://semver.org)
   - >
-    Your system must be deployed to a publically available server, if you’ve not already done so.
+    Your system **must** be deployed to a publicly available server, if you’ve not already done so.
   - >
-    Your deployment strategy must include the ability to roll back to an earlier, known stable
+    Your deployment strategy **must** include the ability to roll back to an earlier, known stable
     version.
   - >
     Once deployed, your system **must** implement some type of continuous integration, continuous
