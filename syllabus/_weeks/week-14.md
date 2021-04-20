@@ -4,18 +4,17 @@ meetings:
   - agenda:
     - Introduce [Project Four](projects/#project-four)
     - Refresher on `NODE_ENV` values
-    - Testing with databases, especially setup and tear-down
     - >
       Building tests into the Git lifecycle
       [with hooks](https://gist.github.com/karlstolley/466d8e1c06d8c36ac9aea69aefa16625);
       watch the [supplemental video](https://youtu.be/dI4Yu4JZXcw)
-    - Test-driven refactoring for performance, elegance, readability
+
     video: https://youtu.be/P3Vd5oiDKT0
   - agenda:
+    - Testing with databases, especially setup and tear-down
+    - Test-driven refactoring for performance, elegance, readability
     - "Refresher: progressive enhancement in an app setting"
     - "Web API example: [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)"
-    - Reorganizing code
-    - Revising for functionality
     video:
 readings:
   - >
