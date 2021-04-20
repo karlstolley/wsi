@@ -7,7 +7,8 @@ meetings:
     - Testing with databases, especially setup and tear-down
     - >
       Building tests into the Git lifecycle
-      [with hooks](https://gist.github.com/karlstolley/466d8e1c06d8c36ac9aea69aefa16625)
+      [with hooks](https://gist.github.com/karlstolley/466d8e1c06d8c36ac9aea69aefa16625);
+      watch the [supplemental video](https://youtu.be/dI4Yu4JZXcw)
     - Test-driven refactoring for performance, elegance, readability
     video: https://youtu.be/P3Vd5oiDKT0
   - agenda:
