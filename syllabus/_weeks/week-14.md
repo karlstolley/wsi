@@ -8,9 +8,9 @@ meetings:
       Building tests into the Git lifecycle
       [with hooks](https://gist.github.com/karlstolley/466d8e1c06d8c36ac9aea69aefa16625);
       watch the [supplemental video](https://youtu.be/dI4Yu4JZXcw)
-
     video: https://youtu.be/P3Vd5oiDKT0
   - agenda:
+    - No class. Stolley to post make-up video by the weekend.
     - Testing with databases, especially setup and tear-down
     - Test-driven refactoring for performance, elegance, readability
     - "Refresher: progressive enhancement in an app setting"
