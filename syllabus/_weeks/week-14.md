@@ -10,12 +10,10 @@ meetings:
       watch the [supplemental video](https://youtu.be/dI4Yu4JZXcw)
     video: https://youtu.be/P3Vd5oiDKT0
   - agenda:
-    - No class. Stolley to post make-up video by the weekend.
     - Testing with databases, especially setup and tear-down
-    - Test-driven refactoring for performance, elegance, readability
     - "Refresher: progressive enhancement in an app setting"
     - "Web API example: [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)"
-    video:
+    video: https://youtu.be/i4RmJ0faA-Y
 readings:
   - >
     [Production best practices: performance and reliability](https://expressjs.com/en/advanced/best-practice-performance.html) (ExpressJS and `NODE_ENV` values)
