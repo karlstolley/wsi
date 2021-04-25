@@ -7,7 +7,7 @@ meetings:
       - Deployment packages and libraries
       - Robust deployment with [pm2](https://pm2.keymetrics.io/docs/usage/deployment/)
       - Simple use of pm2 to start, monitor, and keep an app running
-    video:
+    video: https://youtu.be/DQlJkMjsGSI
   - agenda:
       - Using [TravisCI on GitHub](https://docs.travis-ci.com/user/languages/javascript-with-nodejs/)
       - >
