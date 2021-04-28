@@ -14,5 +14,5 @@ meetings:
         Including a [TravisCI status image](https://docs.travis-ci.com/user/status-images/) in your
         README file (or elsewhere)
       - Nginx caching
-    video:
+    video: https://youtu.be/z-xVZXnqRF8
 ---
