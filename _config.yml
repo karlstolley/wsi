@@ -57,6 +57,11 @@ course:
   css:
     font-url: "https://use.typekit.net/lec4tmb.css"
     theme: winter
+  archives:
+    - label: Spring 2021
+      url: "https://courses.stolley.co/wsi-2021/"
+    - label: Spring 2020
+      url: "https://courses.stolley.co/wsi-2020/"
 
 collections_dir: syllabus
 
