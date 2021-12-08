@@ -11,7 +11,7 @@ course:
   tagline: >
     A project-based course on the integration of web applications, services, and infrastructure to
     scale.
-  term: Spring 2021
+  term: Spring 2022
   # Set `days: ""` (empty string) for weekly/asynchronous classes
   days:
     - Monday
