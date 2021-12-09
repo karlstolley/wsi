@@ -6,6 +6,10 @@ timezone: America/Chicago
 
 course:
   number: ITMD 467/567
+  id:
+    code: ITMD
+    gr: 567
+    ug: 467
   title: Web Systems Integration
   uid: wsi
   tagline: >
