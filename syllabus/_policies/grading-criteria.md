@@ -14,7 +14,8 @@ title: Grading Criteria
   acceptable as undergraduate level.
 * D - Student has turned in all required components of a project, but the work is below
   undergraduate level.
-* E - Student has not turned in all required components of a project.
+* E - Student has not turned in all required components of a project, or student has not turned in
+  work, including drafts, by the deadline without contacting the instructor ahead of time.
 </section>
 
 <section class="grad" markdown="1">
@@ -27,5 +28,6 @@ title: Grading Criteria
   acceptable as graduate level.
 * C - Student has turned in all required components of a project, but the work is below graduate
   level.
-* E - Student has not turned in all required components of a project.
+* E - Student has not turned in all required components of a project, or student has not turned in
+  work, including drafts, by the deadline without contacting the instructor ahead of time.
 </section>
