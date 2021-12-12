@@ -48,7 +48,7 @@ Illinois Tech encourages anyone experiencing sexual harassment or sexual miscond
 the Office of Title IX Compliance for information on support options and the resolution process.
 
 You can report sexual harassment electronically at
-[https://www.iit.edu/incidentreport](iit.edu/incidentreport), which may be completed anonymously.
+[iit.edu/incidentreport](https://www.iit.edu/incidentreport), which may be completed anonymously.
 You may additionally report by contacting the Title IX Compliance Coordinator, Virginia Foster, at
 [foster@iit.edu](mailto:foster@iit.edu), or the Deputy Title IX Compliance Coordinator, Molly Fleck,
 at [mfleck2@iit.edu](mailto:mfleck2@iit.edu).
