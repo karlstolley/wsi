@@ -11,11 +11,10 @@ Student Health and Wellness Center). Contact the Center by telephone at 312-567-
 312-567-5135, or via email at [disabilities@iit.edu](mailto:disabilities@iit.edu)
 
 Students who have any difficulty, either permanent or temporary, that might affect their ability to
-successfully participate in and complete the class should contact me privately, either in person or
-electronically, at the start of the semester or as a difficulty arises. That includes difficulties
-with housing, internet access, and anything that otherwise compromises your sense of safety,
-security, and support—especially if it impacts your ability to complete this class. Please reach
-out.
+successfully participate in and complete the class should contact me privately at the start of the
+semester or as a difficulty arises. That includes difficulties with housing, internet access, and
+anything that otherwise compromises your sense of safety, security, and support—especially if it
+impacts your ability to complete this class. Please reach out.
 
 I will adjust methods, materials, or deadlines as necessary to ensure equitable participation for
 all students.
@@ -50,12 +49,14 @@ the Office of Title IX Compliance for information on support options and the res
 
 You can report sexual harassment electronically at [iit.edu/incidentreport](iit.edu/incidentreport),
 which may be completed anonymously. You may additionally report by contacting the Title IX
-Coordinator, Virginia Foster at [foster@iit.edu](mailto:foster@iit.edu), or the Deputy Title IX Coordinator, Esther Espeland
-at [eespeland@iit.edu](mailto:eespeland@iit.edu).
+Compliance Coordinator, Virginia Foster, at [foster@iit.edu](mailto:foster@iit.edu), or the Deputy
+Title IX Compliance Coordinator, Molly Fleck, at [mfleck2@iit.edu](mailto:mfleck2@iit.edu).
 
-For confidential support, you may reach Illinois Tech’s Confidential Advisor at 773-907-1062. You
-can also contact a licensed practitioner in Illinois Tech’s Student Health and Wellness Center at
-[student.health@iit.edu](mailto:student.health@iit.edu) or 312-567-7550
+For [confidential support and
+reporting](https://www.iit.edu/title-ix/policies-and-procedures/file-report/confidential-reporting),
+you may reach Illinois Tech’s Confidential Advisor (Resilience) at 773-907-1062. You can also
+contact a licensed practitioner in Illinois Tech’s Student Health and Wellness Center at
+[student.health@iit.edu](mailto:student.health@iit.edu) or 312-567-7550.
 
 For a comprehensive list of resources regarding counseling services, medical assistance, legal
 assistance and visa and immigration services, you can visit the Office of Title IX Compliance
