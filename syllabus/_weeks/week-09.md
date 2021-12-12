@@ -5,7 +5,7 @@ meetings:
       - Working with environment variables
       - Doing releases through Git and GitHub
       - Open Q&A
-    video: https://youtu.be/wCvtnPjcVNQ
+    video:
   - agenda:
       - "**NO CLASS**. Work day."
       - Stolley available for help and questions on Basecamp, etc.

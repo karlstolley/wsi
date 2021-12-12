@@ -5,7 +5,7 @@ meetings:
       - Grooming a Git-centric development environment
       - "Refresher: Git remotes and pull requests; enforcing code reviews"
       - Working on feature branches
-    video: https://youtu.be/AYlL-VhK-JY
+    video:
   - agenda:
       - Keeping feature branches up to date with `git rebase`
       - Properly squashing and merging commits in a PR
@@ -14,7 +14,7 @@ meetings:
         Generating [self-signed certificates for HTTPS](https://letsencrypt.org/docs/certificates-for-localhost/)
         (Let’s Encrypt docs)
       - Visual regression testing with [BackstopJS](https://garris.github.io/BackstopJS/)
-    video: https://youtu.be/Q7WlX32Ypyc
+    video:
 readings:
   - "<cite>Design It!</cite>, Ch. 8–10, 16"
   - "[<cite>Shape Up</cite>](https://basecamp.com/shapeup), Ch. 13–14, Conclusion"

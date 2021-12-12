@@ -7,12 +7,12 @@ meetings:
     - "Framework selection: starting from No"
     - Abbreviated tour of an example framework (ExpressJS)
     - Tracking dependencies (manifests, semantic versioning)
-    video: https://youtu.be/9smfOJkUUQg
+    video:
   - agenda:
     - Microservices
     - Scraping data from HTML
     - Spending plenty of time determining and sketching data structures
-    video: https://youtu.be/JuzbDDb0728
+    video:
 readings:
   - <cite>Great Web APIs</cite>, Ch. 3–4
   - CatOnMat.net, [Frameworks don’t make any sense](https://catonmat.net/frameworks-dont-make-sense)

@@ -5,14 +5,14 @@ meetings:
       - Introduce ITMD 567–only [Project Five](projects/#project-five)
       - Working with [JSDoc](https://jsdoc.app/)
       - Integrating JSDoc output with GitHub Pages
-    video: https://youtu.be/TJWSkTtxzYs
+    video:
   - agenda:
       - Including CLI tools in project setup (`package.json`, the `npx` command)
       - Linting with [eslint](https://eslint.org)
       - Stolley’s opinionated [eslint configs](https://github.com/karlstolley/eslint-config)
       - Training your nose for “code smell”
       - Isolating business logic
-    video: https://youtu.be/MigFBPeQ0yY
+    video:
 readings:
   - <cite>Great Web APIs</cite>, Ch. 5
   - >

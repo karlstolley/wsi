@@ -5,11 +5,11 @@ meetings:
     - Inspecting API data and supplementing the documentation yourself
     - From sketches to frontend prototypes
     - Determining architecturally significant system features via frontend prototyping
-    video: https://youtu.be/yrGAc_mI2dc
+    video:
   - agenda:
     - Emergency Library Education
     - Prototyping with asynchronous JavaScript functions and mock APIs
-    video: https://youtu.be/502H9vWFirI
+    video:
 readings:
   - "<cite>Great Web APIs</cite>, Ch. 2"
   - <cite>Design It!</cite>, Ch. 11–13, 17
