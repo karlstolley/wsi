@@ -2,9 +2,14 @@
 theme: Welcome and Introductions
 meetings:
   - agenda:
+      - "**Online class**."
       - Welcome & introductions
       - Course policies
       - Course calendar
+    video:
+  - agenda:
+      - "**Online class**."
+      - Technical foundations and setup
     video:
 readings:
   - <cite>Design It!</cite>, Foreword, Welcome; Ch. 1–4, 14

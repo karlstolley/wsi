@@ -2,11 +2,13 @@
 theme: Shaping and Sketching; System-Design Fundamentals and Strategies
 meetings:
   - agenda:
+      - "**No class**. Martin Luther King, Jr. holiday"
+    video:
+  - agenda:
+      - "**Online class**."
       - Introduce [Project One](projects/#project-one)
       - Lo-fi prototyping and shaping
       - Fat-marker sketches
-    video:
-  - agenda:
       - Refining your systems-design thinking
       - Determining architecturally significant requirements
       - Establishing project boundaries
