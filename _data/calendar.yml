@@ -16,6 +16,7 @@
   expires: &nine 2022-03-07T00:00
 - begins: *nine
   expires: &ten 2022-03-14T00:00
+  due_date: 2022-03-21T00:00
 - begins: *ten
   expires: &eleven 2022-03-21T00:00
 - begins: *eleven
