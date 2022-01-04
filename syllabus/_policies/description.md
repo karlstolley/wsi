@@ -13,11 +13,8 @@ and data exchange across and even outside of an organization. The course emphasi
 approaches for designing and developing robust but loosely coupled systems, always in anticipation
 of any one system’s inevitable failure in production. The course’s preferred methods will require
 students to create and maintain extensive testing suites and other automated quality-assurance
-measures. Students will also learn to practice chaos engineering, where systems are not only built
-and tested but actively and intentionally stressed, attacked, and misused to expose additional
-points of failure, ranging from clueless users to straight-up bad actors. Finally, students will
-immerse themselves in some of the core values of the class: appropriately scoped features,
-progressive enhancement, granular commits, semantic versioning, rigorous code reviews, automated
-builds, continuous integration/continuous deployment, accurate code-adjacent documentation, and a
-healthy suspicion and pessimistic view of frameworks, libraries, and other dependencies in
-production.
+measures. Finally, students will immerse themselves in some of the core values of the class:
+appropriately scoped features, progressive enhancement, granular commits, semantic versioning,
+rigorous code reviews, automated builds, continuous integration/continuous deployment, accurate
+code-adjacent documentation, and a healthy suspicion and pessimistic view of frameworks, libraries,
+and other dependencies in production.
