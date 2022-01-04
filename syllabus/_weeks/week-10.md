@@ -1,4 +1,13 @@
 ---
+theme: Spring Break
+meetings:
+  - agenda:
+      - No class.
+  - agenda:
+      - No class.
+---
+
+<!--
 theme: Data Structures & Stores; Configuring, Securing, and Seeding Databases
 meetings:
   - agenda:
@@ -20,4 +29,4 @@ readings:
     Machinery, New York, NY, USA, 5–10.
 tasks:
   - Participate in Week Nine reading discussion on Basecamp
----
+-->

@@ -4,12 +4,16 @@ meetings:
   - agenda:
       - Evaluating testing frameworks; [Mocha](https://mochajs.org/)
       - Beginning to write tests
-      - Integrating tests into Git workflows
     video:
   - agenda:
-      - "**No class.** University COVID Study Day."
+      - Integrating tests into Git workflows
 readings:
   - <cite>Great Web APIs</cite>, Ch. 6–8
+  - >
+    [567 Students Only] Diana Kirk, Tyne Crow, Andrew Luxton-Reilly, and Ewan Tempero. 2020. On
+    Assuring Learning About Code Quality. In *Proceedings of the Twenty-Second Australasian
+    Computing Education Conference (ACE’20)*. Association for Computing Machinery, New York, NY,
+    USA, 86–94.
 tasks:
   - Participate in Week Eight reading discussion on Basecamp
 ---

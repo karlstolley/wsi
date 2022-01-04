@@ -3,6 +3,7 @@ theme: Code Quality and Documentation
 meetings:
   - agenda:
       - Introduce ITMD 567–only [Project Five](projects/#project-five)
+      - Emergency library education
       - Working with [JSDoc](https://jsdoc.app/)
       - Integrating JSDoc output with GitHub Pages
     video:
@@ -16,10 +17,11 @@ meetings:
 readings:
   - <cite>Great Web APIs</cite>, Ch. 5
   - >
-    [567 Students Only] Diana Kirk, Tyne Crow, Andrew Luxton-Reilly, and Ewan Tempero. 2020. On
-    Assuring Learning About Code Quality. In *Proceedings of the Twenty-Second Australasian
-    Computing Education Conference (ACE’20)*. Association for Computing Machinery, New York, NY,
-    USA, 86–94.
+    [567 Students Only] Tuan-Dat Trinh, Peter Wetz, Ba-Lam Do, Amin Anjomshoaa, Elmar Kiesling, and
+    A. Min Tjoa. 2014. A Web-based Platform for Dynamic Integration of Heterogeneous Data. In
+    *Proceedings of the 16th International Conference on Information Integration and Web-based
+    Applications & Services* (iiWAS '14). Association for Computing Machinery, New York, NY, USA,
+    253–261.
 tasks:
   - Participate in Week Seven reading discussion on Basecamp
 ---
