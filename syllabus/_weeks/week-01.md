@@ -1,5 +1,5 @@
 ---
-theme: Technical Foundations; Node.js Fundamentals
+theme: Node.js Fundamentals
 meetings:
   - agenda:
       - "**Online class**."
@@ -9,7 +9,7 @@ meetings:
     video:
   - agenda:
       - "**Online class**."
-      - Technical foundations and setup
+      - "Professional development for life: Learning with intention"
       - Node.js fundamentals
     video:
 readings:
