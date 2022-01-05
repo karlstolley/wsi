@@ -13,8 +13,8 @@ meetings:
       - Arriving at narrowly defined problems
     video:
 readings:
-  - "[<cite>Shape Up</cite>](https://basecamp.com/shapeup), Ch. 1–6"
-  - <cite>Great Web APIs</cite>, Preface, Ch. 1
+  - "[<cite>Shape Up</cite>](https://basecamp.com/shapeup): Chapters&nbsp;1–6"
+  - "Mike Amundsen, <cite>Great Web APIs</cite>: Preface, Chapter&nbsp;1"
 tasks:
   - Participate in Week Four reading discussion on Basecamp
 ---

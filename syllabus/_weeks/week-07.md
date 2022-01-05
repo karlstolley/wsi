@@ -15,7 +15,7 @@ meetings:
       - Isolating business logic
     video:
 readings:
-  - <cite>Great Web APIs</cite>, Ch. 5
+  - "Mike Amundsen, <cite>Great Web APIs</cite>: Chapter&nbsp;5"
   - >
     [567 Students Only] Tuan-Dat Trinh, Peter Wetz, Ba-Lam Do, Amin Anjomshoaa, Elmar Kiesling, and
     A. Min Tjoa. 2014. A Web-based Platform for Dynamic Integration of Heterogeneous Data. In

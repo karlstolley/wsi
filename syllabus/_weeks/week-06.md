@@ -12,8 +12,8 @@ meetings:
       - Properly squashing and merging commits in a PR
     video:
 readings:
-  - "[<cite>Shape Up</cite>](https://basecamp.com/shapeup), Ch. 9–14, Conclusion"
-  - <cite>Great Web APIs</cite>, Ch. 3–4
+  - "[<cite>Shape Up</cite>](https://basecamp.com/shapeup): Chapters&nbsp;9–14, Conclusion"
+  - "Mike Amundsen, <cite>Great Web APIs</cite>: Chapters&nbsp;3–4"
 tasks:
   - Participate in Week Six reading discussion on Basecamp
 ---

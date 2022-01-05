@@ -11,7 +11,7 @@ meetings:
     - Team conferences Thursday April 15
     video:
 readings:
-  - <cite>Release It!</cite>, Ch. 12–14
+  - "Michael T. Nygard, <cite>Release It!</cite>: Chapters&nbsp;12–14"
 tasks:
   - Participate in Week Thirteen reading discussion on Basecamp
 ---

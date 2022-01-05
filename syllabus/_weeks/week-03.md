@@ -8,7 +8,7 @@ meetings:
       - Node.js and databases
     video:
 readings:
-  - "Jim R. Wilson, <cite>Node.js 8 the Right Way</cite>: Chapters&nbsp;3–4"
+  - "Jim R. Wilson, <cite>Node.js 8 the Right Way</cite>: Chapters&nbsp;5–6"
 tasks:
   - Participate in Week Three reading discussion on Basecamp
 ---

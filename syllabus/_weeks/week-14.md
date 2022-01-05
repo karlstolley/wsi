@@ -20,7 +20,7 @@ readings:
   - >
     [Nginx Caching](https://serversforhackers.com/c/nginx-caching) (older article; theory is solid,
     but check the Nginx docs to confirm the particulars)
-  - <cite>Release It!</cite>, Ch. 15–17
+  - "Michael T. Nygard, <cite>Release It!</cite>: Chapters&nbsp;15–17"
 tasks:
   - Participate in Week Fourteen reading discussion on Basecamp
 ---

@@ -14,8 +14,8 @@ meetings:
       - Basic Nginx configuration
     video:
 readings:
-  - <cite>Release It!</cite>, Ch. 9–11
-  - <cite>Great Web APIs</cite>, Ch. 11–13
+  - "Michael T. Nygard, <cite>Release It!</cite>: Chapters&nbsp;9–11"
+  - "Mike Amundsen, <cite>Great Web APIs</cite>: Chapters&nbsp;11–13"
 tasks:
   - Participate in Week Twelve reading discussion on Basecamp
 ---

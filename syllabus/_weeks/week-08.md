@@ -8,7 +8,7 @@ meetings:
   - agenda:
       - Integrating tests into Git workflows
 readings:
-  - <cite>Great Web APIs</cite>, Ch. 6–8
+  - "Mike Amundsen, <cite>Great Web APIs</cite>, Chapters&nbsp;6–8"
   - >
     [567 Students Only] Diana Kirk, Tyne Crow, Andrew Luxton-Reilly, and Ewan Tempero. 2020. On
     Assuring Learning About Code Quality. In *Proceedings of the Twenty-Second Australasian

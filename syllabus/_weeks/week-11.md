@@ -15,8 +15,8 @@ meetings:
     - "Review request: progressive enhancement in web apps"
     video:
 readings:
-  - <cite>Release It!</cite>, Ch. 6–8
-  - <cite>Great Web APIs</cite>, Ch. 9–10
+  - "Michael T. Nygard, <cite>Release It!</cite>: Chapters&nbsp;6–8"
+  - "Mike Amundsen, <cite>Great Web APIs</cite>: Ch. 9–10"
 tasks:
   - Participate in Week Eleven reading discussion on Basecamp
 ---
