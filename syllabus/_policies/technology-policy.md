@@ -11,14 +11,16 @@ If you are having trouble with technology or any other material covered in this 
 professional responsibility to find supplemental materials to troubleshoot and solve your problems.
 Ask questions on the weekly Q&A threads on Basecamp, too. Just make use of the search feature on
 Basecamp first: it’s entirely possible that someone has experienced your same difficulty and gotten
-an answer from someone else in the class or the instructor. Don’t make yourself look like an
-inattentive nitwit and ask the same question that’s already been asked and answered.
+an answer from someone else in the class or the instructor. Don’t earn yourself a reputation for
+asking the same question that’s already been asked and answered. And yes: you absolutely should
+monitor the Q&A threads. You’ll find students asking questions that might not have even occurred to
+you.
 
 You are discouraged in the strongest possible terms from using Windows in this class. Running
 Windows in a development class is like showing up to a cooking class with [an Easy-Bake
 Oven](https://en.wikipedia.org/wiki/Easy-Bake_Oven). Windows is not suited to professional
 development, other than perhaps developing Windows applications. This class uses professional-grade,
-POSIX-compliant environments and tools. If your operating system doesn't support something as basic
+POSIX-compliant environments and tools. If your operating system doesn’t support something as basic
 and ancient as the `ls` command, you need to get an operating system that does. Immediately.
 
 If you think you know better and opt to run Windows, you are 100% on your own when it comes to
