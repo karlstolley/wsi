@@ -1,7 +1,7 @@
 ---
 title: Web System Beta-Release Cycle
-due_date: &deadline 2021-05-03
-preview: false
+due_date: &deadline 2022-04-21
+preview: true
 goals:
   - Analyze complex computing problems and apply principles of computing and other relevant
     disciplines to identify solutions
@@ -130,9 +130,11 @@ deliverables:
     deadline: *deadline
 ---
 
-In this second of two cycles, you and your team will push your system beyond its alpha stages to
+In this second of three cycles, you and your team will push your system beyond its alpha stages to
 achieve greater stability and test coverage along with some kind of build pipeline and
 continuous-integration approach to produce and deploy a series of `0.x.x-beta.x` releases.
+
+<!--
 
 Plan to include unit, functional, and integration test coverage as early in your process as
 possible. In fact, aim for 100% test coverage of your existing, alpha code before you move on to any
@@ -142,3 +144,5 @@ Note that the requirements listed with this project are the overall system requi
 final version to be delivered on Thursday, May 13. By the end of the beta cycle, you should have met
 all of these requirements. Be sure to take stock of them early in this cycle, and contact the
 instructor immediately if you’re concerned about any of them.
+
+-->

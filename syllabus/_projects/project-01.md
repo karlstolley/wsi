@@ -1,6 +1,6 @@
 ---
 title: Shaping a Web System
-due_date: &deadline 2021-02-07
+due_date: &deadline 2022-02-17
 preview: false
 goals:
   - >
@@ -15,7 +15,7 @@ requirements:
     Refer to [the two example pitches](https://basecamp.com/shapeup/1.5-chapter-06#examples) in
     <cite>Shape Up</cite> to help guide your own work, especially at the draft stage
 deliverables:
-  - action: "Post draft deliverables to the WSI: Projects Basecamp."
+  - action: "Post draft deliverables to the Project One board on Basecamp."
     description: "Your draft post should include:"
     details:
       - >
@@ -28,15 +28,15 @@ deliverables:
       - >
         Specific requests for feedback from the instructor and peers. Write this in the body of your
         Basecamp post
-    deadline: 2021-01-28
+    deadline: 2022-02-10
   - action: Schedule a one-on-one consultation with the instructor.
     description: >
-      Sometime by the end of the day on Monday, February 1, you will have a one-on-on consultation
+      Sometime by the end of the day on Monday, February 14, you will have a one-on-on consultation
       with the instructor about your project draft. Watch for scheduling details on Basecamp.
-    deadline: 2021-01-28
+    deadline: 2022-02-10
   - action: Respond to at least 3 of your peers' Draft Projects
-    deadline: 2021-02-01
-  - action: "Post final deliverables to the WSI: Projects Basecamp."
+    deadline: 2022-02-14
+  - action: "Post final deliverables to the Project One board on Basecamp."
     description: "Your final-deliverable post must include:"
     details:
       - >
@@ -55,6 +55,8 @@ you’re shaping is **not** a complete, self-contained application (Facebook, fo
 system that fits into some broader, larger set of systems that makes up a business’s concerns. As a
 starting point, think about systems for billing, shipping, account management, internal
 communication, issue tracking, customer support, ticket- or seat-booking, and so on.
+
+<!--
 
 The system you shape will have two core public components: a web-based user interface for managing
 and interacting with the system itself, and a data API for integrating with other systems within
@@ -79,3 +81,5 @@ complaints, and the alderman's response to or resolution of the complaint.
 **ITMD 567 students** will research, invent, or discover some kind of business-oriented system and
 then deliver it as a shaped system and pitch. If public data is available, but not in API form, you
 can pitch a data-scraping setup as part of your system.
+
+-->

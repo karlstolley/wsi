@@ -1,7 +1,7 @@
 ---
 title: Web System Alpha-Release Cycle
-preview: false
-due_date: &deadline 2021-03-25
+preview: true
+due_date: &deadline 2022-03-10
 goals:
   - Analyze complex computing problems and apply principles of computing and other relevant
     disciplines to identify solutions
@@ -101,13 +101,13 @@ deliverables:
       You’re choosing your team members for the remainder of the semester, so choose wisely.
       There may be need of one team of four, so indicate in the Basecamp thread if you’re open to
       taking on a fourth member.
-    deadline: 2021-02-08
+    deadline: 2022-02-21
   - action: Pitch your team’s project to the instructor via Basecamp.
     description: >
       You may opt to use as-is or refine any Project One pitch written by any of your team members.
       Alternatively, you may pitch an entirely new project idea. The instructor must sign off on
       your team’s pitch before you can proceed.
-    deadline: 2021-02-11
+    deadline: 2022-02-24
   -
     action: "Due **weekly**: Post team progress reports weekly on the class Basecamp."
     description: >
@@ -117,15 +117,15 @@ deliverables:
   -
     action: Schedule an early-cycle conference with the instructor.
     description: >
-      Sometime during the week of February 22, you and your team will have a virtual chat of about
+      Sometime during the week of February 28, you and your team will have a virtual chat of about
       thirty minutes with the instructor. Watch for scheduling details on Basecamp.
-    deadline: 2021-02-18
+    deadline: 2022-02-24
   -
-    action: Schedule a mid-cycle conference with the instructor.
+    action: Schedule a late-cycle conference with the instructor.
     description: >
-      Sometime during the week of March 8, you and your team will have a virtual chat of about
+      Sometime during the week of March 7, you and your team will have a virtual chat of about
       thirty minutes with the instructor. Watch for scheduling details on Basecamp.
-    deadline: 2021-03-04
+    deadline: 2022-03-03
   -
     action: Post your final alpha release project to Basecamp.
     description: >
@@ -141,11 +141,13 @@ deliverables:
     deadline: *deadline
 ---
 
-In the first of two six-week cycles, you and your team will rapidly prototype and begin to design
-and construct a web-based, service-architected system.  It will ingest data from one or more
+In the first of three release cycles, you and your team will rapidly prototype and begin to design
+and construct a web-based, service-architected system. It will ingest data from one or more
 third-party APIs, accept user-input data via a web interface that you will provide written in HTML,
 CSS, and JavaScript, and deliver an outbound API serializing your system’s data for consumption
 elsewhere in an organization.
+
+<!--
 
 Plan to include unit, functional, and integration test coverage as early in your process as
 possible. Your work will proceed this cycle as a series of `0.x.x-alpha.x` releases.
@@ -155,3 +157,5 @@ final version to be delivered on Thursday, May 13. You and your team should choo
 requirements to focus on at the alpha stage, and which to defer until the beta stage. For example,
 there is no requirement to deploy your system at the alpha stage, so your group might elect to defer
 deployment-oriented requirements until the beta stage (aka Project Three).
+
+-->

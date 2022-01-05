@@ -1,7 +1,7 @@
 ---
 title: Web System Public-Release Sprint
-due_date: &deadline 2021-05-13
-preview: false
+due_date: &deadline 2022-05-05
+preview: true
 goals:
   - Quickly revise a system’s core functionality and features to ready an initial public release.
   - >
@@ -42,5 +42,5 @@ deliverables:
 ---
 
 Due to the semester’s time constraints (and an imagined impatient manager), this final cycle will
-deviate from the measured six-week cycles for your system’s alpha and beta releases, and instead
-focus on a ten-day sprint to ship a `1.x.x` version for public release.
+deviate from the measured cycles for your system’s alpha and beta releases, and instead focus on a
+ten-day sprint to ship a `1.x.x` version for public release.

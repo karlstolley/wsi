@@ -1,7 +1,7 @@
 ---
 title: Academic Research in Web Development
-due_date: &deadline 2021-05-13
-preview: false
+due_date: &deadline 2022-05-05
+preview: true
 level: grad
 goals:
   - Learn to search in the academic research surrounding web development.
@@ -22,14 +22,14 @@ requirements:
 deliverables:
   - action: >
       Find and get instructor approval on a topic area within web development for your bibliography.
-    deadline: 2021-03-18
+    deadline: 2022-03-24
   - action: Post draft bibliography to Basecamp, in its own thread.
     description: "Be sure to include:"
     details:
       - Your draft bibliography
       - The full citation to each article, in [ACM style](https://www.acm.org/publications/authors/reference-formatting)
       - Your 150-word annotation of each article
-    deadline: 2021-04-15
+    deadline: 2022-04-14
   - action: Post final bibliography to Basecamp, in a follow up reply to your original thread.
     description: "Be sure to include:"
     details:
