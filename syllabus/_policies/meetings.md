@@ -24,8 +24,8 @@ If you are able to attend our class meetings via Google Meet, or if our class ha
 meetings, here are just a few simple guidelines:
 
 * **You do not have to broadcast your camera.** For any reason. The choice is yours. It’s helpful
-  for me to be able to glance at faces and see how everyone is reacting, but it’s totally up to you
-  whether to broadcast your camera or not.
+  for me to be able to glance at faces and see how at least some of you are reacting, but it’s
+  totally up to you whether to broadcast your camera or not.
 * **Please mute your mic if you’re not speaking.** Self-explanatory. Muted mics cut down on ambient
   noise and occasional echo that can be real problems for people who have hearing difficulties. I
   encourage you to turn on the live closed captioning when we’re in Google Meet, too.
@@ -35,8 +35,8 @@ meetings, here are just a few simple guidelines:
   text; I will keep an eye on that as class is going, in case you wish to raise questions, drop a
   corny joke, or ask for clarification that way.
 * **If my Internet connection fails, I will still record and post class.** That kind of thing does
-  happen: sometimes before class, sometimes during. If I’ve got Internet troubles, I’ll post to
-  Basecamp from my phone and let everyone know what’s going on.
+  happen: sometimes before class, sometimes during. If I’ve got Internet troubles, I’ll try post to
+  Basecamp somehow and let everyone know what’s going on.
 * **All class meetings will be posted to YouTube.** You’ll be able to watch class on your own time
   if you’re unable to attend the live class. I invite students to contribute markers to index the
   videos on YouTube, too, to help anyone who needs to go back and find and rewatch something. Again,
