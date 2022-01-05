@@ -1,19 +1,15 @@
 ---
-theme: Working Remotely in Teams; ExpressJS-backed Frontend Prototyping
+theme: One-on-One Conferences; Working Remotely in Teams
 meetings:
+  - agenda:
+      - <b>No class.</b> Individual Project One remote consultations with instructor.
+    video:
   - agenda:
       - Grooming a Git-centric development environment
       - "Refresher: Git remotes and pull requests; enforcing code reviews"
       - Working on feature branches
-    video:
-  - agenda:
       - Keeping feature branches up to date with `git rebase`
       - Properly squashing and merging commits in a PR
-      - Components of frontend prototyping
-      - >
-        Generating [self-signed certificates for HTTPS](https://letsencrypt.org/docs/certificates-for-localhost/)
-        (Let’s Encrypt docs)
-      - Visual regression testing with [BackstopJS](https://garris.github.io/BackstopJS/)
     video:
 readings:
   - "[<cite>Shape Up</cite>](https://basecamp.com/shapeup), Ch. 9–14, Conclusion"
