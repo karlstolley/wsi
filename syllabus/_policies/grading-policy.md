@@ -10,9 +10,9 @@ title: Grading Policy
 - Project 3: 25 pts
 - Project 4: 15 pts
 - Basecamp Participation: 30 total points, tallied at three Checkpoints:
-  - Checkpoint One (~ Week Four): 6 points (20% of 30 total points)
+  - Checkpoint One (~ Week Six): 9 points (30% of 30 total points)
   - Checkpoint Two (~ Week Ten): 12 points (40% of 30 total points)
-  - Checkpoint Three (~ Week Fifteen): 12 points (40% of 30 total points)
+  - Checkpoint Three (~ Week Fifteen): 9 points (30% of 30 total points)
 - TOTAL: 100 points
 
 Lowest A, 90 points; B, 80 points; C, 70 points; D, 60 points.
