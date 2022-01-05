@@ -18,7 +18,3 @@ readings:
 tasks:
   - Participate in Week Four reading discussion on Basecamp
 ---
-
-<!--
-
--->
