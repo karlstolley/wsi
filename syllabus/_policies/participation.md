@@ -53,10 +53,10 @@ two times, every week (at least 32 posts). Fewer than an average of two discussi
 week will result in a failing Participation grade.
 
 Participation points are incredibly easy points to earn, and likewise incredibly easy points to miss
-out on. They will be tallied at three checkpoints this semester: sometime around Week Four (20% of
-the total participation points), sometime around Week Nine (40% of the total participation points),
-and sometime around Week Fourteen (the remaining 40% of the total participation points; 20% + 40% +
-40% = 100%).
+out on. They will be tallied at three checkpoints this semester: sometime around Week Six (30% of
+the total participation points), sometime around Week Ten (40% of the total participation points),
+and sometime around Week Fifteen (the remaining 30% of the total participation points; 30% + 40% +
+30% = 100%).
 
 *Sometime around…* means plus or minus one week. The exact date will not be announced ahead of time,
 and point-totals for the percentage in question will not be adjusted after the tally. So if you’re

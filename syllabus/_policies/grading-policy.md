@@ -27,9 +27,9 @@ Lowest A, 90 points; B, 80 points; C, 70 points; D, 60 points.
 - Project 4: 15 pts
 - Project 5: 10 pts
 - Basecamp Participation: 20 total points, tallied at three Checkpoints:
-  - Checkpoint One (~ Week Four): 4 points (20% of 20 total points)
+  - Checkpoint One (~ Week Six): 6 points (30% of 20 total points)
   - Checkpoint Two (~ Week Ten): 8 points (40% of 20 total points)
-  - Checkpoint Three (~ Week Fifteen): 8 points (40% of 20 total points)
+  - Checkpoint Three (~ Week Fifteen): 6 points (30% of 20 total points)
 - TOTAL: 100 points
 
 Lowest A, 90 points; B, 80 points; C, 70 points.
