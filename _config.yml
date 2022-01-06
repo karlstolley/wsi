@@ -42,13 +42,13 @@ course:
       href: "#this-week"
       id: cal
     - label: Basecamp
-      href: "https://3.basecamp.com/3058761/"
+      href: "https://3.basecamp.com/3058761/projects/24749485"
       id: bcp
     - label: Meet
-      href: "https://3.basecamp.com/3058761/buckets/19827408/messages/3251233793"
+      href: "https://3.basecamp.com/3058761/projects/24749485"
       id: gmt
     - label: Demos
-      href: "https://github.com/wsi-2021"
+      href: "https://github.com/wsi-2022"
       id: dmo
     - label: Links
       href: "links/"
