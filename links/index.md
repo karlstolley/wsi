@@ -10,10 +10,7 @@ layout: links
 * [Basecamp](https://3.basecamp.com/3058761/projects/24749485)
 * [Google Meet](https://3.basecamp.com/3058761/projects/24749485) (via Basecamp)
 * [Class Demos](https://github.com/wsi-2022)
-
-<!--
-* [Class Videos Playlist]()
--->
+* [Class Videos Playlist](https://www.youtube.com/playlist?list=PLMr8hpt6mGns4GgGRY-TNll7xxPhaD8oo)
 </section>
 
 <section markdown="1">
