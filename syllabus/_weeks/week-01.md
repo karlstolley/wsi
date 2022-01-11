@@ -6,7 +6,7 @@ meetings:
       - Welcome & introductions
       - Course policies
       - Course calendar
-    video:
+    video: https://youtu.be/f4ldkdEiv6A
   - agenda:
       - "**Online class**."
       - "Professional development for life: Learning with intention"
