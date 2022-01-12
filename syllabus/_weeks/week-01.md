@@ -10,6 +10,7 @@ meetings:
   - agenda:
       - "**Online class**."
       - "Professional development for life: Learning with intention"
+      - Git as a learning tool
       - Node.js fundamentals
     video:
 readings:
@@ -24,5 +25,6 @@ tasks:
   - >
     Dev environment setup (Firefox Developer Edition, Atom.io, Node.js, Git);
     [follow these instructions](https://gist.github.com/karlstolley/810e9cb69727ff20c3cf56ac33734b79)
+  - Create a Git repo and GitHub remote for working through <cite>Node.js 8 the Right Way</cite>
   - Participate in Week One reading discussion on Basecamp
 ---
