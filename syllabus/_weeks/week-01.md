@@ -12,7 +12,7 @@ meetings:
       - "Professional development for life: Learning with intention"
       - Git as a learning tool
       - Node.js fundamentals
-    video:
+    video: https://youtu.be/GR2SjAnHqnk
 readings:
   - "Jim R. Wilson, <cite>Node.js 8 the Right Way</cite>: Preface, Chapters&nbsp;1–2"
 tasks:
