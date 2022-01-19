@@ -1,11 +1,14 @@
 ---
-theme: Node.js and Networking
+theme: JavaScript Refresher; Node.js and Networking
 meetings:
   - agenda:
       - "**No class**. Martin Luther King, Jr. holiday"
     video:
   - agenda:
       - "**Online class**."
+      - JavaScript refresher (questions)
+      - Asynchronous JavaScript
+      - Node.js project organization
       - Networking in Node.js
       - Fetching external resources
     video:
