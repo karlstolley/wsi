@@ -11,7 +11,7 @@ meetings:
       - Node.js project organization
       - Networking in Node.js
       - Fetching external resources
-    video:
+    video: https://youtu.be/LOAGkTcEB34
 readings:
   - "Jim R. Wilson, <cite>Node.js 8 the Right Way</cite>: Chapters&nbsp;3–4"
 tasks:
