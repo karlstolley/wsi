@@ -2,9 +2,12 @@
 theme: Node.js and Data Stores
 meetings:
   - agenda:
-      - Node.js and the file system
+      - Node.js project organization
+      - Networking in Node.js
+      - Fetching external resources
     video:
   - agenda:
+      - Node.js and the file system, serialized data
       - Node.js and databases
     video:
 readings:

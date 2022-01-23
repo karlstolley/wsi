@@ -1,5 +1,5 @@
 ---
-theme: JavaScript Refresher; Node.js and Networking
+theme: JavaScript Refresher; Asynchronous Patterns
 meetings:
   - agenda:
       - "**No class**. Martin Luther King, Jr. holiday"
@@ -8,9 +8,6 @@ meetings:
       - "**Online class**."
       - JavaScript refresher (questions)
       - Asynchronous JavaScript
-      - Node.js project organization
-      - Networking in Node.js
-      - Fetching external resources
     video: https://youtu.be/LOAGkTcEB34
 readings:
   - "Jim R. Wilson, <cite>Node.js 8 the Right Way</cite>: Chapters&nbsp;3–4"
