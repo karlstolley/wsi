@@ -3,6 +3,7 @@ theme: Node.js and Data Stores
 meetings:
   - agenda:
       - Node.js project organization
+      - The [package.json](https://docs.npmjs.com/cli/v8/configuring-npm/package-json) file
       - Networking in Node.js
       - Fetching external resources
     video:
