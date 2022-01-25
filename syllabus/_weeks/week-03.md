@@ -6,7 +6,7 @@ meetings:
       - The [package.json](https://docs.npmjs.com/cli/v8/configuring-npm/package-json) file
       - Networking in Node.js
       - Fetching external resources
-    video:
+    video: https://youtu.be/p4WTpU1pb6U
   - agenda:
       - Node.js and the file system, serialized data
       - Node.js and databases
