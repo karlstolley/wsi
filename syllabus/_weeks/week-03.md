@@ -10,7 +10,7 @@ meetings:
       - Networking and fetching external resources
       - >
         Data-store concepts: file system, serialized data; databases
-    video:
+    video: https://youtu.be/iCjJ4Yx07z8
 readings:
   - "Jim R. Wilson, <cite>Node.js 8 the Right Way</cite>: Chapters&nbsp;5–6"
 tasks:
