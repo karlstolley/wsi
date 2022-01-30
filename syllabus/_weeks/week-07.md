@@ -2,6 +2,7 @@
 theme: Code Quality and Documentation
 meetings:
   - agenda:
+      - "Introduce [Project Two](projects/#project-two)"
       - Introduce ITMD 567–only [Project Five](projects/#project-five)
       - Emergency library education
       - Working with [JSDoc](https://jsdoc.app/)

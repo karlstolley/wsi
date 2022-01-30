@@ -5,7 +5,6 @@ meetings:
       - "An all-too-brief refresher on web standards: semantic HTML, progressive enhancement (CSS & JS)"
     video:
   - agenda:
-      - "Introduce [Project Two](projects/#project-two)"
       - Components of frontend prototyping
       - >
         Generating [self-signed certificates for HTTPS](https://letsencrypt.org/docs/certificates-for-localhost/)
