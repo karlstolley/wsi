@@ -8,6 +8,7 @@ meetings:
       - Refining your systems-design thinking
     video:
   - agenda:
+      - "**Online class.**"
       - Determining architecturally significant requirements
       - Establishing project boundaries
       - Arriving at narrowly defined problems
