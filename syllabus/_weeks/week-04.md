@@ -6,7 +6,7 @@ meetings:
       - Lo-fi prototyping and shaping
       - Fat-marker sketches
       - Refining your systems-design thinking
-    video:
+    video: https://youtu.be/Q-OY1qb0HUw
   - agenda:
       - "**Online class.**"
       - Determining architecturally significant requirements
