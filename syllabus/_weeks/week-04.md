@@ -12,7 +12,7 @@ meetings:
       - Determining architecturally significant requirements
       - Establishing project boundaries
       - Arriving at narrowly defined problems
-    video:
+    video: https://youtu.be/jhW36Is7BCA
 readings:
   - "[<cite>Shape Up</cite>](https://basecamp.com/shapeup): Chapters&nbsp;1–6"
   - "Mike Amundsen, <cite>Great Web APIs</cite>: Preface, Chapter&nbsp;1"
