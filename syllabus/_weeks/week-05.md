@@ -3,7 +3,7 @@ theme: Web Standards Refresher; ExpressJS-backed Frontend Prototyping
 meetings:
   - agenda:
       - "An all-too-brief refresher on web standards: semantic HTML, progressive enhancement (CSS & JS)"
-    video:
+    video: https://youtu.be/QGe0ippNlK4
   - agenda:
       - Components of frontend prototyping
       - >
