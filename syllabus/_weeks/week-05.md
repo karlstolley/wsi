@@ -1,5 +1,5 @@
 ---
-theme: Web Standards Refresher; ExpressJS-backed Frontend Prototyping
+theme: Web Standards Refresher; Frontend Prototyping
 meetings:
   - agenda:
       - "An all-too-brief refresher on web standards: semantic HTML, progressive enhancement (CSS & JS)"
@@ -9,7 +9,6 @@ meetings:
       - >
         Generating [self-signed certificates for HTTPS](https://letsencrypt.org/docs/certificates-for-localhost/)
         (Let’s Encrypt docs)
-      - Visual regression testing with [BackstopJS](https://garris.github.io/BackstopJS/)
     video:
 readings:
   - "[<cite>Shape Up</cite>](https://basecamp.com/shapeup): Chapters&nbsp;7–8"

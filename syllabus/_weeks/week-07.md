@@ -5,6 +5,7 @@ meetings:
       - "Introduce [Project Two](projects/#project-two)"
       - Introduce ITMD 567–only [Project Five](projects/#project-five)
       - Emergency library education
+      - Visual regression testing with [BackstopJS](https://garris.github.io/BackstopJS/)
       - Working with [JSDoc](https://jsdoc.app/)
       - Integrating JSDoc output with GitHub Pages
     video:
