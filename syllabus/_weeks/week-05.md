@@ -9,6 +9,8 @@ meetings:
       - >
         Generating [self-signed certificates for HTTPS](https://letsencrypt.org/docs/certificates-for-localhost/)
         (Let’s Encrypt docs)
+      - >
+        Stolley’s [Gist for generating certs](https://gist.github.com/karlstolley/e3f8712c4ec7ea77822fc37464f84581)
     video:
 readings:
   - "[<cite>Shape Up</cite>](https://basecamp.com/shapeup): Chapters&nbsp;7–8"
