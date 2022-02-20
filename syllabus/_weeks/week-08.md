@@ -1,8 +1,13 @@
 ---
-theme: Automated Testing
+theme: Code Quality and Automated Testing
 meetings:
   - agenda:
+      - Linting with [eslint](https://eslint.org)
+      - Stolley’s opinionated [eslint configs](https://github.com/karlstolley/eslint-config)
+      - Training your nose for “code smell”
+      - Isolating business logic
       - Evaluating testing frameworks; [Mocha](https://mochajs.org/)
+      - Visual regression testing with [BackstopJS](https://garris.github.io/BackstopJS/)
       - Beginning to write tests
     video:
   - agenda:

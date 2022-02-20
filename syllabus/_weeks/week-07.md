@@ -1,20 +1,16 @@
 ---
-theme: Code Quality and Documentation
+theme: ExpressJS; Documentation
 meetings:
   - agenda:
       - "Introduce [Project Two](projects/#project-two)"
       - Introduce ITMD 567–only [Project Five](projects/#project-five)
       - Emergency library education
-      - Visual regression testing with [BackstopJS](https://garris.github.io/BackstopJS/)
-      - Working with [JSDoc](https://jsdoc.app/)
-      - Integrating JSDoc output with GitHub Pages
+      - "[ExpressJS](https://expressjs.com/) setup and walking tour"
     video:
   - agenda:
       - Including CLI tools in project setup (`package.json`, the `npx` command)
-      - Linting with [eslint](https://eslint.org)
-      - Stolley’s opinionated [eslint configs](https://github.com/karlstolley/eslint-config)
-      - Training your nose for “code smell”
-      - Isolating business logic
+      - Working with [JSDoc](https://jsdoc.app/)
+      - Integrating JSDoc output with GitHub Pages
     video:
 readings:
   - "Mike Amundsen, <cite>Great Web APIs</cite>: Chapter&nbsp;5"
