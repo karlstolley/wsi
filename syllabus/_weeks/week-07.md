@@ -2,6 +2,7 @@
 theme: ExpressJS; Documentation
 meetings:
   - agenda:
+      - "**Online class.**"
       - "Introduce [Project Two](projects/#project-two)"
       - Introduce ITMD 567–only [Project Five](projects/#project-five)
       - Emergency library education
