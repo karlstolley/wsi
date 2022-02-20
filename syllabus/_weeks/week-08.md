@@ -7,6 +7,9 @@ meetings:
     video:
   - agenda:
       - Integrating tests into Git workflows
+      - Working on feature branches
+      - Keeping feature branches up to date with `git rebase`
+      - Properly squashing and merging commits in a PR
 readings:
   - "Mike Amundsen, <cite>Great Web APIs</cite>, Chapters&nbsp;6–8"
   - >

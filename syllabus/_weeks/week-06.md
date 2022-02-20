@@ -7,9 +7,6 @@ meetings:
   - agenda:
       - Grooming a Git-centric development environment
       - "Refresher: Git remotes and pull requests; enforcing code reviews"
-      - Working on feature branches
-      - Keeping feature branches up to date with `git rebase`
-      - Properly squashing and merging commits in a PR
     video: https://youtu.be/ThHBggR2eRs
 readings:
   - "[<cite>Shape Up</cite>](https://basecamp.com/shapeup): Chapters&nbsp;9–14, Conclusion"
