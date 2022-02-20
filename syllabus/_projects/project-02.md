@@ -1,7 +1,7 @@
 ---
 title: Web System Alpha-Release Cycle
-preview: true
-due_date: &deadline 2022-03-10
+preview: false
+due_date: &deadline 2022-03-31
 goals:
   - Analyze complex computing problems and apply principles of computing and other relevant
     disciplines to identify solutions
@@ -78,10 +78,10 @@ requirements:
     incur the technical debt and inherent risks of third-party dependencies. Consider also the
     technical debt and inherent risks of developing your own feature, of course.
   - >
-    Your system **should** support multiple runtime environments (e.g., development, staging,
-    testing, production). Your system’s configuration **must** be readily shareable among members of
-    your team. A system that tucks its configuration into a MySQL database, as WordPress does
-    (which, yuck), is almost certainly a non-starter.
+    Your system **should** support multiple runtime environments (e.g., development, testing,
+    production). Your system’s configuration **must** be readily shareable among members of your
+    team. A system that tucks its configuration into a MySQL database is almost certainly a
+    non-starter.
   - >
     Once deployed, your system **must** implement some type of continuous integration, continuous
     delivery, or continuous deployment method to safeguard and automate your deployment.
@@ -93,21 +93,19 @@ requirements:
     Finally, like any temperamental client or manager, your instructor **may** amend, alter, or
     complicate the requirements and deliverables listed here at any time—but **must** provide you
     reasonable notice, via Basecamp, should that happen.
-
 deliverables:
   -
     action: Organize into teams on Basecamp.
     description: >
-      You’re choosing your team members for the remainder of the semester, so choose wisely.
-      There may be need of one team of four, so indicate in the Basecamp thread if you’re open to
-      taking on a fourth member.
-    deadline: 2022-02-21
+      The class is small enough that there will be two teams of four people. Groups may not be
+      smaller than four.
+    deadline: 2022-02-24
   - action: Pitch your team’s project to the instructor via Basecamp.
     description: >
       You may opt to use as-is or refine any Project One pitch written by any of your team members.
       Alternatively, you may pitch an entirely new project idea. The instructor must sign off on
       your team’s pitch before you can proceed.
-    deadline: 2022-02-24
+    deadline: 2022-02-28
   -
     action: "Due **weekly**: Post team progress reports weekly on the class Basecamp."
     description: >
@@ -117,15 +115,15 @@ deliverables:
   -
     action: Schedule an early-cycle conference with the instructor.
     description: >
-      Sometime during the week of February 28, you and your team will have a virtual chat of about
+      Sometime late in the week of February 28, you and your team will have a virtual chat of about
       thirty minutes with the instructor. Watch for scheduling details on Basecamp.
-    deadline: 2022-02-24
+    deadline: 2022-02-28
   -
     action: Schedule a late-cycle conference with the instructor.
     description: >
-      Sometime during the week of March 7, you and your team will have a virtual chat of about
+      Sometime during the week of March 21, you and your team will have a virtual chat of about
       thirty minutes with the instructor. Watch for scheduling details on Basecamp.
-    deadline: 2022-03-03
+    deadline: 2022-03-10
   -
     action: Post your final alpha release project to Basecamp.
     description: >
@@ -147,15 +145,12 @@ third-party APIs, accept user-input data via a web interface that you will provi
 CSS, and JavaScript, and deliver an outbound API serializing your system’s data for consumption
 elsewhere in an organization.
 
-<!--
-
 Plan to include unit, functional, and integration test coverage as early in your process as
-possible. Your work will proceed this cycle as a series of `0.x.x-alpha.x` releases.
+possible. Your work will proceed this cycle as a series of `0.x.x-alpha.x` releases. And yes, you
+must use semantic versioning to number your releases.
 
 Note that the requirements listed with this project are the overall system requirements for the
 final version to be delivered on Thursday, May 13. You and your team should choose which of these
 requirements to focus on at the alpha stage, and which to defer until the beta stage. For example,
 there is no requirement to deploy your system at the alpha stage, so your group might elect to defer
 deployment-oriented requirements until the beta stage (aka Project Three).
-
--->
