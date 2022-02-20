@@ -1,7 +1,7 @@
 ---
 title: Academic Research in Web Development
 due_date: &deadline 2022-05-05
-preview: true
+preview: false
 level: grad
 goals:
   - Learn to search in the academic research surrounding web development.
@@ -21,19 +21,22 @@ requirements:
     Your annotation for each article in your bibliography should be as close to 150 words long as possible (neither substantially longer nor shorter).
 deliverables:
   - action: >
-      Find and get instructor approval on a topic area within web development for your bibliography.
-    deadline: 2022-03-24
+      Find and get instructor approval on a topic area within web development for your
+      bibliography.
+    description: >
+      Contact the instructor with your idea via email, or post it on Basecamp.
+    deadline: 2022-03-10
   - action: Post draft bibliography to Basecamp, in its own thread.
     description: "Be sure to include:"
     details:
-      - Your draft bibliography
+      - A link to your draft bibliography as a GitHub Gist
       - The full citation to each article, in [ACM style](https://www.acm.org/publications/authors/reference-formatting)
       - Your 150-word annotation of each article
     deadline: 2022-04-14
   - action: Post final bibliography to Basecamp, in a follow up reply to your original thread.
     description: "Be sure to include:"
     details:
-      - Your complete final bibliography
+      - The link to your complete, final bibliography as a GitHub Gist
       - The full citation to each article, in [ACM style](https://www.acm.org/publications/authors/reference-formatting)
       - Your 150-word annotation of each article
     deadline: *deadline
