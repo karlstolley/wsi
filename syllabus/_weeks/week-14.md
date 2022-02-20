@@ -15,6 +15,7 @@ meetings:
     - "Web API example: [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)"
     video:
 readings:
+  - "Michael T. Nygard, <cite>Release It!</cite>: Chapters&nbsp;12–14"
   - >
     [Production best practices: performance and reliability](https://expressjs.com/en/advanced/best-practice-performance.html) (ExpressJS and `NODE_ENV` values)
   - >

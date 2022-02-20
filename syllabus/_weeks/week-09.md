@@ -11,8 +11,6 @@ meetings:
       - "**NO CLASS**. Work day."
       - Stolley available for help and questions on Basecamp, etc.
       - Get a good handle on your team project ahead of Spring Break
-readings:
-  - "Michael T. Nygard, <cite>Release It!</cite>: Preface, Chapters&nbsp;1–5"
 tasks:
   - Participate in Q&A Megathread on Basecamp
 ---
