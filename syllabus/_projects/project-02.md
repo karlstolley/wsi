@@ -150,7 +150,7 @@ possible. Your work will proceed this cycle as a series of `0.x.x-alpha.x` relea
 must use semantic versioning to number your releases.
 
 Note that the requirements listed with this project are the overall system requirements for the
-final version to be delivered on Thursday, May 13. You and your team should choose which of these
+final version to be delivered on Thursday, May 5. You and your team should choose which of these
 requirements to focus on at the alpha stage, and which to defer until the beta stage. For example,
 there is no requirement to deploy your system at the alpha stage, so your group might elect to defer
 deployment-oriented requirements until the beta stage (aka Project Three).
