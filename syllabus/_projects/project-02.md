@@ -107,17 +107,17 @@ deliverables:
       your team’s pitch before you can proceed.
     deadline: 2022-02-28
   -
-    action: "Due **weekly**: Post team progress reports weekly on the class Basecamp."
-    description: >
-      Aim to do these on Thursdays. Rotate responsibility among your team members for the weekly
-      writeup of your progress and struggles. Reference your project’s repositories, commits, and
-      release notes by URL as appropriate.
-  -
     action: Schedule an early-cycle conference with the instructor.
     description: >
       Sometime late in the week of February 28, you and your team will have a virtual chat of about
       thirty minutes with the instructor. Watch for scheduling details on Basecamp.
     deadline: 2022-02-28
+  -
+    action: "Due **weekly**: Post team progress reports weekly on the class Basecamp."
+    description: >
+      Aim to do these on Thursdays. Rotate responsibility among your team members for the weekly
+      writeup of your progress and struggles. Reference your project’s repositories, commits, and
+      release notes by URL as appropriate.
   -
     action: Schedule a late-cycle conference with the instructor.
     description: >
