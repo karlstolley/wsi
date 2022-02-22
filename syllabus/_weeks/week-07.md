@@ -7,7 +7,7 @@ meetings:
       - Introduce ITMD 567–only [Project Five](projects/#project-five)
       - Emergency library education
       - "[ExpressJS](https://expressjs.com/) setup and walking tour"
-    video:
+    video: https://youtu.be/kaxDV5IyjeY
   - agenda:
       - Including CLI tools in project setup (`package.json`, the `npx` command)
       - Working with [JSDoc](https://jsdoc.app/)
