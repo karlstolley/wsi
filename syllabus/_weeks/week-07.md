@@ -12,7 +12,7 @@ meetings:
       - Including CLI tools in project setup (`package.json`, the `npx` command)
       - Working with [JSDoc](https://jsdoc.app/)
       - Integrating JSDoc output with GitHub Pages
-    video:
+    video: https://youtu.be/lVDOWIMp0wI
 readings:
   - "Mike Amundsen, <cite>Great Web APIs</cite>: Chapter&nbsp;5"
   - >
