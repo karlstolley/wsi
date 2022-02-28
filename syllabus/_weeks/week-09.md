@@ -2,9 +2,12 @@
 theme: Catch-Up and Work Week
 meetings:
   - agenda:
+      - Working on feature branches
+      - Keeping feature branches up to date with `git rebase`
+      - Properly squashing and merging commits in a PR
       - Handling merge conflicts like NBD
       - Working with environment variables
-      - Doing releases through Git and GitHub
+      - Crafting releases on GitHub
       - Open Q&A
     video:
   - agenda:

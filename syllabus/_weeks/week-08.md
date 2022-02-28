@@ -2,20 +2,14 @@
 theme: Code Quality and Automated Testing
 meetings:
   - agenda:
-      - Linting with [eslint](https://eslint.org)
-      - Stolley’s opinionated [eslint configs](https://github.com/karlstolley/eslint-config)
-      - Training your nose for “code smell”
-      - Isolating business logic
-      - Evaluating testing frameworks; [Mocha](https://mochajs.org/)
-      - Visual regression testing with [BackstopJS](https://garris.github.io/BackstopJS/)
-      - Beginning to write tests
+      - "**No class.**"
     video:
   - agenda:
+      - Linting with [eslint](https://eslint.org)
+      - Stolley’s opinionated [eslint configs](https://github.com/karlstolley/eslint-config)
+      - Evaluating testing frameworks; [Mocha](https://mochajs.org/)
+      - Visual regression testing with [BackstopJS](https://garris.github.io/BackstopJS/)
       - Integrating tests into Git workflows
-      - Working on feature branches
-      - Keeping feature branches up to date with `git rebase`
-      - Properly squashing and merging commits in a PR
-      - Crafting releases on GitHub
 readings:
   - "Mike Amundsen, <cite>Great Web APIs</cite>, Chapters&nbsp;6–8"
   - >
