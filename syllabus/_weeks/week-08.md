@@ -1,15 +1,16 @@
 ---
-theme: Code Quality and Automated Testing
+theme: Code Quality; More ExpressJS
 meetings:
   - agenda:
       - "**No class.**"
     video:
   - agenda:
+      - Setting up ExpressJS to serve HTTPS
+      - Working with environment variables
       - Linting with [eslint](https://eslint.org)
       - Stolley’s opinionated [eslint configs](https://github.com/karlstolley/eslint-config)
-      - Evaluating testing frameworks; [Mocha](https://mochajs.org/)
-      - Visual regression testing with [BackstopJS](https://garris.github.io/BackstopJS/)
-      - Integrating tests into Git workflows
+      - >
+        ExpressJS: code organization, routing essentials
 readings:
   - "Mike Amundsen, <cite>Great Web APIs</cite>, Chapters&nbsp;6–8"
   - >
