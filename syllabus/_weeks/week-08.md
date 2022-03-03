@@ -3,7 +3,6 @@ theme: Code Quality; More ExpressJS
 meetings:
   - agenda:
       - "**No class.**"
-    video:
   - agenda:
       - Setting up ExpressJS to serve HTTPS
       - Working with environment variables
@@ -11,6 +10,7 @@ meetings:
       - Stolley’s opinionated [eslint configs](https://github.com/karlstolley/eslint-config)
       - >
         ExpressJS: code organization, routing essentials
+    video: https://youtu.be/1OAHpH36ESU
 readings:
   - "Mike Amundsen, <cite>Great Web APIs</cite>, Chapters&nbsp;6–8"
   - >
