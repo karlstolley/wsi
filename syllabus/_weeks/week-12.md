@@ -1,17 +1,19 @@
 ---
-theme: "Readying for Production: Interconnection, Configuration, Security"
+theme: Databases
 meetings:
   - agenda:
-      - Server setup and security (Linode example)
-      - Key-based authentication over SSH
-      - Basic firewall ([ufw](https://code.launchpad.net/ufw))
-      - Basic testing to ensure server security
+      - Relational databases (MySQL and friends)
+      - Applications and use cases
+      - "Implementing document-style databases: MySQL example"
+      - "Configuration and connection: what to commit, what to obscure (`ENV` variables)"
+      - Seeding MySQL-style databases (MySQL example)
     video:
   - agenda:
-      - Setting up a shell and Git on the server
-      - Selecting a web server
-      - Using Git to manage configuration files
-      - Basic Nginx configuration
+      - Document-based databases (NoSQL and friends)
+      - Applications and use cases
+      - "Implementing document-style databases: MongoDB example"
+      - "Configuration and connection: what to commit, what to obscure (`ENV` variables)"
+      - Seeding NoSQL-style databases (MongoDB example)
     video:
 readings:
   - "Michael T. Nygard, <cite>Release It!</cite>: Chapters&nbsp;6–8"

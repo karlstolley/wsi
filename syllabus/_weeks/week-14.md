@@ -1,17 +1,12 @@
 ---
-theme: Test-Driven Refactoring
+theme: Reviews; Odds and Ends
 meetings:
   - agenda:
     - Introduce [Project Four](projects/#project-four)
     - Refresher on `NODE_ENV` values
-    - >
-      Building tests into the Git lifecycle
-      [with hooks](https://gist.github.com/karlstolley/466d8e1c06d8c36ac9aea69aefa16625);
-      watch the [supplemental video](https://youtu.be/dI4Yu4JZXcw)
     video:
   - agenda:
     - Testing with databases, especially setup and tear-down
-    - "Refresher: progressive enhancement in an app setting"
     - "Web API example: [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)"
     video:
 readings:
