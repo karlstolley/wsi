@@ -6,8 +6,6 @@ meetings:
   - agenda:
       - Setting up ExpressJS to serve HTTPS
       - Working with environment variables
-      - Linting with [eslint](https://eslint.org)
-      - Stolley’s opinionated [eslint configs](https://github.com/karlstolley/eslint-config)
       - >
         ExpressJS: code organization, routing essentials
     video: https://youtu.be/1OAHpH36ESU
