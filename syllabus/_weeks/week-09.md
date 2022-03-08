@@ -7,7 +7,7 @@ meetings:
       - Flat-file storage
       - Linting with [eslint](https://eslint.org)
       - Stolley’s opinionated [eslint configs](https://github.com/karlstolley/eslint-config)
-    video:
+    video: https://youtu.be/cugkg3kgOXE
   - agenda:
       - Evaluating testing frameworks; [Mocha](https://mochajs.org/)
       - Working on feature branches; staying up to date with `git rebase`
