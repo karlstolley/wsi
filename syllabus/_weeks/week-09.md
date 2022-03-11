@@ -14,6 +14,7 @@ meetings:
       - Properly squashing and merging commits in a PR
       - Handling merge conflicts like NBD
       - Crafting releases on GitHub
+    video: https://youtu.be/nobMFXGNcF0
 tasks:
   - Participate in Q&A Megathread on Basecamp
 ---
