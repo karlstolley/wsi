@@ -10,10 +10,6 @@ meetings:
     video: https://youtu.be/cugkg3kgOXE
   - agenda:
       - Evaluating testing frameworks; [Mocha](https://mochajs.org/)
-      - Working on feature branches; staying up to date with `git rebase`
-      - Properly squashing and merging commits in a PR
-      - Handling merge conflicts like NBD
-      - Crafting releases on GitHub
     video: https://youtu.be/nobMFXGNcF0
 tasks:
   - Participate in Q&A Megathread on Basecamp
