@@ -6,7 +6,7 @@ meetings:
       - Properly squashing and merging commits in a PR
       - Handling merge conflicts like NBD
       - Crafting releases on GitHub
-    video:
+    video: https://youtu.be/ISiQ2C2qWvI
   - agenda:
       - Web-system construction and code organization (ExpressJS example)
       - >
