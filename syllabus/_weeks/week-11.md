@@ -5,9 +5,9 @@ meetings:
       - Working on feature branches; staying up to date with `git rebase`
       - Properly squashing and merging commits in a PR
       - Handling merge conflicts like NBD
-      - Crafting releases on GitHub
     video: https://youtu.be/ISiQ2C2qWvI
   - agenda:
+      - Crafting releases on GitHub
       - Web-system construction and code organization (ExpressJS example)
       - >
         Writing tests on HTTP requests and responses with
