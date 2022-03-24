@@ -16,7 +16,7 @@ meetings:
       - >
         Building tests into the Git lifecycle
         [with hooks](https://gist.github.com/karlstolley/466d8e1c06d8c36ac9aea69aefa16625)
-    video:
+    video: https://youtu.be/oU9V-fj0v5w
 readings:
   - "Michael T. Nygard, <cite>Release It!</cite>: Preface, Chapters&nbsp;1–5"
   - "Mike Amundsen, <cite>Great Web APIs</cite>: Ch. 9–10"
