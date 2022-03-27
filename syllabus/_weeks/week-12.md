@@ -9,6 +9,7 @@ meetings:
       - Seeding SQL-style databases (SQLite example)
     video:
   - agenda:
+      - "**Online class**"
       - Document-based databases (NoSQL and friends)
       - Applications and use cases
       - "Implementing document-style databases: MongoDB example"
