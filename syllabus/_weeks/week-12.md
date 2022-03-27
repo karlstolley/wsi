@@ -4,9 +4,9 @@ meetings:
   - agenda:
       - Relational databases (MySQL and friends)
       - Applications and use cases
-      - "Implementing document-style databases: MySQL example"
+      - "Implementing relational databases: SQLite example"
       - "Configuration and connection: what to commit, what to obscure (`ENV` variables)"
-      - Seeding MySQL-style databases (MySQL example)
+      - Seeding SQL-style databases (SQLite example)
     video:
   - agenda:
       - Document-based databases (NoSQL and friends)
