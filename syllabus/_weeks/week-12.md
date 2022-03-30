@@ -16,7 +16,7 @@ meetings:
   - agenda:
       - "**Online class**"
       - Or work day? Alpha project due 3/31...
-    video:
+    video: https://youtu.be/kR8wQsq8Mp4
 readings:
   - "Michael T. Nygard, <cite>Release It!</cite>: Chapters&nbsp;6–8"
   - "Mike Amundsen, <cite>Great Web APIs</cite>: Chapters&nbsp;11–13"
