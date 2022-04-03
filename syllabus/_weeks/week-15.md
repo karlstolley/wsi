@@ -2,6 +2,7 @@
 theme: Deployment and Monitoring; CI/CD
 meetings:
   - agenda:
+      - Introduce [Project Four](projects/#project-four)
       - Git-based deployment strategies (custom scripts)
       - Nginx proxying
       - Deployment packages and libraries

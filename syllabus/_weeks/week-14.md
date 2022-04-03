@@ -1,13 +1,16 @@
 ---
-theme: Reviews; Odds and Ends
+theme: Web-Server Setup; Automated Deployment
 meetings:
   - agenda:
-    - Introduce [Project Four](projects/#project-four)
-    - Refresher on `NODE_ENV` values
+      - Selecting a web server
+      - Researching and implementing an Nginx server-block configuration
+      - Setting up `https` with [Certbot](https://certbot.eff.org/)
     video:
   - agenda:
-    - Testing with databases, especially setup and tear-down
-    - "Web API example: [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)"
+      - Setting up a shell and Git on the server
+      - Using Git to manage configuration files
+      - Refresher on `NODE_ENV` values
+      - Basic git-based deployment with `post-receive` hooks
     video:
 readings:
   - "Michael T. Nygard, <cite>Release It!</cite>: Chapters&nbsp;12–14"
@@ -20,3 +23,8 @@ readings:
 tasks:
   - Participate in Week Fourteen reading discussion on Basecamp
 ---
+
+<!--
+- Testing with databases, especially setup and tear-down
+- "Web API example: [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)"
+-->
