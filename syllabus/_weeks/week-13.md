@@ -11,7 +11,7 @@ meetings:
       - Key-based authentication over SSH
       - Basic firewall ([ufw](https://code.launchpad.net/ufw))
       - Basic checks to ensure server security
-    video:
+    video: https://youtu.be/X9qLxyyE4_c
 readings:
   - "Michael T. Nygard, <cite>Release It!</cite>: Chapters&nbsp;9–11"
 tasks:
