@@ -1,7 +1,7 @@
 ---
 title: Web System Public-Release Sprint
 due_date: &deadline 2022-05-05
-preview: true
+preview: false
 goals:
   - Quickly revise a system’s core functionality and features to ready an initial public release.
   - >

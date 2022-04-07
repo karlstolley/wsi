@@ -1,7 +1,7 @@
 ---
 title: Web System Beta-Release Cycle
-due_date: &deadline 2022-04-21
-preview: true
+due_date: &deadline 2022-04-28
+preview: false
 goals:
   - Analyze complex computing problems and apply principles of computing and other relevant
     disciplines to identify solutions
@@ -78,10 +78,10 @@ requirements:
     incur the technical debt and inherent risks of third-party dependencies. Consider also the
     technical debt and inherent risks of developing your own feature, of course.
   - >
-    Your system **should** support multiple runtime environments (e.g., development, staging,
-    testing, production). Your system’s configuration **must** be readily shareable among members of
-    your team. A system that tucks its configuration into a MySQL database, as WordPress does
-    (which, yuck), is almost certainly a non-starter.
+    Your system **should** support multiple runtime environments (e.g., development, testing,
+    production). Your system’s configuration **must** be readily shareable among members of your
+    team. A system that tucks its configuration into a MySQL database is almost certainly a
+    non-starter.
   - >
     Once deployed, your system **must** implement some type of continuous integration, continuous
     delivery, or continuous deployment method to safeguard and automate your deployment.
@@ -89,7 +89,10 @@ requirements:
     Once deployed, your system **must** be monitored by some type of lightweight monitoring software
     or process manager, such as [PM2](https://pm2.keymetrics.io/). Ideally, monitoring
     will be integrated to the extent possible with your deployment automation.
-
+  - >
+    Finally, like any temperamental client or manager, your instructor **may** amend, alter, or
+    complicate the requirements and deliverables listed here at any time—but **must** provide you
+    reasonable notice, via Basecamp, should that happen.
 deliverables:
   -
     action: "Due **weekly**: Post team progress reports weekly on the class Basecamp."
@@ -98,23 +101,11 @@ deliverables:
       writeup of your progress and struggles. Reference your project’s repositories, commits, and
       release notes by URL as appropriate.
   -
-    action: Schedule an early-cycle conference with the instructor.
-    description: >
-      Sometime during the week of March 29 you and your team will have a virtual chat of about
-      thirty minutes with the instructor. Watch for scheduling details on Basecamp.
-    deadline: 2021-03-28
-  -
     action: Schedule a mid-cycle conference with the instructor.
     description: >
-      Sometime during the week of April 12 you and your team will have a virtual chat of about
+      Sometime during the week of April 18 you and your team will have a virtual chat of about
       thirty minutes with the instructor. Watch for scheduling details on Basecamp.
-    deadline: 2021-04-08
-  -
-    action: Schedule a late-cycle conference with the instructor.
-    description: >
-      Sometime during the week of April 26 you and your team will have a virtual chat of about
-      thirty minutes with the instructor. Watch for scheduling details on Basecamp.
-    deadline: 2021-04-22
+    deadline: 2021-04-18
   -
     action: Post your final beta release project to Basecamp.
     description: >
@@ -126,15 +117,14 @@ deliverables:
     action: Email self and group-member critique memo to the instructor.
     description: >
       Write at least 5–7 sentences assessing your own work on the project so far, and for each group
-      member a 3–5-sentence assessment.
+      member a 3–5-sentence assessment. Be sure to include links to your team repository as well
+      as your individual fork of it.
     deadline: *deadline
 ---
 
 In this second of three cycles, you and your team will push your system beyond its alpha stages to
 achieve greater stability and test coverage along with some kind of build pipeline and
 continuous-integration approach to produce and deploy a series of `0.x.x-beta.x` releases.
-
-<!--
 
 Plan to include unit, functional, and integration test coverage as early in your process as
 possible. In fact, aim for 100% test coverage of your existing, alpha code before you move on to any
@@ -144,5 +134,3 @@ Note that the requirements listed with this project are the overall system requi
 final version to be delivered on Thursday, May 13. By the end of the beta cycle, you should have met
 all of these requirements. Be sure to take stock of them early in this cycle, and contact the
 instructor immediately if you’re concerned about any of them.
-
--->
