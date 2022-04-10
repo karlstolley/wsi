@@ -2,6 +2,7 @@
 theme: Web-Server Setup
 meetings:
   - agenda:
+      - "**Online class.**"
       - Setting up a shell and Git on the server
       - Using Git to manage configuration files
       - Selecting and configuring a web server
