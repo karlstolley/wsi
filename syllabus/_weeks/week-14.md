@@ -1,16 +1,15 @@
 ---
-theme: Web-Server Setup; Automated Deployment
+theme: Web-Server Setup
 meetings:
-  - agenda:
-      - Selecting a web server
-      - Researching and implementing an Nginx server-block configuration
-      - Setting up `https` with [Certbot](https://certbot.eff.org/)
-    video:
   - agenda:
       - Setting up a shell and Git on the server
       - Using Git to manage configuration files
-      - Refresher on `NODE_ENV` values
-      - Basic git-based deployment with `post-receive` hooks
+      - Selecting and configuring a web server
+      - Opening up `ufw` to web traffic
+    video:
+  - agenda:
+      - Researching and implementing an Nginx server-block configuration
+      - Setting up `https` with [Certbot](https://certbot.eff.org/)
     video:
 readings:
   - "Michael T. Nygard, <cite>Release It!</cite>: Chapters&nbsp;12–14"
