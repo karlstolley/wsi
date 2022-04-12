@@ -7,7 +7,7 @@ meetings:
       - Using Git to manage configuration files
       - Selecting and configuring a web server
       - Opening up `ufw` to web traffic
-    video:
+    video: https://youtu.be/CwK69bR-An0
   - agenda:
       - Researching and implementing an Nginx server-block configuration
       - Setting up `https` with [Certbot](https://certbot.eff.org/)
