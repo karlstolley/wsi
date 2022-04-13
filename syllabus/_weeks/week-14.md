@@ -9,6 +9,7 @@ meetings:
       - Opening up `ufw` to web traffic
     video: https://youtu.be/CwK69bR-An0
   - agenda:
+      - "**Online class.**"
       - Researching and implementing an Nginx server-block configuration
       - Setting up `https` with [Certbot](https://certbot.eff.org/)
     video:
