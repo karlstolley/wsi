@@ -12,7 +12,7 @@ meetings:
       - "**Online class.**"
       - Researching and implementing an Nginx server-block configuration
       - Setting up `https` with [Certbot](https://certbot.eff.org/)
-    video:
+    video: https://youtu.be/dsYQOUFQDt4
 readings:
   - "Michael T. Nygard, <cite>Release It!</cite>: Chapters&nbsp;12–17"
   - >
