@@ -4,12 +4,13 @@ meetings:
   - agenda:
       - Introduce [Project Four](projects/#project-four)
       - Git-based deployment strategies (custom scripts)
-      - Refresher on `NODE_ENV` values
-      - Basic git-based deployment with `post-receive` hooks
-      - Nginx proxying
-      - Deployment packages and libraries
+      - Refresher on Node and environment values
+      - >
+        Basic git-based deployment with [`post-receive` hooks](https://gist.github.com/profstolley/9d4baf6e73be444c900c19a8d5458ddb#file-post-receive)
+      - >
+        Nginx [server-block proxy configuration](https://gist.github.com/profstolley/9d4baf6e73be444c900c19a8d5458ddb#file-proxy-nginx-conf)
       - Robust deployment with [pm2](https://pm2.keymetrics.io/docs/usage/deployment/)
-      - Simple use of pm2 to start, monitor, and keep an app running
+      - Basic use of pm2 to start, monitor, and keep an app running
     video:
   - agenda:
       - "**No class.** Stolley available to answer questions on Basecamp."
