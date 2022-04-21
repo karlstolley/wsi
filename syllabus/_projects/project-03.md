@@ -101,12 +101,6 @@ deliverables:
       writeup of your progress and struggles. Reference your project’s repositories, commits, and
       release notes by URL as appropriate.
   -
-    action: Schedule a mid-cycle conference with the instructor.
-    description: >
-      Sometime during the week of April 18 you and your team will have a virtual chat of about
-      thirty minutes with the instructor. Watch for scheduling details on Basecamp.
-    deadline: 2021-04-18
-  -
     action: Post your final beta release project to Basecamp.
     description: >
       Provide a team-authored report of your progress and challenges during the beta cycle. Note
