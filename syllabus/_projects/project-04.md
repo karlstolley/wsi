@@ -4,9 +4,6 @@ due_date: &deadline 2022-05-05
 preview: false
 goals:
   - Quickly revise a system’s core functionality and features to ready an initial public release.
-  - >
-    Learn to automate deployment using a method like CI or CD to safeguard its uptime and
-    availability.
   - Monitor your system in production.
 requirements:
   - >
@@ -17,9 +14,6 @@ requirements:
   - >
     Your deployment strategy **must** include the ability to roll back to an earlier, known stable
     version.
-  - >
-    Once deployed, your system **must** implement some type of continuous integration, continuous
-    delivery, or continuous deployment method to safeguard and automate your deployment.
   - >
     Once deployed, your system **must** be monitored by some type of lightweight monitoring software
     or process manager, such as [PM2](https://pm2.keymetrics.io/). Ideally, monitoring
@@ -44,3 +38,13 @@ deliverables:
 Due to the semester’s time constraints (and an imagined impatient manager), this final cycle will
 deviate from the measured cycles for your system’s alpha and beta releases, and instead focus on a
 ten-day sprint to ship a `1.x.x` version for public release.
+
+<!--
+  - >
+    Learn to automate deployment using a method like CI or CD to safeguard its uptime and
+    availability.
+
+  - >
+    Once deployed, your system **must** implement some type of continuous integration, continuous
+    delivery, or continuous deployment method to safeguard and automate your deployment.
+-->
