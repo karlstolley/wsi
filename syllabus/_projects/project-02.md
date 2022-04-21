@@ -83,9 +83,6 @@ requirements:
     team. A system that tucks its configuration into a MySQL database is almost certainly a
     non-starter.
   - >
-    Once deployed, your system **must** implement some type of continuous integration, continuous
-    delivery, or continuous deployment method to safeguard and automate your deployment.
-  - >
     Once deployed, your system **must** be monitored by some type of lightweight monitoring software
     or process manager, such as [PM2](https://pm2.keymetrics.io/). Ideally, monitoring
     will be integrated to the extent possible with your deployment automation.
@@ -154,3 +151,9 @@ final version to be delivered on Thursday, May 5. You and your team should choos
 requirements to focus on at the alpha stage, and which to defer until the beta stage. For example,
 there is no requirement to deploy your system at the alpha stage, so your group might elect to defer
 deployment-oriented requirements until the beta stage (aka Project Three).
+
+<!--
+- >
+  Once deployed, your system **must** implement some type of continuous integration, continuous
+  delivery, or continuous deployment method to safeguard and automate your deployment.
+-->
