@@ -15,4 +15,11 @@ meetings:
   - agenda:
       - "**No class.** Stolley available to answer questions on Basecamp."
     video:
+readings:
+  - >
+    (Optional) Course Video: https://youtu.be/z-xVZXnqRF8
+  - (Optional) Using [TravisCI on GitHub](https://docs.travis-ci.com/user/languages/javascript-with-nodejs/)
+  - >
+    (Optional) Including a [TravisCI status image](https://docs.travis-ci.com/user/status-images/)
+    in your README file (or elsewhere)
 ---
